@@ -1,115 +1,115 @@
-Test Sponsor,System Name,Parallel,BaseThreads,EnabledCores,EnabledChips,Threads/Core,Base,Peak,BaseEnergy,PeakEnergy,Unnamed: 11
-HPE,"Integrity Superdome X (384 core, 2.20 GHz, Intel Xeon E7-8890 v4)",No,384,384,16,2,5.31,5.86,--,--,
-HPE,"ProLiant DL580 Gen9 (2.20 GHz, Intel Xeon E7-8890 v4)",No,96,96,4,1,5.35,5.95,--,--,
-HPE,"ProLiant ML350 Gen9 (2.20 GHz, Intel Xeon E5-2699 v4)",No,44,44,2,1,5.8,6.43,--,--,
-Oracle Corporation,Sun Fire V490,Yes,1,8,4,1,1.0,Not Run,1.00,--,
-Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6150, 2.70GHz)",Yes,36,36,2,1,8.81,9.09,--,--,
-Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8156, 3.60GHz)",Yes,8,8,2,1,8.26,8.53,--,--,
-Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6154, 3.00GHz)",Yes,36,36,2,1,8.92,9.16,--,--,
-Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6140, 2.30GHz)",Yes,72,72,4,1,8.87,9.14,--,--,
-Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5120, 2.20GHz)",Yes,28,28,2,1,7.7,7.92,--,--,
-Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5118, 2.30GHz)",Yes,24,24,2,1,7.62,7.81,--,--,
-Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6146, 3.20GHz)",Yes,24,24,2,1,9.79,Not Run,--,--,
-Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6146, 3.20GHz)",Yes,48,48,4,1,9.88,Not Run,--,--,
-Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8158, 3.00GHz)",Yes,24,24,2,1,8.87,9.15,--,--,
-Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6132, 2.60GHz)",Yes,28,28,2,1,8.71,8.97,--,--,
-Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6150, 2.70GHz)",Yes,36,36,2,1,8.93,9.16,--,--,
-Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8158, 3.00GHz)",Yes,48,48,4,1,8.87,9.15,--,--,
-Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5120, 2.20GHz)",Yes,28,28,2,1,7.71,7.94,--,--,
-Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8170, 2.10GHz)",Yes,104,104,4,1,9.04,9.35,--,--,
-Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6154, 3.00GHz)",Yes,36,36,2,1,8.88,9.14,--,--,
-Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8180, 2.50 GHz)",Yes,112,112,4,1,9.33,9.59,--,--,
-Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6144, 3.50 GHz)",Yes,32,32,4,1,9.76,10.0,--,--,
-Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8153, 2.00 GHz)",Yes,64,64,4,1,6.98,7.19,--,--,
-Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8156, 3.60 GHz)",Yes,16,16,4,1,8.48,8.72,--,--,
-Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8158, 3.00 GHz)",Yes,48,48,4,1,8.87,9.11,--,--,
-Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8160, 2.10 GHz)",Yes,96,96,4,1,9.03,9.30,--,--,
-Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8164, 2.00 GHz)",Yes,104,104,4,1,9.09,9.34,--,--,
-Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8168, 2.70 GHz)",Yes,96,96,4,1,9.0,9.32,--,--,
-Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8170, 2.10 GHz)",Yes,104,104,4,1,9.09,9.34,--,--,
-Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8176, 2.10 GHz)",Yes,112,112,4,1,9.32,9.62,--,--,
-HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Platinum 8170)",Yes,52,52,2,1,8.96,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Platinum 8176)",Yes,56,56,2,1,9.16,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (3.00 GHz, Intel Xeon Gold 6154)",Yes,36,36,2,1,8.83,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.70 GHz, Intel Xeon Gold 6150)",Yes,36,36,2,1,8.8,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.50 GHz, Intel Xeon Platinum 8180)",Yes,56,56,2,1,9.2,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Gold 6130)",Yes,32,32,2,1,8.75,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.50 GHz, Intel Xeon Platinum 8180M)",Yes,56,56,2,1,9.23,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.60 GHz, Intel Xeon Gold 6126)",Yes,24,24,2,1,8.63,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.40 GHz, Intel Xeon Gold 6148)",Yes,40,40,2,1,8.87,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (3.00 GHz, Intel Xeon Gold 6136)",Yes,24,24,2,1,8.8,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.00 GHz, Intel Xeon Platinum 8153)",Yes,32,32,2,1,6.9,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Silver 4116)",Yes,24,24,2,1,7.07,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Platinum 8160)",Yes,48,48,2,1,8.9,9.21,--,--,
-HPE,"ProLiant DL380 Gen10 (3.00 GHz, Intel Xeon Platinum 8158)",Yes,24,24,2,1,8.78,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.70 GHz, Intel Xeon Platinum 8168)",Yes,48,48,2,1,8.92,9.24,--,--,
-HPE,"ProLiant DL380 Gen10 (3.60 GHz, Intel Xeon Platinum 8156)",Yes,8,8,2,1,8.17,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.00 GHz, Intel Xeon Platinum 8164)",Yes,52,52,2,1,8.95,9.26,--,--,
-HPE,"ProLiant DL380 Gen10 (2.50 GHz, Intel Xeon Platinum 8180M)",Yes,56,56,2,1,9.19,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (3.20 GHz, Intel Xeon Gold 6146)",Yes,24,24,2,1,9.7,Not Run,--,--,
-HPE,"Synergy 480 Gen10 (3.00 GHz, Intel Xeon Gold 6154)",Yes,36,36,2,1,8.75,Not Run,--,--,
-HPE,"ProLiant DL560 Gen10 (3.00 GHz, Intel Xeon Platinum 8158)",Yes,48,48,4,1,8.75,Not Run,--,--,
-HPE,"Synergy 480 Gen10 (2.10 GHz, Intel Xeon Gold 6130)",Yes,32,32,2,1,8.65,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.20 GHz, Intel Xeon Silver 4114)",Yes,20,20,2,1,7.01,Not Run,--,--,
-HPE,"ProLiant DL560 Gen10 (3.60 GHz, Intel Xeon Platinum 8156)",Yes,16,16,4,1,8.44,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.70 GHz, Intel Xeon Platinum 8168)",Yes,48,48,2,1,8.95,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.60 GHz, Intel Xeon Gold 6142)",Yes,32,32,2,1,8.76,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Platinum 8176)",Yes,56,56,2,1,9.19,Not Run,--,--,
-HPE,"ProLiant DL560 Gen10 (2.10 GHz, Intel Xeon Platinum 8160)",Yes,96,96,4,1,8.86,Not Run,--,--,
-HPE,"ProLiant DL560 Gen10 (2.00 GHz, Intel Xeon Platinum 8153)",Yes,64,64,4,1,6.89,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (1.80 GHz, Intel Xeon Silver 4108)",Yes,16,16,2,1,6.85,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Silver 4116)",Yes,24,24,2,1,7.08,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.60 GHz, Intel Xeon Silver 4112)",Yes,8,8,2,1,6.61,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.20 GHz, Intel Xeon Silver 4114)",Yes,20,20,2,1,7.02,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.40 GHz, Intel Xeon Gold 6148)",Yes,40,40,2,1,8.88,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.60 GHz, Intel Xeon Gold 6126)",Yes,24,24,2,1,8.63,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.30 GHz, Intel Xeon Gold 6140)",Yes,36,36,2,1,8.79,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.60 GHz, Intel Xeon Silver 4112)",Yes,8,8,2,1,6.63,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Gold 6152)",Yes,44,44,2,1,8.89,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.60 GHz, Intel Xeon Gold 6132)",Yes,28,28,2,1,8.64,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.60 GHz, Intel Xeon Gold 6132)",Yes,28,28,2,1,8.64,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (3.40 GHz, Intel Xeon Gold 6128)",Yes,12,12,2,1,8.32,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Silver 4110)",Yes,16,16,2,1,6.89,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (1.80 GHz, Intel Xeon Silver 4108)",Yes,16,16,2,1,6.87,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (3.60 GHz, Intel Xeon Gold 5122)",Yes,8,8,2,1,8.17,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.30 GHz, Intel Xeon Gold 6140)",Yes,36,36,2,1,8.8,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.00 GHz, Intel Xeon Gold 6138)",Yes,40,40,2,1,8.84,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.60 GHz, Intel Xeon Gold 6142)",Yes,32,32,2,1,8.74,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.00 GHz, Intel Xeon Gold 6138)",Yes,40,40,2,1,8.84,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.00 GHz, Intel Xeon Platinum 8164)",Yes,52,52,2,1,8.98,Not Run,--,--,
-HPE,"Synergy 480 Gen10 (2.60 GHz, Intel Xeon Gold 6142)",Yes,32,32,2,1,8.7,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (3.20 GHz, Intel Xeon Gold 6134)",Yes,16,16,2,1,8.74,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (3.20 GHz, Intel Xeon Gold 6134)",Yes,16,16,2,1,8.77,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Gold 6152)",Yes,44,44,2,1,8.91,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (3.00 GHz, Intel Xeon Platinum 8158)",Yes,24,24,2,1,8.78,Not Run,--,--,
-HPE,"Synergy 480 Gen10 (2.10 GHz, Intel Xeon Gold 6152)",Yes,44,44,2,1,8.85,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (3.00 GHz, Intel Xeon Gold 6154)",Yes,36,36,2,1,8.82,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Platinum 8160)",Yes,48,48,2,1,8.92,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (2.80 GHz, Intel Xeon Gold 6143)",Yes,32,32,2,1,9.31,Not Run,--,--,
-HPE,"Synergy 480 Gen10 (2.40 GHz, Intel Xeon Gold 6148)",Yes,40,40,2,1,8.76,Not Run,--,--,
-HPE,"ProLiant DL380 Gen10 (3.50 GHz, Intel Xeon Gold 6144)",Yes,16,16,2,1,9.69,Not Run,--,--,
-HPE,"ProLiant DL360 Gen10 (3.20 GHz, Intel Xeon Gold 6146)",Yes,24,24,2,1,9.73,Not Run,--,--,
-HPE,"Synergy 480 Gen10 (2.70 GHz, Intel Xeon Gold 6150)",Yes,36,36,2,1,8.72,Not Run,--,--,
-Huawei,Huawei 2288H V5 (Intel Xeon Platinum 8180),Yes,56,56,2,1,9.46,9.79,--,--,
-Huawei,Huawei 1288H V5 (Intel Xeon Platinum 8180),Yes,112,56,2,1,9.47,9.75,--,--,
-Huawei,Huawei CH121 V5 (Intel Xeon Platinum 8180),Yes,112,56,2,1,9.43,9.76,--,--,
-Huawei,Huawei 2288H V5 (Intel Xeon Platinum 8180),Yes,112,56,2,1,9.46,9.75,--,--,
-Lenovo Global Technology,"ThinkSystem SR630 (2.50 GHz, Intel Xeon Platinum 8180)",Yes,28,28,1,1,9.34,9.62,--,--,
-Lenovo Global Technology,"ThinkSystem SR630 (2.50 GHz, Intel Xeon Platinum 8180)",Yes,56,56,2,1,9.31,9.56,--,--,
-Lenovo Global Technology,"ThinkSystem SR650 (2.50 GHz, Intel Xeon Platinum 8180)",Yes,56,56,2,1,9.31,9.53,--,--,
-Lenovo Global Technology,"ThinkSystem SR950 (2.50 GHz, Intel Xeon Platinum 8180)",Yes,112,112,4,1,9.34,9.64,--,--,
-Lenovo Global Technology,"ThinkSystem SR950 (2.50 GHz, Intel Xeon Platinum 8180)",Yes,224,224,8,1,9.37,9.62,--,--,
-Lenovo Global Technology,"ThinkSystem SR950 (2.30 GHz, Intel Xeon Gold 6140)",Yes,72,72,4,1,8.9,9.12,--,--,
-Lenovo Global Technology,"ThinkSystem SR950 (2.70 GHz, Intel Xeon Platinum 8168)",Yes,96,96,4,1,9.05,9.31,--,--,
-Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8170)",Yes,104,104,4,1,9.1,9.38,--,--,
-Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8170M)",Yes,104,104,4,1,9.06,9.34,--,--,
-Lenovo Global Technology,"ThinkSystem SR850 (2.30 GHz, Intel Xeon Gold 6140)",Yes,72,72,4,1,8.85,9.04,--,--,
-Lenovo Global Technology,"ThinkSystem SR650 (2.70 GHz, Intel Xeon Gold 6150)",Yes,36,36,2,1,8.83,9.08,--,--,
-Lenovo Global Technology,"ThinkSystem SR650 (2.10 GHz, Intel Xeon Gold 6152)",Yes,44,44,2,1,8.89,9.18,--,--,
-Lenovo Global Technology,"ThinkSystem SR650 (2.00 GHz, Intel Xeon Platinum 8164)",Yes,52,52,2,1,9.02,9.31,--,--,
-Lenovo Global Technology,"ThinkSystem SR650 (2.10 GHz, Intel Xeon Platinum 8170)",Yes,52,52,2,1,9.06,9.32,--,--,
-Lenovo Global Technology,"ThinkSystem SR630 (2.10 GHz, Intel Xeon Platinum 8160)",Yes,48,48,2,1,9.0,9.29,--,--,
-Lenovo Global Technology,"ThinkSystem SR530 (2.10 GHz, Intel Xeon Silver 4110)",Yes,16,16,2,1,6.91,7.11,--,--,
-Lenovo Global Technology,"ThinkSystem SR530 (2.20 GHz, Intel Xeon Silver 4114)",Yes,20,20,2,1,7.03,7.24,--,--,
-Lenovo Global Technology,"ThinkSystem SR530 (2.60 GHz, Intel Xeon Gold 6126T)",Yes,24,24,2,1,8.63,8.91,--,--,
-Lenovo Global Technology,"ThinkSystem SR530 (2.00 GHz, Intel Xeon Gold 6138)",Yes,40,40,2,1,8.91,9.17,--,--,
+Company,System,Parallel,BaseThreads,EnabledCores,EnabledChips,ThreadsPerCore,Base,Peak,BaseEnergy,PeakEnergy,CPU,SCPU,CPU0
+HPE,"Integrity Superdome X (2.20 GHz, Intel Xeon E7-8890 v4)",No,384,384,16,2,5.31,5.86,--,--,"2.20 GHz, Intel Xeon E7-8890 v4",Intel Xeon E7-8890 v4,Intel Xeon E7-8890 v4
+HPE,"ProLiant DL580 Gen9 (2.20 GHz, Intel Xeon E7-8890 v4)",No,96,96,4,1,5.35,5.95,--,--,"2.20 GHz, Intel Xeon E7-8890 v4",Intel Xeon E7-8890 v4,Intel Xeon E7-8890 v4
+HPE,"ProLiant ML350 Gen9 (2.20 GHz, Intel Xeon E5-2699 v4)",No,44,44,2,1,5.8,6.43,--,--,"2.20 GHz, Intel Xeon E5-2699 v4",Intel Xeon E5-2699 v4,Intel Xeon E5-2699 v4
+Oracle Corporation,Sun Fire V490(UltraSPARC IV+),Yes,1,8,4,1,1.0,Not Run,1.00,--,UltraSPARC IV+,UltraSPARC IV+,UltraSPARC IV+
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6150, 2.70GHz)",Yes,36,36,2,1,8.81,9.09,--,--,"Intel Xeon Gold 6150, 2.70GHz","Intel Xeon Gold 6150, 2.70GHz",Intel Xeon Gold 6150
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8156, 3.60GHz)",Yes,8,8,2,1,8.26,8.53,--,--,"Intel Xeon Platinum 8156, 3.60GHz","Intel Xeon Platinum 8156, 3.60GHz",Intel Xeon Platinum 8156
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6154, 3.00GHz)",Yes,36,36,2,1,8.92,9.16,--,--,"Intel Xeon Gold 6154, 3.00GHz","Intel Xeon Gold 6154, 3.00GHz",Intel Xeon Gold 6154
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6140, 2.30GHz)",Yes,72,72,4,1,8.87,9.14,--,--,"Intel Xeon Gold 6140, 2.30GHz","Intel Xeon Gold 6140, 2.30GHz",Intel Xeon Gold 6140
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5120, 2.20GHz)",Yes,28,28,2,1,7.7,7.92,--,--,"Intel Xeon Gold 5120, 2.20GHz","Intel Xeon Gold 5120, 2.20GHz",Intel Xeon Gold 5120
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5118, 2.30GHz)",Yes,24,24,2,1,7.62,7.81,--,--,"Intel Xeon Gold 5118, 2.30GHz","Intel Xeon Gold 5118, 2.30GHz",Intel Xeon Gold 5118
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6146, 3.20GHz)",Yes,24,24,2,1,9.79,Not Run,--,--,"Intel Xeon Gold 6146, 3.20GHz","Intel Xeon Gold 6146, 3.20GHz",Intel Xeon Gold 6146
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6146, 3.20GHz)",Yes,48,48,4,1,9.88,Not Run,--,--,"Intel Xeon Gold 6146, 3.20GHz","Intel Xeon Gold 6146, 3.20GHz",Intel Xeon Gold 6146
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8158, 3.00GHz)",Yes,24,24,2,1,8.87,9.15,--,--,"Intel Xeon Platinum 8158, 3.00GHz","Intel Xeon Platinum 8158, 3.00GHz",Intel Xeon Platinum 8158
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6132, 2.60GHz)",Yes,28,28,2,1,8.71,8.97,--,--,"Intel Xeon Gold 6132, 2.60GHz","Intel Xeon Gold 6132, 2.60GHz",Intel Xeon Gold 6132
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6150, 2.70GHz)",Yes,36,36,2,1,8.93,9.16,--,--,"Intel Xeon Gold 6150, 2.70GHz","Intel Xeon Gold 6150, 2.70GHz",Intel Xeon Gold 6150
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8158, 3.00GHz)",Yes,48,48,4,1,8.87,9.15,--,--,"Intel Xeon Platinum 8158, 3.00GHz","Intel Xeon Platinum 8158, 3.00GHz",Intel Xeon Platinum 8158
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5120, 2.20GHz)",Yes,28,28,2,1,7.71,7.94,--,--,"Intel Xeon Gold 5120, 2.20GHz","Intel Xeon Gold 5120, 2.20GHz",Intel Xeon Gold 5120
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8170, 2.10GHz)",Yes,104,104,4,1,9.04,9.35,--,--,"Intel Xeon Platinum 8170, 2.10GHz","Intel Xeon Platinum 8170, 2.10GHz",Intel Xeon Platinum 8170
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6154, 3.00GHz)",Yes,36,36,2,1,8.88,9.14,--,--,"Intel Xeon Gold 6154, 3.00GHz","Intel Xeon Gold 6154, 3.00GHz",Intel Xeon Gold 6154
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8180, 2.50 GHz)",Yes,112,112,4,1,9.33,9.59,--,--,"Intel Xeon Platinum 8180, 2.50 GHz","Intel Xeon Platinum 8180, 2.50 GHz",Intel Xeon Platinum 8180
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6144, 3.50 GHz)",Yes,32,32,4,1,9.76,10.0,--,--,"Intel Xeon Gold 6144, 3.50 GHz","Intel Xeon Gold 6144, 3.50 GHz",Intel Xeon Gold 6144
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8153, 2.00 GHz)",Yes,64,64,4,1,6.98,7.19,--,--,"Intel Xeon Platinum 8153, 2.00 GHz","Intel Xeon Platinum 8153, 2.00 GHz",Intel Xeon Platinum 8153
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8156, 3.60 GHz)",Yes,16,16,4,1,8.48,8.72,--,--,"Intel Xeon Platinum 8156, 3.60 GHz","Intel Xeon Platinum 8156, 3.60 GHz",Intel Xeon Platinum 8156
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8158, 3.00 GHz)",Yes,48,48,4,1,8.87,9.11,--,--,"Intel Xeon Platinum 8158, 3.00 GHz","Intel Xeon Platinum 8158, 3.00 GHz",Intel Xeon Platinum 8158
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8160, 2.10 GHz)",Yes,96,96,4,1,9.03,9.30,--,--,"Intel Xeon Platinum 8160, 2.10 GHz","Intel Xeon Platinum 8160, 2.10 GHz",Intel Xeon Platinum 8160
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8164, 2.00 GHz)",Yes,104,104,4,1,9.09,9.34,--,--,"Intel Xeon Platinum 8164, 2.00 GHz","Intel Xeon Platinum 8164, 2.00 GHz",Intel Xeon Platinum 8164
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8168, 2.70 GHz)",Yes,96,96,4,1,9.0,9.32,--,--,"Intel Xeon Platinum 8168, 2.70 GHz","Intel Xeon Platinum 8168, 2.70 GHz",Intel Xeon Platinum 8168
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8170, 2.10 GHz)",Yes,104,104,4,1,9.09,9.34,--,--,"Intel Xeon Platinum 8170, 2.10 GHz","Intel Xeon Platinum 8170, 2.10 GHz",Intel Xeon Platinum 8170
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8176, 2.10 GHz)",Yes,112,112,4,1,9.32,9.62,--,--,"Intel Xeon Platinum 8176, 2.10 GHz","Intel Xeon Platinum 8176, 2.10 GHz",Intel Xeon Platinum 8176
+HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Platinum 8170)",Yes,52,52,2,1,8.96,Not Run,--,--,"2.10 GHz, Intel Xeon Platinum 8170",Intel Xeon Platinum 8170,Intel Xeon Platinum 8170
+HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Platinum 8176)",Yes,56,56,2,1,9.16,Not Run,--,--,"2.10 GHz, Intel Xeon Platinum 8176",Intel Xeon Platinum 8176,Intel Xeon Platinum 8176
+HPE,"ProLiant DL380 Gen10 (3.00 GHz, Intel Xeon Gold 6154)",Yes,36,36,2,1,8.83,Not Run,--,--,"3.00 GHz, Intel Xeon Gold 6154",Intel Xeon Gold 6154,Intel Xeon Gold 6154
+HPE,"ProLiant DL360 Gen10 (2.70 GHz, Intel Xeon Gold 6150)",Yes,36,36,2,1,8.8,Not Run,--,--,"2.70 GHz, Intel Xeon Gold 6150",Intel Xeon Gold 6150,Intel Xeon Gold 6150
+HPE,"ProLiant DL380 Gen10 (2.50 GHz, Intel Xeon Platinum 8180)",Yes,56,56,2,1,9.2,Not Run,--,--,"2.50 GHz, Intel Xeon Platinum 8180",Intel Xeon Platinum 8180,Intel Xeon Platinum 8180
+HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Gold 6130)",Yes,32,32,2,1,8.75,Not Run,--,--,"2.10 GHz, Intel Xeon Gold 6130",Intel Xeon Gold 6130,Intel Xeon Gold 6130
+HPE,"ProLiant DL360 Gen10 (2.50 GHz, Intel Xeon Platinum 8180M)",Yes,56,56,2,1,9.23,Not Run,--,--,"2.50 GHz, Intel Xeon Platinum 8180M",Intel Xeon Platinum 8180M,Intel Xeon Platinum 8180M
+HPE,"ProLiant DL360 Gen10 (2.60 GHz, Intel Xeon Gold 6126)",Yes,24,24,2,1,8.63,Not Run,--,--,"2.60 GHz, Intel Xeon Gold 6126",Intel Xeon Gold 6126,Intel Xeon Gold 6126
+HPE,"ProLiant DL360 Gen10 (2.40 GHz, Intel Xeon Gold 6148)",Yes,40,40,2,1,8.87,Not Run,--,--,"2.40 GHz, Intel Xeon Gold 6148",Intel Xeon Gold 6148,Intel Xeon Gold 6148
+HPE,"ProLiant DL360 Gen10 (3.00 GHz, Intel Xeon Gold 6136)",Yes,24,24,2,1,8.8,Not Run,--,--,"3.00 GHz, Intel Xeon Gold 6136",Intel Xeon Gold 6136,Intel Xeon Gold 6136
+HPE,"ProLiant DL380 Gen10 (2.00 GHz, Intel Xeon Platinum 8153)",Yes,32,32,2,1,6.9,Not Run,--,--,"2.00 GHz, Intel Xeon Platinum 8153",Intel Xeon Platinum 8153,Intel Xeon Platinum 8153
+HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Silver 4116)",Yes,24,24,2,1,7.07,Not Run,--,--,"2.10 GHz, Intel Xeon Silver 4116",Intel Xeon Silver 4116,Intel Xeon Silver 4116
+HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Platinum 8160)",Yes,48,48,2,1,8.9,9.21,--,--,"2.10 GHz, Intel Xeon Platinum 8160",Intel Xeon Platinum 8160,Intel Xeon Platinum 8160
+HPE,"ProLiant DL380 Gen10 (3.00 GHz, Intel Xeon Platinum 8158)",Yes,24,24,2,1,8.78,Not Run,--,--,"3.00 GHz, Intel Xeon Platinum 8158",Intel Xeon Platinum 8158,Intel Xeon Platinum 8158
+HPE,"ProLiant DL380 Gen10 (2.70 GHz, Intel Xeon Platinum 8168)",Yes,48,48,2,1,8.92,9.24,--,--,"2.70 GHz, Intel Xeon Platinum 8168",Intel Xeon Platinum 8168,Intel Xeon Platinum 8168
+HPE,"ProLiant DL380 Gen10 (3.60 GHz, Intel Xeon Platinum 8156)",Yes,8,8,2,1,8.17,Not Run,--,--,"3.60 GHz, Intel Xeon Platinum 8156",Intel Xeon Platinum 8156,Intel Xeon Platinum 8156
+HPE,"ProLiant DL380 Gen10 (2.00 GHz, Intel Xeon Platinum 8164)",Yes,52,52,2,1,8.95,9.26,--,--,"2.00 GHz, Intel Xeon Platinum 8164",Intel Xeon Platinum 8164,Intel Xeon Platinum 8164
+HPE,"ProLiant DL380 Gen10 (2.50 GHz, Intel Xeon Platinum 8180M)",Yes,56,56,2,1,9.19,Not Run,--,--,"2.50 GHz, Intel Xeon Platinum 8180M",Intel Xeon Platinum 8180M,Intel Xeon Platinum 8180M
+HPE,"ProLiant DL380 Gen10 (3.20 GHz, Intel Xeon Gold 6146)",Yes,24,24,2,1,9.7,Not Run,--,--,"3.20 GHz, Intel Xeon Gold 6146",Intel Xeon Gold 6146,Intel Xeon Gold 6146
+HPE,"Synergy 480 Gen10 (3.00 GHz, Intel Xeon Gold 6154)",Yes,36,36,2,1,8.75,Not Run,--,--,"3.00 GHz, Intel Xeon Gold 6154",Intel Xeon Gold 6154,Intel Xeon Gold 6154
+HPE,"ProLiant DL560 Gen10 (3.00 GHz, Intel Xeon Platinum 8158)",Yes,48,48,4,1,8.75,Not Run,--,--,"3.00 GHz, Intel Xeon Platinum 8158",Intel Xeon Platinum 8158,Intel Xeon Platinum 8158
+HPE,"Synergy 480 Gen10 (2.10 GHz, Intel Xeon Gold 6130)",Yes,32,32,2,1,8.65,Not Run,--,--,"2.10 GHz, Intel Xeon Gold 6130",Intel Xeon Gold 6130,Intel Xeon Gold 6130
+HPE,"ProLiant DL380 Gen10 (2.20 GHz, Intel Xeon Silver 4114)",Yes,20,20,2,1,7.01,Not Run,--,--,"2.20 GHz, Intel Xeon Silver 4114",Intel Xeon Silver 4114,Intel Xeon Silver 4114
+HPE,"ProLiant DL560 Gen10 (3.60 GHz, Intel Xeon Platinum 8156)",Yes,16,16,4,1,8.44,Not Run,--,--,"3.60 GHz, Intel Xeon Platinum 8156",Intel Xeon Platinum 8156,Intel Xeon Platinum 8156
+HPE,"ProLiant DL360 Gen10 (2.70 GHz, Intel Xeon Platinum 8168)",Yes,48,48,2,1,8.95,Not Run,--,--,"2.70 GHz, Intel Xeon Platinum 8168",Intel Xeon Platinum 8168,Intel Xeon Platinum 8168
+HPE,"ProLiant DL380 Gen10 (2.60 GHz, Intel Xeon Gold 6142)",Yes,32,32,2,1,8.76,Not Run,--,--,"2.60 GHz, Intel Xeon Gold 6142",Intel Xeon Gold 6142,Intel Xeon Gold 6142
+HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Platinum 8176)",Yes,56,56,2,1,9.19,Not Run,--,--,"2.10 GHz, Intel Xeon Platinum 8176",Intel Xeon Platinum 8176,Intel Xeon Platinum 8176
+HPE,"ProLiant DL560 Gen10 (2.10 GHz, Intel Xeon Platinum 8160)",Yes,96,96,4,1,8.86,Not Run,--,--,"2.10 GHz, Intel Xeon Platinum 8160",Intel Xeon Platinum 8160,Intel Xeon Platinum 8160
+HPE,"ProLiant DL560 Gen10 (2.00 GHz, Intel Xeon Platinum 8153)",Yes,64,64,4,1,6.89,Not Run,--,--,"2.00 GHz, Intel Xeon Platinum 8153",Intel Xeon Platinum 8153,Intel Xeon Platinum 8153
+HPE,"ProLiant DL380 Gen10 (1.80 GHz, Intel Xeon Silver 4108)",Yes,16,16,2,1,6.85,Not Run,--,--,"1.80 GHz, Intel Xeon Silver 4108",Intel Xeon Silver 4108,Intel Xeon Silver 4108
+HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Silver 4116)",Yes,24,24,2,1,7.08,Not Run,--,--,"2.10 GHz, Intel Xeon Silver 4116",Intel Xeon Silver 4116,Intel Xeon Silver 4116
+HPE,"ProLiant DL380 Gen10 (2.60 GHz, Intel Xeon Silver 4112)",Yes,8,8,2,1,6.61,Not Run,--,--,"2.60 GHz, Intel Xeon Silver 4112",Intel Xeon Silver 4112,Intel Xeon Silver 4112
+HPE,"ProLiant DL360 Gen10 (2.20 GHz, Intel Xeon Silver 4114)",Yes,20,20,2,1,7.02,Not Run,--,--,"2.20 GHz, Intel Xeon Silver 4114",Intel Xeon Silver 4114,Intel Xeon Silver 4114
+HPE,"ProLiant DL380 Gen10 (2.40 GHz, Intel Xeon Gold 6148)",Yes,40,40,2,1,8.88,Not Run,--,--,"2.40 GHz, Intel Xeon Gold 6148",Intel Xeon Gold 6148,Intel Xeon Gold 6148
+HPE,"ProLiant DL380 Gen10 (2.60 GHz, Intel Xeon Gold 6126)",Yes,24,24,2,1,8.63,Not Run,--,--,"2.60 GHz, Intel Xeon Gold 6126",Intel Xeon Gold 6126,Intel Xeon Gold 6126
+HPE,"ProLiant DL380 Gen10 (2.30 GHz, Intel Xeon Gold 6140)",Yes,36,36,2,1,8.79,Not Run,--,--,"2.30 GHz, Intel Xeon Gold 6140",Intel Xeon Gold 6140,Intel Xeon Gold 6140
+HPE,"ProLiant DL360 Gen10 (2.60 GHz, Intel Xeon Silver 4112)",Yes,8,8,2,1,6.63,Not Run,--,--,"2.60 GHz, Intel Xeon Silver 4112",Intel Xeon Silver 4112,Intel Xeon Silver 4112
+HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Gold 6152)",Yes,44,44,2,1,8.89,Not Run,--,--,"2.10 GHz, Intel Xeon Gold 6152",Intel Xeon Gold 6152,Intel Xeon Gold 6152
+HPE,"ProLiant DL360 Gen10 (2.60 GHz, Intel Xeon Gold 6132)",Yes,28,28,2,1,8.64,Not Run,--,--,"2.60 GHz, Intel Xeon Gold 6132",Intel Xeon Gold 6132,Intel Xeon Gold 6132
+HPE,"ProLiant DL380 Gen10 (2.60 GHz, Intel Xeon Gold 6132)",Yes,28,28,2,1,8.64,Not Run,--,--,"2.60 GHz, Intel Xeon Gold 6132",Intel Xeon Gold 6132,Intel Xeon Gold 6132
+HPE,"ProLiant DL380 Gen10 (3.40 GHz, Intel Xeon Gold 6128)",Yes,12,12,2,1,8.32,Not Run,--,--,"3.40 GHz, Intel Xeon Gold 6128",Intel Xeon Gold 6128,Intel Xeon Gold 6128
+HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Silver 4110)",Yes,16,16,2,1,6.89,Not Run,--,--,"2.10 GHz, Intel Xeon Silver 4110",Intel Xeon Silver 4110,Intel Xeon Silver 4110
+HPE,"ProLiant DL360 Gen10 (1.80 GHz, Intel Xeon Silver 4108)",Yes,16,16,2,1,6.87,Not Run,--,--,"1.80 GHz, Intel Xeon Silver 4108",Intel Xeon Silver 4108,Intel Xeon Silver 4108
+HPE,"ProLiant DL380 Gen10 (3.60 GHz, Intel Xeon Gold 5122)",Yes,8,8,2,1,8.17,Not Run,--,--,"3.60 GHz, Intel Xeon Gold 5122",Intel Xeon Gold 5122,Intel Xeon Gold 5122
+HPE,"ProLiant DL360 Gen10 (2.30 GHz, Intel Xeon Gold 6140)",Yes,36,36,2,1,8.8,Not Run,--,--,"2.30 GHz, Intel Xeon Gold 6140",Intel Xeon Gold 6140,Intel Xeon Gold 6140
+HPE,"ProLiant DL360 Gen10 (2.00 GHz, Intel Xeon Gold 6138)",Yes,40,40,2,1,8.84,Not Run,--,--,"2.00 GHz, Intel Xeon Gold 6138",Intel Xeon Gold 6138,Intel Xeon Gold 6138
+HPE,"ProLiant DL360 Gen10 (2.60 GHz, Intel Xeon Gold 6142)",Yes,32,32,2,1,8.74,Not Run,--,--,"2.60 GHz, Intel Xeon Gold 6142",Intel Xeon Gold 6142,Intel Xeon Gold 6142
+HPE,"ProLiant DL380 Gen10 (2.00 GHz, Intel Xeon Gold 6138)",Yes,40,40,2,1,8.84,Not Run,--,--,"2.00 GHz, Intel Xeon Gold 6138",Intel Xeon Gold 6138,Intel Xeon Gold 6138
+HPE,"ProLiant DL360 Gen10 (2.00 GHz, Intel Xeon Platinum 8164)",Yes,52,52,2,1,8.98,Not Run,--,--,"2.00 GHz, Intel Xeon Platinum 8164",Intel Xeon Platinum 8164,Intel Xeon Platinum 8164
+HPE,"Synergy 480 Gen10 (2.60 GHz, Intel Xeon Gold 6142)",Yes,32,32,2,1,8.7,Not Run,--,--,"2.60 GHz, Intel Xeon Gold 6142",Intel Xeon Gold 6142,Intel Xeon Gold 6142
+HPE,"ProLiant DL360 Gen10 (3.20 GHz, Intel Xeon Gold 6134)",Yes,16,16,2,1,8.74,Not Run,--,--,"3.20 GHz, Intel Xeon Gold 6134",Intel Xeon Gold 6134,Intel Xeon Gold 6134
+HPE,"ProLiant DL380 Gen10 (3.20 GHz, Intel Xeon Gold 6134)",Yes,16,16,2,1,8.77,Not Run,--,--,"3.20 GHz, Intel Xeon Gold 6134",Intel Xeon Gold 6134,Intel Xeon Gold 6134
+HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Gold 6152)",Yes,44,44,2,1,8.91,Not Run,--,--,"2.10 GHz, Intel Xeon Gold 6152",Intel Xeon Gold 6152,Intel Xeon Gold 6152
+HPE,"ProLiant DL360 Gen10 (3.00 GHz, Intel Xeon Platinum 8158)",Yes,24,24,2,1,8.78,Not Run,--,--,"3.00 GHz, Intel Xeon Platinum 8158",Intel Xeon Platinum 8158,Intel Xeon Platinum 8158
+HPE,"Synergy 480 Gen10 (2.10 GHz, Intel Xeon Gold 6152)",Yes,44,44,2,1,8.85,Not Run,--,--,"2.10 GHz, Intel Xeon Gold 6152",Intel Xeon Gold 6152,Intel Xeon Gold 6152
+HPE,"ProLiant DL360 Gen10 (3.00 GHz, Intel Xeon Gold 6154)",Yes,36,36,2,1,8.82,Not Run,--,--,"3.00 GHz, Intel Xeon Gold 6154",Intel Xeon Gold 6154,Intel Xeon Gold 6154
+HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Platinum 8160)",Yes,48,48,2,1,8.92,Not Run,--,--,"2.10 GHz, Intel Xeon Platinum 8160",Intel Xeon Platinum 8160,Intel Xeon Platinum 8160
+HPE,"ProLiant DL380 Gen10 (2.80 GHz, Intel Xeon Gold 6143)",Yes,32,32,2,1,9.31,Not Run,--,--,"2.80 GHz, Intel Xeon Gold 6143",Intel Xeon Gold 6143,Intel Xeon Gold 6143
+HPE,"Synergy 480 Gen10 (2.40 GHz, Intel Xeon Gold 6148)",Yes,40,40,2,1,8.76,Not Run,--,--,"2.40 GHz, Intel Xeon Gold 6148",Intel Xeon Gold 6148,Intel Xeon Gold 6148
+HPE,"ProLiant DL380 Gen10 (3.50 GHz, Intel Xeon Gold 6144)",Yes,16,16,2,1,9.69,Not Run,--,--,"3.50 GHz, Intel Xeon Gold 6144",Intel Xeon Gold 6144,Intel Xeon Gold 6144
+HPE,"ProLiant DL360 Gen10 (3.20 GHz, Intel Xeon Gold 6146)",Yes,24,24,2,1,9.73,Not Run,--,--,"3.20 GHz, Intel Xeon Gold 6146",Intel Xeon Gold 6146,Intel Xeon Gold 6146
+HPE,"Synergy 480 Gen10 (2.70 GHz, Intel Xeon Gold 6150)",Yes,36,36,2,1,8.72,Not Run,--,--,"2.70 GHz, Intel Xeon Gold 6150",Intel Xeon Gold 6150,Intel Xeon Gold 6150
+Huawei,Huawei 2288H V5 (Intel Xeon Platinum 8180),Yes,56,56,2,1,9.46,9.79,--,--,Intel Xeon Platinum 8180,Intel Xeon Platinum 8180,Intel Xeon Platinum 8180
+Huawei,Huawei 1288H V5 (Intel Xeon Platinum 8180),Yes,112,56,2,1,9.47,9.75,--,--,Intel Xeon Platinum 8180,Intel Xeon Platinum 8180,Intel Xeon Platinum 8180
+Huawei,Huawei CH121 V5 (Intel Xeon Platinum 8180),Yes,112,56,2,1,9.43,9.76,--,--,Intel Xeon Platinum 8180,Intel Xeon Platinum 8180,Intel Xeon Platinum 8180
+Huawei,Huawei 2288H V5 (Intel Xeon Platinum 8180),Yes,112,56,2,1,9.46,9.75,--,--,Intel Xeon Platinum 8180,Intel Xeon Platinum 8180,Intel Xeon Platinum 8180
+Lenovo Global Technology,"ThinkSystem SR630 (2.50 GHz, Intel Xeon Platinum 8180)",Yes,28,28,1,1,9.34,9.62,--,--,"2.50 GHz, Intel Xeon Platinum 8180",Intel Xeon Platinum 8180,Intel Xeon Platinum 8180
+Lenovo Global Technology,"ThinkSystem SR630 (2.50 GHz, Intel Xeon Platinum 8180)",Yes,56,56,2,1,9.31,9.56,--,--,"2.50 GHz, Intel Xeon Platinum 8180",Intel Xeon Platinum 8180,Intel Xeon Platinum 8180
+Lenovo Global Technology,"ThinkSystem SR650 (2.50 GHz, Intel Xeon Platinum 8180)",Yes,56,56,2,1,9.31,9.53,--,--,"2.50 GHz, Intel Xeon Platinum 8180",Intel Xeon Platinum 8180,Intel Xeon Platinum 8180
+Lenovo Global Technology,"ThinkSystem SR950 (2.50 GHz, Intel Xeon Platinum 8180)",Yes,112,112,4,1,9.34,9.64,--,--,"2.50 GHz, Intel Xeon Platinum 8180",Intel Xeon Platinum 8180,Intel Xeon Platinum 8180
+Lenovo Global Technology,"ThinkSystem SR950 (2.50 GHz, Intel Xeon Platinum 8180)",Yes,224,224,8,1,9.37,9.62,--,--,"2.50 GHz, Intel Xeon Platinum 8180",Intel Xeon Platinum 8180,Intel Xeon Platinum 8180
+Lenovo Global Technology,"ThinkSystem SR950 (2.30 GHz, Intel Xeon Gold 6140)",Yes,72,72,4,1,8.9,9.12,--,--,"2.30 GHz, Intel Xeon Gold 6140",Intel Xeon Gold 6140,Intel Xeon Gold 6140
+Lenovo Global Technology,"ThinkSystem SR950 (2.70 GHz, Intel Xeon Platinum 8168)",Yes,96,96,4,1,9.05,9.31,--,--,"2.70 GHz, Intel Xeon Platinum 8168",Intel Xeon Platinum 8168,Intel Xeon Platinum 8168
+Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8170)",Yes,104,104,4,1,9.1,9.38,--,--,"2.10 GHz, Intel Xeon Platinum 8170",Intel Xeon Platinum 8170,Intel Xeon Platinum 8170
+Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8170M)",Yes,104,104,4,1,9.06,9.34,--,--,"2.10 GHz, Intel Xeon Platinum 8170M",Intel Xeon Platinum 8170M,Intel Xeon Platinum 8170M
+Lenovo Global Technology,"ThinkSystem SR850 (2.30 GHz, Intel Xeon Gold 6140)",Yes,72,72,4,1,8.85,9.04,--,--,"2.30 GHz, Intel Xeon Gold 6140",Intel Xeon Gold 6140,Intel Xeon Gold 6140
+Lenovo Global Technology,"ThinkSystem SR650 (2.70 GHz, Intel Xeon Gold 6150)",Yes,36,36,2,1,8.83,9.08,--,--,"2.70 GHz, Intel Xeon Gold 6150",Intel Xeon Gold 6150,Intel Xeon Gold 6150
+Lenovo Global Technology,"ThinkSystem SR650 (2.10 GHz, Intel Xeon Gold 6152)",Yes,44,44,2,1,8.89,9.18,--,--,"2.10 GHz, Intel Xeon Gold 6152",Intel Xeon Gold 6152,Intel Xeon Gold 6152
+Lenovo Global Technology,"ThinkSystem SR650 (2.00 GHz, Intel Xeon Platinum 8164)",Yes,52,52,2,1,9.02,9.31,--,--,"2.00 GHz, Intel Xeon Platinum 8164",Intel Xeon Platinum 8164,Intel Xeon Platinum 8164
+Lenovo Global Technology,"ThinkSystem SR650 (2.10 GHz, Intel Xeon Platinum 8170)",Yes,52,52,2,1,9.06,9.32,--,--,"2.10 GHz, Intel Xeon Platinum 8170",Intel Xeon Platinum 8170,Intel Xeon Platinum 8170
+Lenovo Global Technology,"ThinkSystem SR630 (2.10 GHz, Intel Xeon Platinum 8160)",Yes,48,48,2,1,9.0,9.29,--,--,"2.10 GHz, Intel Xeon Platinum 8160",Intel Xeon Platinum 8160,Intel Xeon Platinum 8160
+Lenovo Global Technology,"ThinkSystem SR530 (2.10 GHz, Intel Xeon Silver 4110)",Yes,16,16,2,1,6.91,7.11,--,--,"2.10 GHz, Intel Xeon Silver 4110",Intel Xeon Silver 4110,Intel Xeon Silver 4110
+Lenovo Global Technology,"ThinkSystem SR530 (2.20 GHz, Intel Xeon Silver 4114)",Yes,20,20,2,1,7.03,7.24,--,--,"2.20 GHz, Intel Xeon Silver 4114",Intel Xeon Silver 4114,Intel Xeon Silver 4114
+Lenovo Global Technology,"ThinkSystem SR530 (2.60 GHz, Intel Xeon Gold 6126T)",Yes,24,24,2,1,8.63,8.91,--,--,"2.60 GHz, Intel Xeon Gold 6126T",Intel Xeon Gold 6126T,Intel Xeon Gold 6126T
+Lenovo Global Technology,"ThinkSystem SR530 (2.00 GHz, Intel Xeon Gold 6138)",Yes,40,40,2,1,8.91,9.17,--,--,"2.00 GHz, Intel Xeon Gold 6138",Intel Xeon Gold 6138,Intel Xeon Gold 6138

@@ -1,0 +1,97 @@
+,,,Base,Peak
+,,,max,max
+Company,EnabledChips,CPU0,,
+Cisco Systems,2,Intel Xeon Gold 5120,141.0,144
+Cisco Systems,2,Intel Xeon Gold 6132,163.0,167
+Cisco Systems,2,Intel Xeon Gold 6146,168.0,171
+Cisco Systems,2,Intel Xeon Gold 6150,192.0,196
+Cisco Systems,2,Intel Xeon Gold 6154,202.0,206
+Cisco Systems,2,Intel Xeon Platinum 8156,71.0,73.0
+Cisco Systems,2,Intel Xeon Platinum 8158,165.0,168
+Cisco Systems,2,Intel Xeon Platinum 8176,225.0,230
+Cisco Systems,2,Intel Xeon Platinum 8180,250.0,255
+Cisco Systems,4,Intel Xeon Platinum 8158,325.0,332
+Cisco Systems,4,Intel Xeon Platinum 8170,439.0,447
+Cisco Systems,4,Intel Xeon Platinum 8180,487.0,Not Run
+Dell Inc.,2,Intel Xeon Gold 6130,163.0,Not Run
+Dell Inc.,2,Intel Xeon Platinum 8180,249.0,Not Run
+Dell Inc.,4,Intel Xeon E7-8890 v4,316.0,Not Run
+Dell Inc.,4,Intel Xeon Gold 6144,260.0,267
+Dell Inc.,4,Intel Xeon Platinum 8153,301.0,305
+Dell Inc.,4,Intel Xeon Platinum 8156,139.0,141
+Dell Inc.,4,Intel Xeon Platinum 8158,322.0,327
+Dell Inc.,4,Intel Xeon Platinum 8160,417.0,424
+Dell Inc.,4,Intel Xeon Platinum 8164,427.0,434
+Dell Inc.,4,Intel Xeon Platinum 8168,451.0,458
+Dell Inc.,4,Intel Xeon Platinum 8170,434.0,441
+Dell Inc.,4,Intel Xeon Platinum 8176,448.0,456
+Dell Inc.,4,Intel Xeon Platinum 8180,497.0,Not Run
+Fujitsu,2,Intel Xeon E5-2699A v4,149.0,Not Run
+Fujitsu,2,Intel Xeon Gold 6148,199.0,Not Run
+Fujitsu,2,Intel Xeon Platinum 8180,247.0,Not Run
+Fujitsu,8,Intel Xeon Platinum 8180,981.0,Not Run
+H3C,2,Intel Xeon E5-2620 v4,76.0,77.7
+HPE,2,AMD EPYC 7601,257.0,270
+HPE,2,Intel Xeon E5-2699A v4,149.0,149
+HPE,2,Intel Xeon Gold 5120,139.0,142
+HPE,2,Intel Xeon Gold 5122,71.3,Not Run
+HPE,2,Intel Xeon Gold 6126,149.0,Not Run
+HPE,2,Intel Xeon Gold 6128,101.0,Not Run
+HPE,2,Intel Xeon Gold 6130,165.0,Not Run
+HPE,2,Intel Xeon Gold 6132,161.0,Not Run
+HPE,2,Intel Xeon Gold 6134,127.0,Not Run
+HPE,2,Intel Xeon Gold 6136,159.0,Not Run
+HPE,2,Intel Xeon Gold 6138,183.0,Not Run
+HPE,2,Intel Xeon Gold 6140,182.0,Not Run
+HPE,2,Intel Xeon Gold 6142,176.0,Not Run
+HPE,2,Intel Xeon Gold 6143,187.0,Not Run
+HPE,2,Intel Xeon Gold 6144,134.0,Not Run
+HPE,2,Intel Xeon Gold 6146,169.0,Not Run
+HPE,2,Intel Xeon Gold 6148,193.0,Not Run
+HPE,2,Intel Xeon Gold 6150,191.0,Not Run
+HPE,2,Intel Xeon Gold 6152,197.0,Not Run
+HPE,2,Intel Xeon Gold 6154,198.0,Not Run
+HPE,2,Intel Xeon Platinum 8153,152.0,Not Run
+HPE,2,Intel Xeon Platinum 8156,71.1,Not Run
+HPE,2,Intel Xeon Platinum 8158,162.0,Not Run
+HPE,2,Intel Xeon Platinum 8160,208.0,Not Run
+HPE,2,Intel Xeon Platinum 8164,210.0,Not Run
+HPE,2,Intel Xeon Platinum 8168,229.0,Not Run
+HPE,2,Intel Xeon Platinum 8170,218.0,Not Run
+HPE,2,Intel Xeon Platinum 8176,225.0,Not Run
+HPE,2,Intel Xeon Platinum 8180,239.0,Not Run
+HPE,2,Intel Xeon Platinum 8180M,240.0,Not Run
+HPE,2,Intel Xeon Silver 4108,77.5,Not Run
+HPE,2,Intel Xeon Silver 4110,83.3,Not Run
+HPE,2,Intel Xeon Silver 4112,51.8,Not Run
+HPE,2,Intel Xeon Silver 4114,104.0,Not Run
+HPE,2,Intel Xeon Silver 4116,118.0,Not Run
+HPE,4,Intel Xeon Gold 6130,269.0,275
+HPE,4,Intel Xeon Platinum 8153,299.0,Not Run
+HPE,4,Intel Xeon Platinum 8156,138.0,Not Run
+HPE,4,Intel Xeon Platinum 8158,310.0,Not Run
+HPE,4,Intel Xeon Platinum 8160,399.0,Not Run
+HPE,16,Intel Xeon E7-8890 v4,1160.0,1170
+Huawei,2,Intel Xeon Platinum 8180,252.0,Not Run
+Inspur Corporation,2,Intel Xeon E5-2698 v4,133.0,133
+Intel Corporation,1,Intel Core i7-6700K,24.6,Not Run
+Lenovo Global Technology,1,Intel Xeon Platinum 8180,110.0,113
+Lenovo Global Technology,2,Intel Xeon Gold 6126T,146.0,149
+Lenovo Global Technology,2,Intel Xeon Gold 6138,181.0,185
+Lenovo Global Technology,2,Intel Xeon Gold 6150,189.0,191
+Lenovo Global Technology,2,Intel Xeon Gold 6152,196.0,198
+Lenovo Global Technology,2,Intel Xeon Platinum 8160,205.0,208
+Lenovo Global Technology,2,Intel Xeon Platinum 8164,219.0,222
+Lenovo Global Technology,2,Intel Xeon Platinum 8170,218.0,221
+Lenovo Global Technology,2,Intel Xeon Platinum 8180,248.0,251
+Lenovo Global Technology,2,Intel Xeon Silver 4110,74.3,77.7
+Lenovo Global Technology,2,Intel Xeon Silver 4114,90.7,93.9
+Lenovo Global Technology,4,Intel Xeon Gold 6140,360.0,364
+Lenovo Global Technology,4,Intel Xeon Platinum 8168,457.0,464
+Lenovo Global Technology,4,Intel Xeon Platinum 8170,439.0,446
+Lenovo Global Technology,4,Intel Xeon Platinum 8170M,440.0,447
+Lenovo Global Technology,4,Intel Xeon Platinum 8180,491.0,Not Run
+Lenovo Global Technology,8,Intel Xeon Platinum 8180,982.0,Not Run
+Oracle Corporation,1,SPARC M7,111.0,118
+Oracle Corporation,4,UltraSPARC IV+,1.0,Not Run
+Supermicro,2,Intel Xeon E5-2699A v4,149.0,149

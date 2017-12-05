@@ -1,4 +1,4 @@
-import os,glob,requests,pandas,bs4,datetime
+import os,glob,requests,pandas,bs4,datetime,querycsv_redux,numpy
 
 def ascii_chars(string):
   return ''.join(char for char in string if ord(char) < 128)
@@ -33,6 +33,9 @@ def download(y, q):
   f.close()
 
 
+def replace_list_item(items,if_value,value):
+    return [value if if_value==x else x for x in items]
+
 def find_headers(div):
   head = div.find("thead")
   if head == None:
@@ -43,6 +46,9 @@ def find_headers(div):
   headers.remove("Energy")
   headers[-2] = headers[-2] + "Energy"
   headers[-1] = headers[-1] + "Energy"
+  headers = replace_list_item(headers,"Test Sponsor","Company")
+  headers = replace_list_item(headers,"System Name","System")
+  headers = replace_list_item(headers,"Threads/Core","ThreadsPerCore")
   return headers
 
 
@@ -80,12 +86,31 @@ def before(y,q):
             quarter(y1, q1)
             print(yq)
 
+def find_cpu_name(list):
+    for item in list:
+        if item.strip().startswith("Intel") or item.strip().startswith("AMD"):
+            return item
+
+
+def get_simple_name(CPU_NAME):
+    names = str(CPU_NAME).split(',')
+    if len(names) == 1:
+        return names[0]
+    else:
+        return find_cpu_name(names)
 
 def merge_csv(flist,name):
     sublist = [elem for elem in flist if elem.startswith(name)]
     all = pandas.concat([pandas.read_csv(f) for f in sublist])  #.dropna()
+    all = all.iloc[:, :-1]
+    all["CPU"] = all['System'].str.extract(r"\((.*?)\)", expand=False)
+    #all["SCPU"] = all["CPU"].str.extract(r"(?:Intel|AMD|UltraSPARC).*$", expand=False)
+    all["SCPU"] = all["CPU"].str.extract("([Intel|AMD|UltraSPARC].*?)$", expand=False)
+    all["CPU0"] = all["SCPU"].str.split(',').str[0]
     all.to_csv(name+".csv", index=False)
-
+    f = {'Base': ['max'], 'Peak': ['max']}
+    group1 = all.groupby(['Company','EnabledChips', 'CPU0']).agg(f)
+    group1.to_csv(name+"_group.csv")
 
 def merge_csv_all():
     flist = os.listdir(os.getcwd())
@@ -99,14 +124,21 @@ def delete_csv(pattern):
     for f in glob.glob("*"+pattern+"*.csv"):
         os.remove(f)
 
-
+def add_cpu(values):
+    CPU="None"
+    if len(values) > 1:
+        sys=values[1]
+        CPU=sys[sys.find("(")+1:sys.find(")")]
+    values.append(CPU)
 ####################################################
 delete_csv("")
 y = datetime.datetime.now().year
 q = get_quarter(datetime.datetime.now())
 before(y,q)
 #download(2017,4)
-download(y,q)
+#download(y,q)
 quarter(y,q)
 merge_csv_all()
 delete_csv("res")
+
+#df2.groupby('Company','CPU').transform('max')
