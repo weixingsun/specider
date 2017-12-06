@@ -20,15 +20,17 @@ def table2list(table):
     values = []
     for v in values0:
       pv = ascii_chars(v.splitlines()[0])
+      #pv.replace('&nbsp;','')
+      #pv.replace('Not Run','-1')
       values.append('"' + pv + '"')
     rows.append(values)
   return rows
 
 
-def download(y, q):
-  url = 'http://spec.org/cpu2017/results/res'+str(y)+'q' + str(q)
+def download(bmk, y, q):
+  url = 'http://spec.org/'+bmk+'/results/res'+str(y)+'q' + str(q)
   name = url.split('/')[-1]
-  f = open(name+'.html', 'wb')
+  f = open(bmk+'_'+name+'.html', 'wb')
   f.write(requests.get(url).content)
   f.close()
 
@@ -43,12 +45,14 @@ def find_headers(div):
   headers = [header.text for header in head.find_all('th')]
   headers.remove("Processor")
   headers.remove("Results")
-  headers.remove("Energy")
-  headers[-2] = headers[-2] + "Energy"
-  headers[-1] = headers[-1] + "Energy"
+  if any("Energy" in s for s in headers):
+    headers.remove("Energy")
+    headers[-2] = headers[-2] + "Energy"
+    headers[-1] = headers[-1] + "Energy"
   headers = replace_list_item(headers,"Test Sponsor","Company")
   headers = replace_list_item(headers,"System Name","System")
   headers = replace_list_item(headers,"Threads/Core","ThreadsPerCore")
+  headers = replace_list_item(headers, "Cores/Chip", "CoresPerChip")
   return headers
 
 
@@ -67,28 +71,36 @@ def get_section(soup, tname, fname):
   write_csv(csv_fname, 'a', table2list(intrate))
 
 
-def quarter(y,q):
-  name='res'+str(y)+'q'+str(q)
-  soup = bs4.BeautifulSoup(open(name+'.html'), "lxml")
-  get_section(soup, "CINT2017_rate", name)
-  get_section(soup, "CFP2017_rate", name)
-  get_section(soup, "CINT2017_speed", name)
-  get_section(soup, "CFP2017_speed", name)
+def quarter(bmk,y,q):
+    name=bmk+'_res'+str(y)+'q'+str(q)
+    if os.path.exists(name+'.html'):
+        soup = bs4.BeautifulSoup(open(name+'.html'), "lxml")
+        print(str(y)+'q'+str(q))
+        if bmk == 'cpu2017':
+            get_section(soup, "CINT2017_rate", name)
+            get_section(soup, "CFP2017_rate", name)
+            get_section(soup, "CINT2017_speed", name)
+            get_section(soup, "CFP2017_speed", name)
+        elif bmk == 'cpu2006':
+            get_section(soup, "SPECint_rate", name)
+            get_section(soup, "SPECfp_rate", name)
+            get_section(soup, "SPECint", name)
+            get_section(soup, "SPECfp", name)
 
 
-def before(y,q):
-    for yq in ['2017q2', '2017q3', '2017q4', '2018q1', '2018q2', '2018q3']:
+def before(bmk,y,q):
+    # '2015q1', '2015q2', '2015q3', '2015q4', '2016q1', '2016q2', '2016q3', '2016q4',
+    for yq in [ '2017q1', '2017q2', '2017q3', '2017q4', '2018q1', '2018q2', '2018q3', '2018q4']:
         if yq == str(y) + 'q' + str(q):
             return
         else:
             y1 = yq.split('q')[0]
             q1 = yq.split('q')[1]
-            quarter(y1, q1)
-            print(yq)
+            quarter(bmk, y1, q1)
 
 def find_cpu_name(list):
     for item in list:
-        if item.strip().startswith("Intel") or item.strip().startswith("AMD"):
+        if item.strip().startswith("Intel") or item.strip().startswith("AMD") or item.strip().startswith("SPARC") or item.strip().startswith("UltraSPARC"):
             return item
 
 
@@ -103,22 +115,32 @@ def merge_csv(flist,name):
     sublist = [elem for elem in flist if elem.startswith(name)]
     all = pandas.concat([pandas.read_csv(f) for f in sublist])  #.dropna()
     all = all.iloc[:, :-1]
-    all["CPU"] = all['System'].str.extract(r"\((.*?)\)", expand=False)
-    #all["SCPU"] = all["CPU"].str.extract(r"(?:Intel|AMD|UltraSPARC).*$", expand=False)
-    all["SCPU"] = all["CPU"].str.extract("([Intel|AMD|UltraSPARC].*?)$", expand=False)
-    all["CPU0"] = all["SCPU"].str.split(',').str[0]
+    all["CPU0"] = all['System'].str.extract(r"\((.*?)\)", expand=False)
+    all["SCPU"] = all["CPU0"].str.extract("([Intel|AMD|UltraSPARC].*?)$", expand=False)
+    all["CPU"] = all["SCPU"].str.split(',').str[0]
+    #all = all.replace({'Not Run': -1})
+    #all = all.replace({'&nbsp;': ''})
+    del all['SCPU']
+    del all['CPU0']
     all.to_csv(name+".csv", index=False)
-    f = {'Base': ['max'], 'Peak': ['max']}
-    group1 = all.groupby(['Company','EnabledChips', 'CPU0']).agg(f)
+    #print("wrote: "+name+".csv")
+    #f = {'Base': ['max'], 'Peak': ['max']}
+    f = {'Base': ['max']}
+    group1 = all.groupby(['Company','EnabledChips', 'CPU']).agg(f)
     group1.to_csv(name+"_group.csv")
 
-def merge_csv_all():
+def merge_csv_all(bmk):
     flist = os.listdir(os.getcwd())
-    merge_csv(flist,"CINT2017_rate")
-    merge_csv(flist,"CFP2017_rate")
-    merge_csv(flist,"CINT2017_speed")
-    merge_csv(flist,"CFP2017_speed")
-
+    if bmk == 'cpu2017':
+        merge_csv(flist,"CINT2017_rate_"+bmk)
+        merge_csv(flist,"CFP2017_rate_"+bmk)
+        merge_csv(flist,"CINT2017_speed_"+bmk)
+        merge_csv(flist,"CFP2017_speed_"+bmk)
+    elif bmk == 'cpu2006':
+        merge_csv(flist,"SPECint_"+bmk)
+        merge_csv(flist,"SPECfp_"+bmk)
+        merge_csv(flist,"SPECint_rate_"+bmk)
+        merge_csv(flist,"SPECfp_rate_"+bmk)
 
 def delete_csv(pattern):
     for f in glob.glob("*"+pattern+"*.csv"):
@@ -130,15 +152,17 @@ def add_cpu(values):
         sys=values[1]
         CPU=sys[sys.find("(")+1:sys.find(")")]
     values.append(CPU)
-####################################################
-delete_csv("")
-y = datetime.datetime.now().year
-q = get_quarter(datetime.datetime.now())
-before(y,q)
-#download(2017,4)
-#download(y,q)
-quarter(y,q)
-merge_csv_all()
-delete_csv("res")
 
-#df2.groupby('Company','CPU').transform('max')
+def benchmark(bmk):
+    delete_csv("")
+    y = datetime.datetime.now().year
+    q = get_quarter(datetime.datetime.now())
+    before(bmk,y,q)
+    #download(bmk,2017,4)
+    #download(bmk,y,q)
+    quarter(bmk,y,q)
+    merge_csv_all(bmk)
+    delete_csv("res")
+####################################################
+#benchmark('cpu2017')
+benchmark('cpu2006')
