@@ -1,0 +1,1280 @@
+Company,System,BaseCopies,EnabledCores,EnabledChips,CoresPerChip,ThreadsPerCore,Base,Peak,CPU
+ACTION S.A.,"ACTINA SOLAR 210 X6 (Intel Xeon E5-2680 v4, 2.40 GHz)",56,28,2,14,2,1260.0,1310,Intel Xeon E5-2680 v4
+ACTION S.A.,"ACTINA SOLAR 220 X6 (Intel Xeon E5-2680 v4, 2.40 GHz)",56,28,2,14,2,1260.0,1310,Intel Xeon E5-2680 v4
+ACTION S.A.,"ACTINA SOLAR 222 S6 (Intel Xeon E5-2620 v4, 2.10 GHz)",32,16,2,8,2,633.0,665,Intel Xeon E5-2620 v4
+ACTION S.A.,"ACTINA SOLAR 222 S6 (Intel Xeon E5-2630 v4, 2.20 GHz)",40,20,2,10,2,804.0,842,Intel Xeon E5-2630 v4
+Acer Incorporated,Altos R360 F3 (Intel Xeon E5-2680 v4),56,28,2,14,2,1240.0,1280,Intel Xeon E5-2680 v4
+Acer Incorporated,Altos R380 F3 (Intel Xeon E5-2680 v4),56,28,2,14,2,1240.0,1280,Intel Xeon E5-2680 v4
+Acer Incorporated,AW2000h-AW370h F3 (Intel Xeon E5-2680 v4),56,28,2,14,2,1240.0,1290,Intel Xeon E5-2680 v4
+Acer Incorporated,AR580 F3 (Intel Xeon E7-8870 v4),160,80,4,20,2,2960.0,3080,Intel Xeon E7-8870 v4
+Acer Incorporated,AR780 F3 (Intel Xeon E7-8870 v4),160,80,4,20,2,2950.0,3070,Intel Xeon E7-8870 v4
+Bull SAS,bullion S16 ( E7-8890 v4 ),768,384,16,24,2,13600.0,14100,
+Cisco Systems,"Cisco UCS B420 M4 (Intel Xeon E5-4655 v4, 2.50 GHz)",64,32,4,8,2,1430.0,1500,Intel Xeon E5-4655 v4
+Cisco Systems,Cisco UCS B200 M4 (Intel Xeon E5-2623 v4  2.60 GHz),16,8,2,4,2,374.0,394,Intel Xeon E5-2623 v4  2.60 GHz
+Cisco Systems,Cisco UCS B200 M4 (Intel Xeon E5-2630L v4  1.80 GHz),40,20,2,10,2,694.0,730,Intel Xeon E5-2630L v4  1.80 GHz
+Cisco Systems,Cisco UCS C240 M4 (Intel Xeon E5-2667 v4 3.20 GHz),32,16,2,8,2,886.0,930,Intel Xeon E5-2667 v4 3.20 GHz
+Cisco Systems,Cisco UCS C240 M4 (Intel Xeon E5-2637 v4 3.50 GHz),16,8,2,4,2,473.0,497,Intel Xeon E5-2637 v4 3.50 GHz
+Cisco Systems,Cisco UCS C240 M4 (Intel Xeon E5-2699A v4 2.40 GHz),88,44,2,22,2,1810.0,1870,Intel Xeon E5-2699A v4 2.40 GHz
+Cisco Systems,"Cisco UCS B420 M4 (Intel Xeon E5-4620 v4, 2.10 GHz)",80,40,4,10,2,1530.0,1600,Intel Xeon E5-4620 v4
+Cisco Systems,Cisco UCS B200 M4 (Intel Xeon E5-2699 v4 2.20 GHz),88,44,2,22,2,1680.0,1740,Intel Xeon E5-2699 v4 2.20 GHz
+Cisco Systems,Cisco UCS B200 M4 (Intel Xeon E5-2699A v4 2.40 GHz),88,44,2,22,2,1780.0,1840,Intel Xeon E5-2699A v4 2.40 GHz
+Cisco Systems,Cisco UCS B420 M4 (Intel Xeon E5-4627 v4 2.60 GHz),40,40,4,10,1,1700.0,1770,Intel Xeon E5-4627 v4 2.60 GHz
+Dell Inc.,"PowerEdge R930 (Intel Xeon E7-8894 v4, 2.40 GHz)",192,96,4,24,2,3760.0,Not Run,Intel Xeon E7-8894 v4
+Dell Inc.,"PowerEdge R730 (Intel Xeon E5-2640 v4, 2.40 GHz)",40,20,2,10,2,850.0,891,Intel Xeon E5-2640 v4
+Dell Inc.,"PowerEdge R730xd (Intel Xeon E5-2640 v4, 2.40 GHz)",40,20,2,10,2,850.0,891,Intel Xeon E5-2640 v4
+Dell Inc.,PowerEdge C6320P (Intel Xeon Phi 7290 1.50 GHz),288,72,1,72,4,1140.0,1220,Intel Xeon Phi 7290 1.50 GHz
+Dell Inc.,"PowerEdge M630 (Intel Xeon E5-2640 v4, 2.40 GHz)",40,20,2,10,2,856.0,Not Run,Intel Xeon E5-2640 v4
+Dell Inc.,"PowerEdge R630 (Intel Xeon E5-2640 v4, 2.40 GHz)",40,20,2,10,2,860.0,Not Run,Intel Xeon E5-2640 v4
+Dell Inc.,"PowerEdge T630 (Intel Xeon E5-2640 v4, 2.40 GHz)",40,20,2,10,2,865.0,Not Run,Intel Xeon E5-2640 v4
+Dell Inc.,"PowerEdge R730 (Intel Xeon E5-2690 v4, 2.60 GHz)",56,28,2,14,2,1340.0,Not Run,Intel Xeon E5-2690 v4
+Dell Inc.,"PowerEdge R730xd (Intel Xeon E5-2680 v4, 2.40 GHz)",56,28,2,14,2,1260.0,Not Run,Intel Xeon E5-2680 v4
+Dell Inc.,"PowerEdge R730xd (Intel Xeon E5-2690 v4, 2.60 GHz)",56,28,2,14,2,1340.0,Not Run,Intel Xeon E5-2690 v4
+Dell Inc.,"PowerEdge R630 (Intel Xeon E5-2660 v4, 2.00 GHz)",56,28,2,14,2,1120.0,Not Run,Intel Xeon E5-2660 v4
+Dell Inc.,"PowerEdge T630 (Intel Xeon E5-2660 v4, 2.00 GHz)",56,28,2,14,2,1110.0,Not Run,Intel Xeon E5-2660 v4
+Dell Inc.,"PowerEdge M630 (Intel Xeon E5-2690 v4, 2.60 GHz)",56,28,2,14,2,1310.0,Not Run,Intel Xeon E5-2690 v4
+Dell Inc.,"PowerEdge R730 (Intel Xeon E5-2680 v4, 2.40 GHz)",56,28,2,14,2,1260.0,Not Run,Intel Xeon E5-2680 v4
+Fujitsu,"PRIMERGY RX4770 M3, (Intel Xeon E7-8894 v4, 2.40GHz)",191,96,4,24,2,3770.0,Not Run,Intel Xeon E7-8894 v4
+Fujitsu,"PRIMEQUEST 2800E3, (Intel Xeon E7-8894 v4, 2.40GHz)",383,192,8,24,2,7380.0,Not Run,Intel Xeon E7-8894 v4
+Fujitsu,"PRIMEQUEST 2800E3, (Intel Xeon E7-8894 v4, 2.40GHz)",383,192,8,24,2,7390.0,7660,Intel Xeon E7-8894 v4
+Fujitsu,"PRIMEQUEST 2800E3, (Intel Xeon E7-8894 v4, 2.40GHz)",96,48,2,24,2,1860.0,1930,Intel Xeon E7-8894 v4
+Fujitsu,"PRIMERGY RX4770 M3, (Intel Xeon E7-8894 v4, 2.40GHz)",191,96,4,24,2,3760.0,3910,Intel Xeon E7-8894 v4
+Fujitsu,"PRIMERGY RX2540 M2, (Intel Xeon E5-2667 v4, 3.20 GHz)",32,16,2,8,2,899.0,944,Intel Xeon E5-2667 v4
+Fujitsu,"PRIMERGY RX1330 M3, (Intel Xeon E3-1280 v6, 3.9GHz)",8,4,1,4,2,271.0,280,Intel Xeon E3-1280 v6
+Fujitsu,"PRIMERGY TX1320 M3, (Intel Xeon E3-1280 v6, 3.9GHz)",8,4,1,4,2,270.0,281,Intel Xeon E3-1280 v6
+Fujitsu,"PRIMERGY TX1330 M3, (Intel Xeon E3-1280 v6, 3.9GHz)",8,4,1,4,2,270.0,281,Intel Xeon E3-1280 v6
+HPE,"ProLiant DL360 Gen9 (2.00 GHz, Intel Xeon E5-2660 v4)",56,28,2,14,2,1120.0,1170,Intel Xeon E5-2660 v4
+HPE,"ProLiant DL380 Gen9 (2.40 GHz, Intel Xeon E5-2680 v4)",56,28,2,14,2,1270.0,1320,Intel Xeon E5-2680 v4
+HPE,"ProLiant BL660c Gen9 (2.10 GHz, Intel Xeon E5-4620 v4)",80,40,4,10,2,1560.0,1630,Intel Xeon E5-4620 v4
+HPE,ProLiant BL660c Gen9 (2.10GHz Intel Xeon E5-4640 v4),96,48,4,12,2,1860.0,1950,Intel Xeon E5-4640 v4
+HPE,ProLiant DL580 Gen 9 (2.20GHz Intel Xeon E7-8880 v4),176,88,4,22,2,3300.0,3420,Intel Xeon E7-8880 v4
+HPE,"ProLiant XL170r Gen9 (2.10 GHz, Intel Xeon E5-2695 v4)",72,36,2,18,2,1410.0,1460,Intel Xeon E5-2695 v4
+HPE,"ProLiant ML350 Gen9 (2.00 GHz, Intel Xeon E5-2660 v4)",56,28,2,14,2,1120.0,1170,Intel Xeon E5-2660 v4
+HPE,"ProLiant BL460 Gen9 (2.40 GHz, Intel Xeon E5-2640 v4)",40,20,2,10,2,860.0,898,Intel Xeon E5-2640 v4
+Huawei,Huawei CH121 V3 (Intel Xeon E5-2690 v4),56,28,2,14,2,1340.0,1410,Intel Xeon E5-2690 v4
+Huawei,Huawei CH222 V3 (Intel Xeon E5-2690 v4),56,28,2,14,2,1340.0,1410,Intel Xeon E5-2690 v4
+Huawei,Huawei RH1288 V3 (Intel Xeon E5-2690 v4),56,28,2,14,2,1350.0,1410,Intel Xeon E5-2690 v4
+Huawei,Huawei XH321 V3 (Intel Xeon E5-2690 v4),56,28,2,14,2,1340.0,1400,Intel Xeon E5-2690 v4
+Huawei,Huawei RH1288 V3 (Intel Xeon E5-2660 v4),56,28,2,14,2,1120.0,1170,Intel Xeon E5-2660 v4
+Huawei,Huawei XH620 V3 (Intel Xeon E5-2660 v4),56,28,2,14,2,1120.0,1170,Intel Xeon E5-2660 v4
+Huawei,Huawei 5288 V3 (Intel Xeon E5-2660 v4),56,28,2,14,2,1120.0,1170,Intel Xeon E5-2660 v4
+Huawei,Huawei RH2288 V3 (Intel Xeon E5-2660 v4),56,28,2,14,2,1120.0,1170,Intel Xeon E5-2660 v4
+Huawei,Huawei XH628 V3 (Intel Xeon E5-2660 v4),56,28,2,14,2,1120.0,1170,Intel Xeon E5-2660 v4
+Huawei,Huawei XH622 V3 (Intel Xeon E5-2660 v4),56,28,2,14,2,1120.0,1170,Intel Xeon E5-2660 v4
+Huawei,Huawei RH5885 V3 (Intel Xeon E7-4809 v4),64,32,4,8,2,1090.0,1140,Intel Xeon E7-4809 v4
+Huawei,Huawei RH5885 V3 (Intel Xeon E7-4830 v4),112,56,4,14,2,1750.0,1820,Intel Xeon E7-4830 v4
+Huawei,Huawei RH5885 V3 (Intel Xeon E7-8855 v4),112,56,4,14,2,1860.0,1930,Intel Xeon E7-8855 v4
+Huawei,Huawei RH5885 V3 (Intel Xeon E7-8860 v4),144,72,4,18,2,2440.0,2520,Intel Xeon E7-8860 v4
+Huawei,Huawei RH5885 V3 (Intel Xeon E7-8870 v4),160,80,4,20,2,2580.0,2670,Intel Xeon E7-8870 v4
+Huawei,Huawei RH5885 V3 (Intel Xeon E7-8880 v4),176,88,4,22,2,2720.0,2810,Intel Xeon E7-8880 v4
+Huawei,Huawei RH5885 V3 (Intel Xeon E7-8890 v4),192,96,4,24,2,2840.0,2910,Intel Xeon E7-8890 v4
+Huawei,Huawei RH5885 V3 (Intel Xeon E7-4820 v4),80,40,4,10,2,1260.0,1320,Intel Xeon E7-4820 v4
+Huawei,Huawei RH5885H V3 (Intel Xeon E7-8870 v4),160,80,4,20,2,3070.0,3200,Intel Xeon E7-8870 v4
+Huawei,Huawei RH5885H V3 (Intel Xeon E7-8880 v4),176,88,4,22,2,3320.0,3460,Intel Xeon E7-8880 v4
+Huawei,Huawei RH5885H V3 (Intel Xeon E7-4809 v4),64,32,4,8,2,1100.0,1160,Intel Xeon E7-4809 v4
+Huawei,Huawei RH5885H V3 (Intel Xeon E7-4820 v4),80,40,4,10,2,1320.0,1380,Intel Xeon E7-4820 v4
+Huawei,Huawei RH5885H V3 (Intel Xeon E7-8890 v4),192,96,4,24,2,3610.0,3750,Intel Xeon E7-8890 v4
+Huawei,Huawei RH8100 V3 (Intel Xeon E7-8860 v4),288,144,8,18,2,5580.0,5800,Intel Xeon E7-8860 v4
+Huawei,Huawei RH8100 V3 (Intel Xeon E7-8867 v4),288,144,8,18,2,5690.0,5920,Intel Xeon E7-8867 v4
+Huawei,Huawei RH8100 V3 (Intel Xeon E7-8870 v4),320,160,8,20,2,5960.0,6200,Intel Xeon E7-8870 v4
+Huawei,Huawei RH8100 V3 (Intel Xeon E7-8880 v4),352,176,8,22,2,6380.0,6630,Intel Xeon E7-8880 v4
+Huawei,Huawei XH321 V3 (Intel Xeon E5-2699 v3),72,36,2,18,2,1410.0,1460,Intel Xeon E5-2699 v3
+Huawei,Huawei XH321 V3 (Intel Xeon E5-2660 v3),40,20,2,10,2,903.0,945,Intel Xeon E5-2660 v3
+Huawei,Huawei CH222 V3 (Intel Xeon E5-2683 v4),64,32,2,16,2,1320.0,1380,Intel Xeon E5-2683 v4
+Huawei,Huawei RH2288H V3 (Intel Xeon E5-2680 v4),56,28,2,14,2,1260.0,1310,Intel Xeon E5-2680 v4
+Huawei,Huawei CH121 V3 (Intel Xeon E5-2680 v4),56,28,2,14,2,1260.0,1320,Intel Xeon E5-2680 v4
+Huawei,Huawei CH222 V3 (Intel Xeon E5-2680 v4),56,28,2,14,2,1260.0,1320,Intel Xeon E5-2680 v4
+Huawei,Huawei RH2288H V3 (Intel Xeon E5-2683 v4),64,32,2,16,2,1320.0,1380,Intel Xeon E5-2683 v4
+Huawei,Huawei CH121 V3 (Intel Xeon E5-2683 v4),64,32,2,16,2,1320.0,1380,Intel Xeon E5-2683 v4
+Huawei,Huawei XH321 V3 (Intel Xeon E5-2650 v4),48,24,2,12,2,1000.0,1050,Intel Xeon E5-2650 v4
+Huawei,Huawei XH321 V3 (Intel Xeon E5-2690 v3),48,24,2,12,2,1100.0,1150,Intel Xeon E5-2690 v3
+Huawei,Huawei XH321 V3 (Intel Xeon E5-2680 v4),56,28,2,14,2,1240.0,1300,Intel Xeon E5-2680 v4
+Huawei,Huawei RH5885H V3 (Intel Xeon E7-8894 v4),192,96,4,24,2,3800.0,Not Run,Intel Xeon E7-8894 v4
+Huawei,Huawei RH8100 V3 (Intel Xeon E7-8894 v4),384,192,8,24,2,7350.0,7650,Intel Xeon E7-8894 v4
+Huawei,Kunlun 9008 (Intel Xeon E7-4809 v3),128,64,8,8,2,1970.0,2070,Intel Xeon E7-4809 v3
+Huawei,Kunlun 9008 (Intel Xeon E7-4820 v3),160,80,8,10,2,2340.0,2450,Intel Xeon E7-4820 v3
+Huawei,Kunlun 9008 (Intel Xeon E7-4830 v3),192,96,8,12,2,3380.0,3530,Intel Xeon E7-4830 v3
+Huawei,Kunlun 9008 (Intel Xeon E7-4850 v3),224,112,8,14,2,3920.0,4090,Intel Xeon E7-4850 v3
+Huawei,Kunlun 9008 (Intel Xeon E7-8867 v3),256,128,8,16,2,5010.0,5230,Intel Xeon E7-8867 v3
+Huawei,Kunlun 9008 (Intel Xeon E7-8891 v3),160,80,8,10,2,3850.0,4050,Intel Xeon E7-8891 v3
+Huawei,Kunlun 9008 (Intel Xeon E7-8860 v3),256,128,8,16,2,4780.0,4990,Intel Xeon E7-8860 v3
+Huawei,Kunlun 9016 (Intel Xeon E7-8890 v4),768,384,16,24,2,13800.0,14300,Intel Xeon E7-8890 v4
+Inspur Corporation,Inspur NF5180M4 (Intel Xeon E5-2650 v4),48,24,2,12,2,998.0,1040,Intel Xeon E5-2650 v4
+Inspur Corporation,Inspur NF5280M4 (Intel Xeon E5-2650 v4),48,24,2,12,2,997.0,1040,Intel Xeon E5-2650 v4
+Inspur Corporation,Inspur NP5570M4 (Intel Xeon E5-2620 v4),32,16,2,8,2,529.0,549,Intel Xeon E5-2620 v4
+Inspur Corporation,Inspur NP5570M4 (Intel Xeon E5-2623 v4),16,8,2,4,2,293.0,303,Intel Xeon E5-2623 v4
+Inspur Corporation,Inspur NP5570M4 (Intel Xeon E5-2620 v4),32,16,2,8,2,635.0,668,Intel Xeon E5-2620 v4
+Inspur Corporation,Inspur NP5570M4 (Intel Xeon E5-2623 v4),16,8,2,4,2,379.0,398,Intel Xeon E5-2623 v4
+Inspur Corporation,Inspur NF5180M4 (Intel Xeon E5-2623 v4),16,8,2,4,2,379.0,397,Intel Xeon E5-2623 v4
+Inspur Corporation,Inspur NF5280M4 (Intel Xeon E5-2623 v4),16,8,2,4,2,379.0,398,Intel Xeon E5-2623 v4
+Inspur Corporation,Inspur NF8460M4 (Intel Xeon E7-8890 v4),192,96,4,24,2,3510.0,3640,Intel Xeon E7-8890 v4
+Inspur Corporation,Inspur NF8460M4 (Intel Xeon E7-8890 v4),192,96,4,24,2,3510.0,3630,Intel Xeon E7-8890 v4
+Inspur Corporation,Inspur NF5166M4 (Intel Xeon E5-2683 v4),64,32,2,16,2,1310.0,1360,Intel Xeon E5-2683 v4
+Inspur Corporation,Inspur NF5270M4 (Intel Xeon E5-2683 v4),64,32,2,16,2,1310.0,1360,Intel Xeon E5-2683 v4
+Inspur Corporation,Inspur NF5460M4 (Intel Xeon E5-2683 v4),64,32,2,16,2,1310.0,1360,Intel Xeon E5-2683 v4
+Inspur Corporation,Inspur NF5170M4 (Intel Xeon E5-2683 v4),64,32,2,16,2,1310.0,1360,Intel Xeon E5-2683 v4
+Inspur Corporation,Inspur NF5270M4 (Intel Xeon E5-2680 v4),56,28,2,14,2,1260.0,1310,Intel Xeon E5-2680 v4
+Inspur Corporation,Inspur NF5166M4 (Intel Xeon E5-2680 v4),56,28,2,14,2,1260.0,1310,Intel Xeon E5-2680 v4
+Inspur Corporation,Inspur NF5170M4 (Intel Xeon E5-2680 v4),56,28,2,14,2,1260.0,1310,Intel Xeon E5-2680 v4
+Inspur Corporation,Inspur NF5460M4 (Intel Xeon E5-2680 v4),56,28,2,14,2,1260.0,1310,Intel Xeon E5-2680 v4
+Inspur Corporation,Inspur SA5212M4 (Intel Xeon E5-2683 v4),64,32,2,16,2,1310.0,1360,Intel Xeon E5-2683 v4
+Inspur Corporation,Inspur SA5112M4 (Intel Xeon E5-2683 v4),64,32,2,16,2,1310.0,1360,Intel Xeon E5-2683 v4
+Inspur Corporation,Inspur SA5112M4 (Intel Xeon E5-2680 v4),56,28,2,14,2,1260.0,1310,Intel Xeon E5-2680 v4
+Inspur Corporation,Inspur SA5212M4 (Intel Xeon E5-2680 v4),56,28,2,14,2,1260.0,1310,Intel Xeon E5-2680 v4
+Inspur Corporation,Inspur NX5480M4 (Intel Xeon E5-2683 v4),64,32,2,16,2,1310.0,1360,Intel Xeon E5-2683 v4
+Inspur Corporation,Inspur SA5248M4 (Intel Xeon E5-2683 v4),64,32,2,16,2,1310.0,1360,Intel Xeon E5-2683 v4
+Inspur Corporation,Inspur SA5248M4 (Intel Xeon E5-2680 v4),56,28,2,14,2,1220.0,1270,Intel Xeon E5-2680 v4
+Inspur Corporation,Inspur NX5480M4 (Intel Xeon E5-2680 v4),56,28,2,14,2,1220.0,1270,Intel Xeon E5-2680 v4
+Lenovo Group Limited,"Lenovo System x3650 M5 (2.10 GHz, Intel Xeon E5-2683 v4)",64,32,2,16,2,1310.0,1370,Intel Xeon E5-2683 v4
+Lenovo Group Limited,"Lenovo ThinkServer SD350 (2.20 GHz, Intel Xeon E5-2630 v4)",40,20,2,10,2,814.0,851,Intel Xeon E5-2630 v4
+Lenovo Group Limited,"Lenovo ThinkServer SD350 (2.20 GHz, Intel Xeon E5-2698 v4)",80,40,2,20,2,1560.0,1610,Intel Xeon E5-2698 v4
+Lenovo Group Limited,"Lenovo ThinkServer SD350 (2.40 GHz, Intel Xeon E5-2640 v4)",40,20,2,10,2,864.0,902,Intel Xeon E5-2640 v4
+Lenovo Group Limited,"Lenovo ThinkServer SD350 (2.60 GHz, Intel Xeon E5-2623 v4)",16,8,2,4,2,380.0,400,Intel Xeon E5-2623 v4
+Lenovo Group Limited,"Lenovo ThinkServer SD350 (1.70 GHz, Intel Xeon E5-2609 v4)",16,16,2,8,1,416.0,435,Intel Xeon E5-2609 v4
+Lenovo Group Limited,"Lenovo ThinkServer SD350 (1.70 GHz, Intel Xeon E5-2603 v4)",12,12,2,6,1,313.0,328,Intel Xeon E5-2603 v4
+Lenovo Group Limited,"Lenovo ThinkServer SD350 (2.60 GHz, Intel Xeon E5-2690 v4)",56,28,2,14,2,1300.0,1360,Intel Xeon E5-2690 v4
+Lenovo Group Limited,"Lenovo ThinkServer SD350 (2.40 GHz, Intel Xeon E5-2680 v4)",56,28,2,14,2,1240.0,1290,Intel Xeon E5-2680 v4
+Lenovo Group Limited,"Lenovo ThinkServer SD350 (2.00 GHz, Intel Xeon E5-2660 v4)",56,28,2,14,2,1100.0,1150,Intel Xeon E5-2660 v4
+Lenovo Group Limited,"Lenovo ThinkServer SD350 (2.20 GHz, Intel Xeon E5-2650 v4)",48,24,2,12,2,988.0,1030,Intel Xeon E5-2650 v4
+Lenovo Group Limited,"Lenovo System x3550 M5 (2.20 GHz, Intel Xeon E5-2699R v4)",88,44,2,22,2,1750.0,1810,Intel Xeon E5-2699R v4
+Lenovo Group Limited,"Lenovo NeXtScale nx360 M5 (2.20 GHz, Intel Xeon E5-2699R v4)",88,44,2,22,2,1750.0,1810,Intel Xeon E5-2699R v4
+Lenovo Group Limited,"Lenovo ThinkServer RD550 (2.20 GHz, Intel Xeon E5-2699R v4)",88,44,2,22,2,1720.0,1790,Intel Xeon E5-2699R v4
+Lenovo Group Limited,"Lenovo ThinkServer RD650 (2.20 GHz, Intel Xeon E5-2699R v4)",88,44,2,22,2,1730.0,1790,Intel Xeon E5-2699R v4
+Lenovo Group Limited,"Lenovo Flex System x240 M5 (2.20 GHz, Intel Xeon E5-2699R v4)",88,44,2,22,2,1740.0,1800,Intel Xeon E5-2699R v4
+Lenovo Group Limited,"Lenovo System x3650 M5 (2.20 GHz, Intel Xeon E5-2699R v4)",88,44,2,22,2,1760.0,1820,Intel Xeon E5-2699R v4
+Lenovo Group Limited,"Lenovo ThinkServer RD550 (2.30 GHz, Intel Xeon E5-2697 v4)",72,36,2,18,2,1500.0,1550,Intel Xeon E5-2697 v4
+Lenovo Group Limited,"Lenovo System x3850 X6 (Intel Xeon E7-8880 v4, 2.20 GHz)",176,88,4,22,2,3300.0,3430,Intel Xeon E7-8880 v4
+Lenovo Group Limited,"Lenovo ThinkServer TS460 (3.70 GHz, Intel Xeon E3-1280 v5)",8,4,1,4,2,246.0,252,Intel Xeon E3-1280 v5
+Lenovo Group Limited,"Lenovo System x3850 X6 (Intel Xeon E7-8894 v4, 2.40 GHz)",96,48,2,24,2,1840.0,Not Run,Intel Xeon E7-8894 v4
+Lenovo Group Limited,"Lenovo System x3850 X6 (Intel Xeon E7-8894 v4, 2.40 GHz)",192,96,4,24,2,3750.0,Not Run,Intel Xeon E7-8894 v4
+Lenovo Group Limited,"Lenovo System x3950 X6 (Intel Xeon E7-8894 v4, 2.40 GHz)",384,192,8,24,2,7210.0,Not Run,Intel Xeon E7-8894 v4
+Lenovo Group Limited,"Lenovo System x3950 X6 (Intel Xeon E7-8870 v4, 2.10 GHz)",320,160,8,20,2,5820.0,6050,Intel Xeon E7-8870 v4
+Lenovo Group Limited,"Lenovo ThinkServer RD550 (2.40 GHz, Intel Xeon E5-2680 v4)",56,28,2,14,2,1250.0,1300,Intel Xeon E5-2680 v4
+Lenovo Group Limited,"Lenovo ThinkServer TS460 (3.00 GHz, Intel Xeon E3-1220 v5)",4,4,1,4,1,194.0,200,Intel Xeon E3-1220 v5
+Lenovo Group Limited,"Lenovo ThinkServer TS460 (3.40 GHz, Intel Xeon E3-1230 v5)",8,4,1,4,2,241.0,248,Intel Xeon E3-1230 v5
+Lenovo Group Limited,"Lenovo ThinkServer TS460 (3.50 GHz, Intel Xeon E3-1240 v5)",8,4,1,4,2,246.0,253,Intel Xeon E3-1240 v5
+Lenovo Group Limited,"Lenovo ThinkServer TS460 (3.60 GHz, Intel Xeon E3-1270 v5)",8,4,1,4,2,250.0,257,Intel Xeon E3-1270 v5
+Lenovo Group Limited,"Lenovo ThinkServer TD350 (2.00 GHz, Intel Xeon E5-2660 v4)",56,28,2,14,2,1110.0,1160,Intel Xeon E5-2660 v4
+Lenovo Group Limited,"Lenovo ThinkServer TD350 (2.40 GHz, Intel Xeon E5-2640 v4)",40,20,2,10,2,853.0,890,Intel Xeon E5-2640 v4
+Lenovo Group Limited,"Lenovo ThinkServer SD350 (2.10 GHz, Intel Xeon E5-2620 v4)",32,16,2,8,2,640.0,673,Intel Xeon E5-2620 v4
+Lenovo Group Limited,"Lenovo ThinkServer RD550 (3.50 GHz, Intel Xeon E5-2637 v4)",16,8,2,4,2,467.0,490,Intel Xeon E5-2637 v4
+M Computers s.r.o.,"MIC HD S7200AP (Intel Xeon Phi 7210, 1.30GHz)",128,64,1,64,4,686.0,Not Run,Intel Xeon Phi 7210
+M Computers s.r.o.,"HPC S2600WT2R (Intel Xeon E5-2650 v4, 2.2 GHz)",48,24,2,12,2,983.0,1030,Intel Xeon E5-2650 v4
+NEC Corporation,Express5800/B120g-h (Intel Xeon E5-2667 v4),16,8,1,8,2,461.0,483,Intel Xeon E5-2667 v4
+NEC Corporation,Express5800/B120g-h (Intel Xeon E5-2699 v4),44,22,1,22,2,837.0,866,Intel Xeon E5-2699 v4
+NEC Corporation,Express5800/B120g-h (Intel Xeon E5-2667 v4),32,16,2,8,2,890.0,934,Intel Xeon E5-2667 v4
+NEC Corporation,Express5800/B120g-h (Intel Xeon E5-2699 v4),88,44,2,22,2,1640.0,1700,Intel Xeon E5-2699 v4
+Sugon,Sugon TC4600E/CX50-G20 (Intel Xeon E5-2690 v4),56,28,2,14,2,1330.0,1380,Intel Xeon E5-2690 v4
+ACTION S.A.,"ACTINA SOLAR 222 S6 (Intel Xeon E5-2640 v4, 2.40 GHz)",40,20,2,10,2,852.0,890,Intel Xeon E5-2640 v4
+Acer Incorporated,Altos R380 F3 (Intel Xeon E5-2650 v4 ),48,24,2,12,2,938.0,969,Intel Xeon E5-2650 v4 
+Acer Incorporated,Altos R360 F3 (Intel Xeon E5-2620 v4),16,8,1,8,2,332.0,351,Intel Xeon E5-2620 v4
+Acer Incorporated,Altos R380 F3 (Intel Xeon E5-2620 v4),16,8,1,8,2,333.0,351,Intel Xeon E5-2620 v4
+Acer Incorporated,Altos AT 350 F3 (Intel Xeon E5-2623 v4),8,4,1,4,2,186.0,197,Intel Xeon E5-2623 v4
+Acer Incorporated,Altos R360 F3 (Intel Xeon E5-2623 v4),8,4,1,4,2,186.0,197,Intel Xeon E5-2623 v4
+Acer Incorporated,Altos R380 F3 (Intel Xeon E5-2623 v4),8,4,1,4,2,186.0,197,Intel Xeon E5-2623 v4
+Acer Incorporated,Altos R380 F3 (Intel Xeon E5-2650 v4),48,24,2,12,2,932.0,982,Intel Xeon E5-2650 v4
+Acer Incorporated,AR 780 F3 (Intel Xeon E7-4809 v4),16,8,1,8,2,269.0,284,Intel Xeon E7-4809 v4
+Acer Incorporated,AR 780 F3 (Intel Xeon E7-4820 v4),20,10,1,10,2,319.0,337,Intel Xeon E7-4820 v4
+Acer Incorporated,AT350 F3 (Intel Xeon E5-2620 v4),16,8,1,8,2,332.0,351,Intel Xeon E5-2620 v4
+Advanced Micro Devices,"Supermicro AS-1123US-TR4, AMD EPYC 7601",128,64,2,32,2,2100.0,2360,
+Advanced Micro Devices,"HPE Cloudline CL3150, AMD EPYC 7601",64,32,1,32,2,1060.0,1200,
+Bull SAS,bullion S16 ( E7-8894 v4 ),767,384,16,24,2,14400.0,14900,
+Cisco Systems,Cisco UCS B420 M4 (Intel Xeon CPU E5-4667 v4 2.20 GHz),144,72,4,18,2,2740.0,2840,Intel Xeon CPU E5-4667 v4 2.20 GHz
+Cisco Systems,Cisco UCS B460 M4 (Intel Xeon CPU E7-8893 v4 3.20 GHz),32,16,4,4,2,943.0,994,Intel Xeon CPU E7-8893 v4 3.20 GHz
+Cisco Systems,"Cisco UCS B420 M4 (Intel Xeon E5-4660 v4, 2.20 GHz)",128,64,4,16,2,2490.0,2590,Intel Xeon E5-4660 v4
+Cisco Systems,Cisco UCS B420 M4 (Intel Xeon E5-4669 v4 2.20 GHz),176,88,4,22,2,3220.0,3320,Intel Xeon E5-4669 v4 2.20 GHz
+Cisco Systems,Cisco UCS B460 M4 (Intel Xeon CPU E7-8891 v4 2.80 GHz),80,40,4,10,2,2120.0,2230,Intel Xeon CPU E7-8891 v4 2.80 GHz
+Cisco Systems,Cisco UCS B460 M4 (Intel Xeon CPU E7-4809 v4 2.10 GHz),64,32,4,8,2,1090.0,1150,Intel Xeon CPU E7-4809 v4 2.10 GHz
+Cisco Systems,Cisco UCS B460 M4 (Intel Xeon E7-4830 v4 2.00 GHz),112,56,4,14,2,1940.0,2020,Intel Xeon E7-4830 v4 2.00 GHz
+Cisco Systems,Cisco UCS B460 M4 (Intel Xeon E7-4850 v4 2.10 GHz),128,64,4,16,2,2310.0,2410,Intel Xeon E7-4850 v4 2.10 GHz
+Cisco Systems,Cisco UCS B460 M4 (Intel Xeon E7-8880 v4 2.20 GHz),176,88,4,22,2,3280.0,3400,Intel Xeon E7-8880 v4 2.20 GHz
+Cisco Systems,Cisco UCS B460 M4 (Intel Xeon E7-8890 v4 2.20 GHz),192,96,4,24,2,3520.0,3650,Intel Xeon E7-8890 v4 2.20 GHz
+Cisco Systems,Cisco UCS B460 M4 (Intel Xeon E7-8860 v4 2.20 GHz),144,72,4,18,2,2860.0,2970,Intel Xeon E7-8860 v4 2.20 GHz
+Cisco Systems,Cisco UCS B460 M4 (Intel Xeon E7-8870 v4 2.10 GHz),160,80,4,20,2,3030.0,3140,Intel Xeon E7-8870 v4 2.10 GHz
+Dell Inc.,PowerEdge C6320p (Intel Xeon Phi 7250 1.40 GHz),272,68,1,68,4,1020.0,1090,Intel Xeon Phi 7250 1.40 GHz
+Dell Inc.,PowerEdge C6320p (Intel Xeon Phi 7210 1.30 GHz),256,64,1,64,4,904.0,972,Intel Xeon Phi 7210 1.30 GHz
+Dell Inc.,"PowerEdge R230 (Intel Xeon E3-1225 v6, 3.30 GHz)",4,4,1,4,1,204.0,Not Run,Intel Xeon E3-1225 v6
+Dell Inc.,"PowerEdge R230 (Intel Xeon E3-1230 v6, 3.50 GHz)",8,4,1,4,2,257.0,Not Run,Intel Xeon E3-1230 v6
+Dell Inc.,"PowerEdge R230 (Intel Xeon E3-1240 v6, 3.70 GHz)",8,4,1,4,2,256.0,Not Run,Intel Xeon E3-1240 v6
+Dell Inc.,"PowerEdge R230 (Intel Xeon E3-1280 v6, 3.90 GHz)",8,4,1,4,2,261.0,Not Run,Intel Xeon E3-1280 v6
+Dell Inc.,"PowerEdge R330 (Intel Xeon E3-1225 v6, 3.30 GHz)",4,4,1,4,1,205.0,Not Run,Intel Xeon E3-1225 v6
+Dell Inc.,"PowerEdge R330 (Intel Xeon E3-1230 v6, 3.50 GHz)",8,4,1,4,2,256.0,267,Intel Xeon E3-1230 v6
+Dell Inc.,"PowerEdge R330 (Intel Xeon E3-1240 v6, 3.70 GHz)",8,4,1,4,2,256.0,264,Intel Xeon E3-1240 v6
+Dell Inc.,"PowerEdge R330 (Intel Xeon E3-1280 v6, 3.90 GHz)",8,4,1,4,2,261.0,269,Intel Xeon E3-1280 v6
+Dell Inc.,"PowerEdge R730 (Intel Xeon E5-2667 v4, 3.20 GHz)",32,16,2,8,2,898.0,941,Intel Xeon E5-2667 v4
+Dell Inc.,"PowerEdge R730xd (Intel Xeon E5-2667 v4, 3.20 GHz)",32,16,2,8,2,898.0,941,Intel Xeon E5-2667 v4
+Dell Inc.,"PowerEdge T130 (Intel Xeon E3-1225 v6, 3.30 GHz)",4,4,1,4,1,205.0,211,Intel Xeon E3-1225 v6
+Dell Inc.,"PowerEdge T130 (Intel Xeon E3-1230 v6, 3.50 GHz)",8,4,1,4,2,256.0,267,Intel Xeon E3-1230 v6
+Dell Inc.,"PowerEdge T130 (Intel Xeon E3-1240 v6, 3.70 GHz)",8,4,1,4,2,257.0,265,Intel Xeon E3-1240 v6
+Dell Inc.,"PowerEdge T130 (Intel Xeon E3-1280 v6, 3.90 GHz)",8,4,1,4,2,261.0,269,Intel Xeon E3-1280 v6
+Dell Inc.,"PowerEdge T330 (Intel Xeon E3-1225 v6, 3.30 GHz)",4,4,1,4,1,204.0,Not Run,Intel Xeon E3-1225 v6
+Dell Inc.,"PowerEdge T330 (Intel Xeon E3-1230 v6, 3.50 GHz)",8,4,1,4,2,257.0,Not Run,Intel Xeon E3-1230 v6
+Dell Inc.,"PowerEdge T330 (Intel Xeon E3-1240 v6, 3.70 GHz)",8,4,1,4,2,256.0,Not Run,Intel Xeon E3-1240 v6
+Dell Inc.,"PowerEdge T330 (Intel Xeon E3-1280 v6, 3.90 GHz)",8,4,1,4,2,260.0,Not Run,Intel Xeon E3-1280 v6
+Dell Inc.,PowerEdge C6320p (Intel Xeon Phi 7230 1.30 GHz),256,64,1,64,4,924.0,994,Intel Xeon Phi 7230 1.30 GHz
+Dell Inc.,PowerEdge C6320p (Intel Xeon Phi 7250F 1.40 GHz),272,68,1,68,4,1020.0,1080,Intel Xeon Phi 7250F 1.40 GHz
+Dell Inc.,"PowerEdge R730 (Intel Xeon E5-2699A v4, 2.40 GHz)",88,44,2,22,2,1820.0,1880,Intel Xeon E5-2699A v4
+Dell Inc.,"PowerEdge R730xd (Intel Xeon E5-2699A v4, 2.40 GHz)",88,44,2,22,2,1820.0,1880,Intel Xeon E5-2699A v4
+Dell Inc.,"PowerEdge R730 (Intel Xeon E5-2630 v4, 2.20 GHz)",40,20,2,10,2,810.0,848,Intel Xeon E5-2630 v4
+Dell Inc.,"PowerEdge R730xd (Intel Xeon E5-2630 v4, 2.20 GHz)",40,20,2,10,2,810.0,848,Intel Xeon E5-2630 v4
+Dell Inc.,PowerEdge R330 (Intel Core i3-6100),4,2,1,2,2,134.0,140,Intel Core i3-6100
+Fujitsu,"PRIMERGY TX1310 M3, (Intel Xeon E3-1245 v6, 3.7GHz)",8,4,1,4,2,263.0,273,Intel Xeon E3-1245 v6
+Fujitsu,Fujitsu (SPARC M12-2S),1536,192,16,12,8,12800.0,14600,SPARC M12-2S
+Fujitsu,Fujitsu (SPARC M12-2S),768,96,8,12,8,6490.0,7480,SPARC M12-2S
+Fujitsu,Fujitsu (SPARC M12-2S),512,64,8,8,8,4900.0,5600,SPARC M12-2S
+Fujitsu,Fujitsu (SPARC M12-2S),384,48,4,12,8,3270.0,3790,SPARC M12-2S
+Fujitsu,Fujitsu (SPARC M12-2S),256,32,4,8,8,2440.0,2810,SPARC M12-2S
+Fujitsu,Fujitsu (SPARC M12-2S),192,24,2,12,8,1630.0,1910,SPARC M12-2S
+Fujitsu,Fujitsu (SPARC M12-2S),96,12,1,12,8,819.0,956,SPARC M12-2S
+Fujitsu,Fujitsu (SPARC M12-2S),64,8,1,8,8,612.0,706,SPARC M12-2S
+Fujitsu,Fujitsu (SPARC M12-2S),8,1,1,1,8,88.1,102,SPARC M12-2S
+Fujitsu,Fujitsu (SPARC M12-2),192,24,2,12,8,1520.0,1770,SPARC M12-2
+HPE,"Synergy 620 Gen9 (2.40 GHz, Intel Xeon E7-8894 v4)",96,48,2,24,2,1830.0,1890,Intel Xeon E7-8894 v4
+HPE,"ProLiant DL580 Gen9 (2.40 GHz, Intel Xeon E7-8894 v4)",192,96,4,24,2,3710.0,3840,Intel Xeon E7-8894 v4
+HPE,"Synergy 680 Gen9 (2.40 GHz, Intel Xeon E7-8894 v4)",192,96,4,24,2,3670.0,3800,Intel Xeon E7-8894 v4
+HPE,"ProLiant ML30 Gen9 (3.90 GHz, Intel Xeon E3-1280 v6)",8,4,1,4,2,272.0,Not Run,Intel Xeon E3-1280 v6
+HPE,"ProLiant ML30 Gen9 (3.90 GHz, Intel Xeon E3-1280 v6)",8,4,1,4,2,270.0,282,Intel Xeon E3-1280 v6
+HPE,"ProLiant DL20 Gen9 (3.90 GHz, Intel Xeon E3-1280 v6)",8,4,1,4,2,271.0,281,Intel Xeon E3-1280 v6
+Huawei,Kunlun 9032 (Intel Xeon E7-8890 v4),1536,768,32,24,2,25900.0,Not Run,Intel Xeon E7-8890 v4
+Huawei,Huawei RH2288H V3 (Intel Xeon E5-2699A v4),88,44,2,22,2,1820.0,1890,Intel Xeon E5-2699A v4
+Huawei,Huawei XH628 V3 (Intel Xeon E5-2699A v4),88,44,2,22,2,1780.0,1840,Intel Xeon E5-2699A v4
+Huawei,Huawei CH121 V3 (Intel Xeon E5-2699A v4),88,44,2,22,2,1820.0,1890,Intel Xeon E5-2699A v4
+Huawei,9016 (Intel Xeon E7-8894 v4),768,384,16,24,2,14600.0,15100,Intel Xeon E7-8894 v4
+Huawei,Huawei XH622 V3 (Intel Xeon E5-2699A v4),88,44,2,22,2,1820.0,1880,Intel Xeon E5-2699A v4
+Huawei,Huawei XH620 V3 (Intel Xeon E5-2699A v4),88,44,2,22,2,1820.0,1880,Intel Xeon E5-2699A v4
+Huawei,Huawei XH628 V3 (Intel Xeon E5-2699A v4),88,44,2,22,2,1820.0,1880,Intel Xeon E5-2699A v4
+Huawei,Huawei XH321 V3 (Intel Xeon E5-2699A v4),88,44,2,22,2,1820.0,1880,Intel Xeon E5-2699A v4
+Inspur Corporation,Inspur NF5280M4 (Intel Xeon E5-2699A v4),88,44,2,22,2,1810.0,1870,Intel Xeon E5-2699A v4
+Inspur Corporation,Inspur NF5280M4 (Intel Xeon E5-2699A v4),88,44,2,22,2,1820.0,1890,Intel Xeon E5-2699A v4
+Inspur Corporation,Inspur NF5270M4 (Intel Xeon E5-2698 v4),80,40,2,20,2,1600.0,1650,Intel Xeon E5-2698 v4
+Inspur Corporation,Inspur NF5180M4 (Intel Xeon E5-2698 v4),80,40,2,20,2,1610.0,1670,Intel Xeon E5-2698 v4
+Inspur Corporation,Inspur NF5180M4 (Intel Xeon E5-2698 v4),80,40,2,20,2,1600.0,1660,Intel Xeon E5-2698 v4
+Inspur Corporation,Inspur NF5280M4 (Intel Xeon E5-2660 v4),56,28,2,14,2,1110.0,1160,Intel Xeon E5-2660 v4
+Inspur Corporation,Inspur NF5180M4 (Intel Xeon E5-2660 v4),56,28,2,14,2,1110.0,1160,Intel Xeon E5-2660 v4
+Inspur Corporation,Inspur NF5460M4 (Intel Xeon E5-2660 v4),56,28,2,14,2,1110.0,1160,Intel Xeon E5-2660 v4
+Inspur Corporation,Inspur NF5270M4 (Intel Xeon E5-2660 v4),56,28,2,14,2,1110.0,1160,Intel Xeon E5-2660 v4
+Inspur Corporation,Inspur NF5170M4 (Intel Xeon E5-2660 v4),56,28,2,14,2,1110.0,1160,Intel Xeon E5-2660 v4
+Inspur Corporation,Inspur NF5166M4 (Intel Xeon E5-2660 v4),56,28,2,14,2,1110.0,1160,Intel Xeon E5-2660 v4
+Inspur Corporation,Inspur NF5180M4 (Intel Xeon E5-2699A v4),88,44,2,22,2,1820.0,1890,Intel Xeon E5-2699A v4
+Inspur Corporation,Inspur SA5112M4 (Intel Xeon E5-2660 v4),56,28,2,14,2,1120.0,1160,Intel Xeon E5-2660 v4
+Inspur Corporation,Inspur SA5212M4 (Intel Xeon E5-2660 v4),56,28,2,14,2,1110.0,1160,Intel Xeon E5-2660 v4
+Inspur Corporation,Inspur NF5280M4 (Intel Xeon E5-2699A v4),88,44,2,22,2,1830.0,1900,Intel Xeon E5-2699A v4
+Lenovo Group Limited,"Lenovo System x3550 M5 (2.60 GHz, Intel Xeon E5-2697A v4)",64,32,2,16,2,1480.0,1540,Intel Xeon E5-2697A v4
+Lenovo Group Limited,"Lenovo NeXtScale nx360 M5 (2.60 GHz, Intel Xeon E5-2697A v4)",64,32,2,16,2,1480.0,1540,Intel Xeon E5-2697A v4
+Lenovo Group Limited,"Lenovo ThinkServer TS150 (3.90 GHz, Intel Xeon E3-1280 v6)",8,4,1,4,2,270.0,280,Intel Xeon E3-1280 v6
+Lenovo Group Limited,"Lenovo system x3250 M6 (3.90 GHz, Intel Xeon E3-1280 v6)",8,4,1,4,2,274.0,285,Intel Xeon E3-1280 v6
+Lenovo Group Limited,"Lenovo System x3650 M5 (2.60 GHz, Intel Xeon E5-2697A v4)",64,32,2,16,2,1490.0,1540,Intel Xeon E5-2697A v4
+Lenovo Group Limited,"Lenovo ThinkServer RS160 (3.90 GHz, Intel Xeon E3-1280 v6)",8,4,1,4,2,272.0,282,Intel Xeon E3-1280 v6
+Lenovo Group Limited,"Lenovo ThinkServer TS460 (3.90 GHz, Intel Xeon E3-1280 v6)",8,4,1,4,2,271.0,282,Intel Xeon E3-1280 v6
+NEC Corporation,Express5800/A2040d (Intel Xeon E7-8893 v4),32,16,4,4,2,938.0,994,Intel Xeon E7-8893 v4
+NEC Corporation,Express5800/A2040d (Intel Xeon E7-8890 v4),96,48,2,24,2,1700.0,1770,Intel Xeon E7-8890 v4
+NEC Corporation,Express5800/GT110i (Intel Xeon E3-1220 v6),4,4,1,4,1,201.0,208,Intel Xeon E3-1220 v6
+NEC Corporation,Express5800/GT110i (Intel Pentium G4560),4,2,1,2,2,122.0,127,Intel Pentium G4560
+NEC Corporation,Express5800/R110i-1 (Intel Xeon E3-1220 v6),4,4,1,4,1,201.0,208,Intel Xeon E3-1220 v6
+NEC Corporation,Express5800/R110i-1 (Intel Xeon E3-1225 v6),4,4,1,4,1,210.0,218,Intel Xeon E3-1225 v6
+NEC Corporation,Express5800/R110i-1 (Intel Xeon E3-1230 v6),8,4,1,4,2,258.0,269,Intel Xeon E3-1230 v6
+NEC Corporation,Express5800/R110i-1 (Intel Xeon E3-1240L v5),8,4,1,4,2,208.0,217,Intel Xeon E3-1240L v5
+NEC Corporation,Express5800/R110i-1 (Intel Xeon E3-1260L v5),8,4,1,4,2,247.0,257,Intel Xeon E3-1260L v5
+NEC Corporation,Express5800/R110i-1 (Intel Pentium G4560),4,2,1,2,2,122.0,127,Intel Pentium G4560
+NEC Corporation,Express5800/T110i (Intel Xeon E3-1225 v6),4,4,1,4,1,210.0,218,Intel Xeon E3-1225 v6
+NEC Corporation,Express5800/R110i-1 (Intel Xeon E3-1270 v6),8,4,1,4,2,273.0,284,Intel Xeon E3-1270 v6
+NEC Corporation,Express5800/T110i (Intel Xeon E3-1220 v6),4,4,1,4,1,201.0,208,Intel Xeon E3-1220 v6
+NEC Corporation,Express5800/T110i (Intel Xeon E3-1230 v6),8,4,1,4,2,258.0,268,Intel Xeon E3-1230 v6
+NEC Corporation,Express5800/T110i (Intel Xeon E3-1270 v6),8,4,1,4,2,273.0,285,Intel Xeon E3-1270 v6
+NEC Corporation,Express5800/T110i (Intel Pentium G4560),4,2,1,2,2,122.0,127,Intel Pentium G4560
+NEC Corporation,Express5800/T110i (Intel Core i3-7300),4,2,1,2,2,147.0,154,Intel Core i3-7300
+NEC Corporation,Express5800/T110i-S (Intel Xeon E3-1225 v6),4,4,1,4,1,210.0,217,Intel Xeon E3-1225 v6
+NEC Corporation,Express5800/T110i-S (Intel Xeon E3-1220 v6),4,4,1,4,1,200.0,208,Intel Xeon E3-1220 v6
+NEC Corporation,Express5800/T110i-S (Intel Xeon E3-1230 v6),8,4,1,4,2,258.0,269,Intel Xeon E3-1230 v6
+NEC Corporation,Express5800/T110i-S (Intel Xeon E3-1260L v5),8,4,1,4,2,248.0,257,Intel Xeon E3-1260L v5
+NEC Corporation,Express5800/T110i-S (Intel Xeon E3-1240L v5),8,4,1,4,2,206.0,215,Intel Xeon E3-1240L v5
+NEC Corporation,Express5800/T110i-S (Intel Xeon E3-1270 v6),8,4,1,4,2,273.0,284,Intel Xeon E3-1270 v6
+NEC Corporation,Express5800/T110i-S (Intel Pentium G4560),4,2,1,2,2,122.0,127,Intel Pentium G4560
+NEC Corporation,Express5800/T110i-S (Intel Core i3-7300),4,2,1,2,2,147.0,154,Intel Core i3-7300
+NEC Corporation,Express5800/T110i (Intel Celeron G3930),2,2,1,2,1,83.7,86.8,Intel Celeron G3930
+NEC Corporation,Express5800/GT110i (Intel Celeron G3930),2,2,1,2,1,83.6,86.8,Intel Celeron G3930
+NEC Corporation,Express5800/A2040d (Intel Xeon E7-8855 v4),112,56,4,14,2,2040.0,2130,Intel Xeon E7-8855 v4
+NEC Corporation,Express5800/A2040d (Intel Xeon E7-8867 v4),144,72,4,18,2,2900.0,3020,Intel Xeon E7-8867 v4
+NEC Corporation,Express5800/A2040d (Intel Xeon E7-8880 v4),176,88,4,22,2,3260.0,3380,Intel Xeon E7-8880 v4
+NEC Corporation,Express5800/A2040d (Intel Xeon E7-8890 v4),192,96,4,24,2,3500.0,3630,Intel Xeon E7-8890 v4
+NEC Corporation,Express5800/A2040d (Intel Xeon E7-8891 v4),80,40,4,10,2,2110.0,2210,Intel Xeon E7-8891 v4
+Supermicro,"SuperServer 5019S-L (X11SSL-F , Intel Xeon E3-1230 v6)",8,4,1,4,2,253.0,263,SSL-F 
+Supermicro,"SuperServer 5019S-L (X11SSL-F , Intel Xeon E3-1240 v6)",8,4,1,4,2,263.0,274,SSL-F 
+Supermicro,"SuperServer 4048B-TR4FT (X10QBi , Intel Xeon E7-8891 v4)",80,40,4,10,2,2120.0,2230,Intel Xeon E7-8891 v4
+Advanced Micro Devices,"Asus RS700A-E9, (AMD EPYC 7551)",128,64,2,32,2,2050.0,2300,AMD EPYC 7551
+Advanced Micro Devices,"Asus RS700A-E9, (AMD EPYC 7451)",96,48,2,24,2,1820.0,2030,AMD EPYC 7451
+Advanced Micro Devices,"Asus RS700A-E9, (AMD EPYC 7351)",64,32,2,16,2,1330.0,1470,AMD EPYC 7351
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8180, 2.50GHz)",112,56,2,28,2,2720.0,Not Run,Intel Xeon Platinum 8180
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8180, 2.50GHz)",224,112,4,28,2,5380.0,Not Run,Intel Xeon Platinum 8180
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8180, 2.50GHz)",112,56,2,28,2,2760.0,Not Run,Intel Xeon Platinum 8180
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6142, 2.60GHz)",64,32,2,16,2,1730.0,1830,Intel Xeon Gold 6142
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8168, 2.70GHz)",96,48,2,24,2,2500.0,2610,Intel Xeon Platinum 8168
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8176, 2.10GHz)",112,56,2,28,2,2460.0,2570,Intel Xeon Platinum 8176
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6138, 2.00GHz)",160,80,4,20,2,3460.0,3650,Intel Xeon Gold 6138
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6140, 2.30GHz)",144,72,4,18,2,3530.0,3720,Intel Xeon Gold 6140
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8168, 2.70GHz)",192,96,4,24,2,4920.0,5130,Intel Xeon Platinum 8168
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8180M, 2.50GHz)",224,112,4,28,2,5310.0,5530,Intel Xeon Platinum 8180M
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6130, 2.10GHz)",64,32,2,16,2,1530.0,1620,Intel Xeon Gold 6130
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8168, 2.70GHz)",96,48,2,24,2,2530.0,2630,Intel Xeon Platinum 8168
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8170, 2.10GHz)",104,52,2,26,2,2330.0,2430,Intel Xeon Platinum 8170
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6140, 2.00GHz)",72,36,2,18,2,1780.0,1880,Intel Xeon Gold 6140
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6138, 2.00GHz)",80,40,2,20,2,1800.0,1900,Intel Xeon Gold 6138
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6130, 2.10GHz)",64,32,2,16,2,1540.0,1620,Intel Xeon Gold 6130
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8170, 2.10GHz)",104,52,2,26,2,2340.0,2440,Intel Xeon Platinum 8170
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6140M, 2.30GHz)",72,36,2,18,2,1800.0,1890,Intel Xeon Gold 6140M
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6140, 2.30GHz)",72,36,2,18,2,1800.0,1900,Intel Xeon Gold 6140
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5118, 2.30GHz)",48,24,2,12,2,1120.0,1190,Intel Xeon Gold 5118
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8153, 2.00GHz)",128,64,4,16,2,2660.0,2830,Intel Xeon Platinum 8153
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6148, 2.40GHz)",160,80,4,20,2,3820.0,4020,Intel Xeon Gold 6148
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8160, 2.10GHz)",192,96,4,24,2,4270.0,4460,Intel Xeon Platinum 8160
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8164, 2.00GHz)",208,104,4,26,2,4330.0,4530,Intel Xeon Platinum 8164
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6152, 2.10GHz)",176,88,4,22,2,3920.0,4110,Intel Xeon Gold 6152
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6130, 2.10GHz)",128,64,4,16,2,3040.0,3200,Intel Xeon Gold 6130
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6144, 3.50GHz)",64,32,4,8,2,2200.0,2330,Intel Xeon Gold 6144
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6146, 3.20GHz)",96,48,4,12,2,2980.0,3140,Intel Xeon Gold 6146
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8170, 2.10GHz)",208,104,4,26,2,4600.0,4810,Intel Xeon Platinum 8170
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8176, 2.10GHz)",224,112,4,28,2,4730.0,4950,Intel Xeon Platinum 8176
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 5120, 2.20GHz)",112,56,4,14,2,2510.0,2670,Intel Xeon Gold 5120
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 5118, 2.30GHz)",96,48,4,12,2,2240.0,2380,Intel Xeon Gold 5118
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6154, 3.00GHz)",72,36,2,18,2,2080.0,2180,Intel Xeon Gold 6154
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6146, 3.20GHz)",48,24,2,12,2,1520.0,1610,Intel Xeon Gold 6146
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8164, 2.00GHz)",104,52,2,26,2,2270.0,2380,Intel Xeon Platinum 8164
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 5115, 2.40GHz)",40,20,2,10,2,966.0,1020,Intel Xeon Gold 5115
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6142, 2.60GHz)",64,32,2,16,2,1700.0,1790,Intel Xeon Gold 6142
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8153, 2.00GHz)",64,32,2,16,2,1340.0,1420,Intel Xeon Platinum 8153
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 5118, 2.30GHz)",48,24,2,12,2,1120.0,1190,Intel Xeon Gold 5118
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6144, 3.50GHz)",32,16,2,8,2,1110.0,1180,Intel Xeon Gold 6144
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6152, 2.10GHz)",88,44,2,22,2,2020.0,2120,Intel Xeon Gold 6152
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6148, 2.40GHz)",80,40,2,20,2,1980.0,2080,Intel Xeon Gold 6148
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8158, 3.00GHz)",48,24,2,12,2,1500.0,1580,Intel Xeon Platinum 8158
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5120, 2.20GHz)",56,28,2,14,2,1260.0,1330,Intel Xeon Gold 5120
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8160, 2.10GHz)",96,48,2,24,2,2210.0,2320,Intel Xeon Platinum 8160
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8153, 2.00GHz)",64,32,2,16,2,1330.0,1420,Intel Xeon Platinum 8153
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6144, 3.50GHz)",32,16,2,8,2,1110.0,1180,Intel Xeon Gold 6144
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6140, 2.00GHz)",72,36,2,18,2,1800.0,1900,Intel Xeon Gold 6140
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6138, 2.00GHz)",80,40,2,20,2,1820.0,1920,Intel Xeon Gold 6138
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6154, 3.00GHz)",72,36,2,18,2,2100.0,2200,Intel Xeon Gold 6154
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6132, 2.60GHz)",56,28,2,14,2,1530.0,1620,Intel Xeon Gold 6132
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6136, 3.00GHz)",48,24,2,12,2,1490.0,1580,Intel Xeon Gold 6136
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6126, 2.60GHz)",48,24,2,12,2,1350.0,1430,Intel Xeon Gold 6126
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8156, 3.60GHz)",16,8,2,4,2,552.0,584,Intel Xeon Platinum 8156
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5120, 2.20GHz)",56,28,2,14,2,1260.0,1340,Intel Xeon Gold 5120
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6150, 2.70GHz)",72,36,2,18,2,1970.0,2070,Intel Xeon Gold 6150
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6134, 3.20GHz)",32,16,2,8,2,1060.0,1120,Intel Xeon Gold 6134
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Silver 4112, 2.60GHz)",16,8,2,4,2,424.0,448,Intel Xeon Silver 4112
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5115, 2.40GHz)",40,20,2,10,2,998.0,1050,Intel Xeon Gold 5115
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6128, 3.40GHz)",24,12,2,6,2,818.0,869,Intel Xeon Gold 6128
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 5122, 3.60GHz)",16,8,2,4,2,549.0,584,Intel Xeon Gold 5122
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Silver 4116, 2.10GHz)",48,24,2,12,2,1050.0,1100,Intel Xeon Silver 4116
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Silver 4114, 2.20GHz)",40,20,2,10,2,905.0,953,Intel Xeon Silver 4114
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Silver 4110, 2.10GHz)",32,16,2,8,2,702.0,740,Intel Xeon Silver 4110
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8156, 3.60GHz)",32,16,4,4,2,1100.0,1170,Intel Xeon Platinum 8156
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6136, 3.00GHz)",96,48,4,12,2,2880.0,3050,Intel Xeon Gold 6136
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6150, 2.70GHz)",144,72,4,18,2,3770.0,3950,Intel Xeon Gold 6150
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6126, 2.60GHz)",96,48,4,12,2,2610.0,2760,Intel Xeon Gold 6126
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6128, 3.40GHz)",48,24,4,6,2,1630.0,1730,Intel Xeon Gold 6128
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6154, 3.00GHz)",144,72,4,18,2,4060.0,4240,Intel Xeon Gold 6154
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6132, 2.60GHz)",112,56,4,14,2,3040.0,3200,Intel Xeon Gold 6132
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6142, 2.60GHz)",128,64,4,16,2,3360.0,3540,Intel Xeon Gold 6142
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6134, 3.20GHz)",64,32,4,8,2,2110.0,2240,Intel Xeon Gold 6134
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 5122, 3.60GHz)",32,16,4,4,2,1100.0,1170,Intel Xeon Gold 5122
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6152, 2.10 GHz)",88,44,2,22,2,1930.0,2030,Intel Xeon Gold 6152
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8164, 2.00 GHz)",104,52,2,26,2,2200.0,2300,Intel Xeon Platinum 8164
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8168, 2.70GHz)",96,48,2,24,2,2450.0,2560,Intel Xeon Platinum 8168
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8160, 2.10GHz)",96,48,2,24,2,2160.0,2260,Intel Xeon Platinum 8160
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8153, 2.00GHz)",64,32,2,16,2,1340.0,1420,Intel Xeon Platinum 8153
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8176, 2.10GHz)",112,56,2,28,2,2410.0,2510,Intel Xeon Platinum 8176
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8170, 2.10 GHz)",104,52,2,26,2,2300.0,2410,Intel Xeon Platinum 8170
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8180, 2.50 GHz)",112,56,2,28,2,2660.0,2770,Intel Xeon Platinum 8180
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8160, 2.10GHz)",96,48,2,24,2,2220.0,2320,Intel Xeon Platinum 8160
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8180, 2.50GHz)",112,56,2,28,2,2690.0,2800,Intel Xeon Platinum 8180
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6126, 2.60GHz)",48,24,2,12,2,1350.0,1430,Intel Xeon Gold 6126
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6136, 3.00GHz)",48,24,2,12,2,1480.0,1570,Intel Xeon Gold 6136
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8176, 2.10GHz)",112,56,2,28,2,2420.0,2520,Intel Xeon Platinum 8176
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8156, 3.60GHz)",16,8,2,4,2,549.0,585,Intel Xeon Platinum 8156
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6148, 2.40 GHz)",80,40,2,20,2,1940.0,2040,Intel Xeon Gold 6148
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6132, 2.60GHz)",56,28,2,14,2,1530.0,1620,Intel Xeon Gold 6132
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8168, 2.70 GHz)",96,48,2,24,2,2530.0,2630,Intel Xeon Platinum 8168
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 5120, 2.20GHz)",56,28,2,14,2,1260.0,1330,Intel Xeon Gold 5120
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Platinum 8158, 3.00GHz)",48,24,2,12,2,1490.0,1580,Intel Xeon Platinum 8158
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 5122, 3.60GHz)",16,8,2,4,2,551.0,585,Intel Xeon Gold 5122
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Silver 4112, 2.60GHz)",16,8,2,4,2,357.0,385,Intel Xeon Silver 4112
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6134, 3.20GHz)",32,16,2,8,2,1060.0,1120,Intel Xeon Gold 6134
+Cisco Systems,"Cisco UCS C220 M5 (Intel Xeon Gold 6128, 3.40GHz)",24,12,2,6,2,819.0,866,Intel Xeon Gold 6128
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6130, 2.10 GHz)",64,32,2,16,2,1510.0,Not Run,Intel Xeon Gold 6130
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 5118, 2.30 GHz)",48,24,2,12,2,1110.0,Not Run,Intel Xeon Gold 5118
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 5120, 2.20 GHz)",56,28,2,14,2,1280.0,Not Run,Intel Xeon Gold 5120
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 5122, 3.60 GHz)",16,8,2,4,2,540.0,Not Run,Intel Xeon Gold 5122
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6126, 2.60 GHz)",48,24,2,12,2,1280.0,Not Run,Intel Xeon Gold 6126
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6128, 3.40 GHz)",24,12,2,6,2,809.0,Not Run,Intel Xeon Gold 6128
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6142, 2.60 GHz)",64,32,2,16,2,1690.0,Not Run,Intel Xeon Gold 6142
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6132, 2.60 GHz)",56,28,2,14,2,1510.0,Not Run,Intel Xeon Gold 6132
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6148, 2.40 GHz)",80,40,2,20,2,1950.0,Not Run,Intel Xeon Gold 6148
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6134, 3.20 GHz)",32,16,2,8,2,1030.0,Not Run,Intel Xeon Gold 6134
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6150, 2.70 GHz)",72,36,2,18,2,1920.0,Not Run,Intel Xeon Gold 6150
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6136, 3.00 GHz)",48,24,2,12,2,1450.0,Not Run,Intel Xeon Gold 6136
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6152, 2.10 GHz)",88,44,2,22,2,1970.0,Not Run,Intel Xeon Gold 6152
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6138, 2.00 GHz)",80,40,2,20,2,1760.0,Not Run,Intel Xeon Gold 6138
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6154, 3.00 GHz)",72,36,2,18,2,2050.0,Not Run,Intel Xeon Gold 6154
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6140, 2.30 GHz)",72,36,2,18,2,1760.0,Not Run,Intel Xeon Gold 6140
+Dell Inc.,"PowerEdge R740 (Intel Xeon Platinum 8153, 2.00 GHz)",64,32,2,16,2,1320.0,Not Run,Intel Xeon Platinum 8153
+Dell Inc.,"PowerEdge R740 (Intel Xeon Platinum 8160, 2.10 GHz)",96,48,2,24,2,2140.0,Not Run,Intel Xeon Platinum 8160
+Dell Inc.,"PowerEdge R740 (Intel Xeon Platinum 8164, 2.00 GHz)",104,52,2,26,2,2150.0,Not Run,Intel Xeon Platinum 8164
+Dell Inc.,"PowerEdge R740 (Intel Xeon Platinum 8168, 2.70 GHz)",96,48,2,24,2,2430.0,Not Run,Intel Xeon Platinum 8168
+Dell Inc.,"PowerEdge R740 (Intel Xeon Platinum 8176, 2.10 GHz)",112,56,2,28,2,2390.0,Not Run,Intel Xeon Platinum 8176
+Dell Inc.,"PowerEdge R740 (Intel Xeon Platinum 8180M, 2.50 GHz)",112,56,2,28,2,2710.0,Not Run,Intel Xeon Platinum 8180M
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 5115, 2.40 GHz)",80,40,4,10,2,1840.0,1940,Intel Xeon Gold 5115
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 5118, 2.30 GHz)",96,48,4,12,2,2200.0,2330,Intel Xeon Gold 5118
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 5120, 2.20 GHz)",112,56,4,14,2,2460.0,2610,Intel Xeon Gold 5120
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 5122, 3.60 GHz)",32,16,4,4,2,1080.0,1150,Intel Xeon Gold 5122
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6126, 2.60 GHz)",96,48,4,12,2,2520.0,2660,Intel Xeon Gold 6126
+Dell Inc.,PowerEdge C6320P (Intel Xeon Phi 7230F 1.30 GHz),256,64,1,64,4,926.0,994,Intel Xeon Phi 7230F 1.30 GHz
+Dell Inc.,"PowerEdge R640 (Intel Xeon Platinum 8180M, 2.50 GHz)",112,56,2,28,2,2670.0,Not Run,Intel Xeon Platinum 8180M
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6128, 3.40 GHz)",48,24,4,6,2,1600.0,1690,Intel Xeon Gold 6128
+Dell Inc.,"PowerEdge R740 (Intel Xeon Bronze 3104, 1.70 GHz)",12,12,2,6,1,246.0,Not Run,Intel Xeon Bronze 3104
+Dell Inc.,"PowerEdge R740 (Intel Xeon Bronze 3106, 1.70 GHz)",16,16,2,8,1,329.0,Not Run,Intel Xeon Bronze 3106
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6130, 2.10 GHz)",128,64,4,16,2,2920.0,3080,Intel Xeon Gold 6130
+Dell Inc.,"PowerEdge R740 (Intel Xeon Silver 4108, 1.80 GHz)",32,16,2,8,2,631.0,Not Run,Intel Xeon Silver 4108
+Dell Inc.,"PowerEdge R740 (Intel Xeon Silver 4110, 2.10 GHz)",32,16,2,8,2,697.0,Not Run,Intel Xeon Silver 4110
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6132, 2.60 GHz)",112,56,4,14,2,2930.0,3090,Intel Xeon Gold 6132
+Dell Inc.,"PowerEdge R740 (Intel Xeon Silver 4112, 2.60 GHz)",16,8,2,4,2,352.0,Not Run,Intel Xeon Silver 4112
+Dell Inc.,"PowerEdge R740 (Intel Xeon Silver 4114, 2.20 GHz)",40,20,2,10,2,896.0,Not Run,Intel Xeon Silver 4114
+Dell Inc.,"PowerEdge R740 (Intel Xeon Silver 4116, 2.10 GHz)",48,24,2,12,2,1040.0,Not Run,Intel Xeon Silver 4116
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 5115, 2.40 GHz)",40,20,2,10,2,972.0,Not Run,Intel Xeon Gold 5115
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6134, 3.20 GHz)",64,32,4,8,2,2030.0,2150,Intel Xeon Gold 6134
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6136, 3.00 GHz)",96,48,4,12,2,2860.0,3040,Intel Xeon Gold 6136
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6138, 2.00 GHz)",160,80,4,20,2,3340.0,3530,Intel Xeon Gold 6138
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6140, 2.30 GHz)",144,72,4,18,2,3370.0,3560,Intel Xeon Gold 6140
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6142, 2.60 GHz)",128,64,4,16,2,3280.0,3450,Intel Xeon Gold 6142
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6148, 2.40 GHz)",160,80,4,20,2,3730.0,3910,Intel Xeon Gold 6148
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6150, 2.70 GHz)",144,72,4,18,2,3710.0,3900,Intel Xeon Gold 6150
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6152, 2.10 GHz)",176,88,4,22,2,3820.0,4030,Intel Xeon Gold 6152
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8156, 3.60 GHz)",32,16,4,4,2,1080.0,1150,Intel Xeon Platinum 8156
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6154, 3.00 GHz)",144,72,4,18,2,4040.0,4230,Intel Xeon Gold 6154
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8158, 3.00 GHz)",96,48,4,12,2,2870.0,3050,Intel Xeon Platinum 8158
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8153, 2.00 GHz)",128,64,4,16,2,2620.0,2770,Intel Xeon Platinum 8153
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8160, 2.10 GHz)",192,96,4,24,2,4160.0,4380,Intel Xeon Platinum 8160
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8164, 2.00 GHz)",208,104,4,26,2,4280.0,4480,Intel Xeon Platinum 8164
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8168, 2.70 GHz)",192,96,4,24,2,4770.0,4980,Intel Xeon Platinum 8168
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8180, 2.50 GHz)",224,112,4,28,2,5200.0,Not Run,Intel Xeon Platinum 8180
+Dell Inc.,PowerEdge C6320P (Intel Xeon Phi 7210F 1.30 GHz),256,64,1,64,4,843.0,905,Intel Xeon Phi 7210F 1.30 GHz
+Dell Inc.,"PowerEdge R740 (Intel Xeon Platinum 8170, 2.10 GHz)",104,52,2,26,2,2280.0,2390,Intel Xeon Platinum 8170
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8170, 2.10 GHz)",208,104,4,26,2,4420.0,4610,Intel Xeon Platinum 8170
+Dell Inc.,"PowerEdge R740 (Intel Xeon Silver 4109T, 2.00 GHz)",32,16,2,8,2,641.0,Not Run,Intel Xeon Silver 4109T
+Dell Inc.,"PowerEdge R740 (Intel Xeon Silver 4112, 2.60 GHz)",16,8,2,4,2,418.0,Not Run,Intel Xeon Silver 4112
+Dell Inc.,"PowerEdge R740 (Intel Xeon Bronze 3106, 1.70 GHz)",16,16,2,8,1,432.0,Not Run,Intel Xeon Bronze 3106
+Dell Inc.,"PowerEdge R740 (Intel Xeon Bronze 3104, 1.70 GHz)",12,12,2,6,1,325.0,Not Run,Intel Xeon Bronze 3104
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 5118, 2.30 GHz)",48,24,2,12,2,1140.0,Not Run,Intel Xeon Gold 5118
+Dell Inc.,"PowerEdge R740 (Intel Xeon Platinum 8164, 2.00 GHz)",104,52,2,26,2,2230.0,Not Run,Intel Xeon Platinum 8164
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 5122, 3.60 GHz)",16,8,2,4,2,540.0,Not Run,Intel Xeon Gold 5122
+Dell Inc.,"PowerEdge R740 (Intel Xeon Platinum 8176, 2.10 GHz)",112,56,2,28,2,2400.0,Not Run,Intel Xeon Platinum 8176
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Bronze 3106, 1.70 GHz)",16,16,2,8,1,327.0,351,Intel Xeon Bronze 3106
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Silver 4108, 1.80 GHz)",32,16,2,8,2,629.0,663,Intel Xeon Silver 4108
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Platinum 8164, 2.00 GHz)",104,52,2,26,2,2190.0,2270,Intel Xeon Platinum 8164
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Platinum 8176, 2.10 GHz)",112,56,2,28,2,2310.0,2410,Intel Xeon Platinum 8176
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Platinum 8176, 2.10 GHz)",112,56,2,28,2,2300.0,2410,Intel Xeon Platinum 8176
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Platinum 8168, 2.70 GHz)",96,48,2,24,2,2360.0,2460,Intel Xeon Platinum 8168
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Bronze 3104, 1.70 GHz)",12,12,2,6,1,276.0,287,Intel Xeon Bronze 3104
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 5122, 3.60 GHz)",16,8,2,4,2,544.0,580,Intel Xeon Gold 5122
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Platinum 8160F, 2.10 GHz)",96,48,2,24,2,2110.0,2180,Intel Xeon Platinum 8160F
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6138F, 2.00 GHz)",80,40,2,20,2,1750.0,1840,Intel Xeon Gold 6138F
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6130, 2.10 GHz)",64,32,2,16,2,1520.0,1600,Intel Xeon Gold 6130
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Bronze 3106, 1.70 GHz)",16,16,2,8,1,393.0,409,Intel Xeon Bronze 3106
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Bronze 3104, 1.70 GHz)",12,12,2,6,1,275.0,286,Intel Xeon Bronze 3104
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6150, 2.70 GHz)",72,36,2,18,2,1850.0,1950,Intel Xeon Gold 6150
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6142, 2.60 GHz)",64,32,2,16,2,1620.0,1700,Intel Xeon Gold 6142
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6144, 3.50 GHz)",32,16,2,8,2,1040.0,1100,Intel Xeon Gold 6144
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Silver 4109T, 2.00 GHz)",32,16,2,8,2,633.0,665,Intel Xeon Silver 4109T
+Dell Inc.,"PowerEdge C6320 (Intel Xeon E5-2690 v4, 2.60 GHz)",56,28,2,14,2,1290.0,1350,Intel Xeon E5-2690 v4
+Dell Inc.,"PowerEdge C6320 (Intel Xeon E5-2637 v4, 3.50 GHz)",16,8,2,4,2,475.0,500,Intel Xeon E5-2637 v4
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6134, 3.20 GHz)",32,16,2,8,2,979.0,1030,Intel Xeon Gold 6134
+Dell Inc.,"PowerEdge R830 (Intel Xeon E5-2698 v4, 2.20 GHz)",80,40,2,20,2,1490.0,1540,Intel Xeon E5-2698 v4
+Dell Inc.,"PowerEdge C6320 (Intel Xeon E5-2630 v4, 2.20 GHz)",40,20,2,10,2,800.0,839,Intel Xeon E5-2630 v4
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Silver 4114, 2.20 GHz)",40,20,2,10,2,888.0,930,Intel Xeon Silver 4114
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6138, 2.00 GHz)",80,40,2,20,2,1730.0,1820,Intel Xeon Gold 6138
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 5118, 2.30 GHz)",48,24,2,12,2,1140.0,1200,Intel Xeon Gold 5118
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Silver 4114, 2.20 GHz)",40,20,2,10,2,802.0,857,Intel Xeon Silver 4114
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Silver 4108, 1.80 GHz)",32,16,2,8,2,629.0,662,Intel Xeon Silver 4108
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 5115, 2.40 GHz)",40,20,2,10,2,955.0,998,Intel Xeon Gold 5115
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6126, 2.60 GHz)",48,24,2,12,2,1280.0,1360,Intel Xeon Gold 6126
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 5120, 2.20 GHz)",56,28,2,14,2,1250.0,1310,Intel Xeon Gold 5120
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6126F, 2.60 GHz)",48,24,2,12,2,1230.0,1330,Intel Xeon Gold 6126F
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Silver 4110, 2.10 GHz)",32,16,2,8,2,624.0,666,Intel Xeon Silver 4110
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Silver 4112, 2.60 GHz)",16,8,2,4,2,380.0,401,Intel Xeon Silver 4112
+Dell Inc.,"PowerEdge R740 (Intel Xeon Silver 4116, 2.10 GHz)",48,24,2,12,2,1000.0,1060,Intel Xeon Silver 4116
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 5122, 3.60 GHz)",16,8,2,4,2,481.0,506,Intel Xeon Gold 5122
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6126, 2.60 GHz)",48,24,2,12,2,1280.0,1360,Intel Xeon Gold 6126
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6138, 2.00 GHz)",80,40,2,20,2,1780.0,1880,Intel Xeon Gold 6138
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6126F, 2.60 GHz)",48,24,2,12,2,1230.0,1330,Intel Xeon Gold 6126F
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6140, 2.30 GHz)",72,36,2,18,2,1770.0,1860,Intel Xeon Gold 6140
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6142, 2.60 GHz)",64,32,2,16,2,1710.0,1800,Intel Xeon Gold 6142
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6150, 2.70 GHz)",72,36,2,18,2,1930.0,2020,Intel Xeon Gold 6150
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6142, 2.60 GHz)",64,32,2,16,2,1650.0,1740,Intel Xeon Gold 6142
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6152, 2.10 GHz)",88,44,2,22,2,1990.0,2090,Intel Xeon Gold 6152
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6146, 3.20 GHz)",48,24,2,12,2,1460.0,1540,Intel Xeon Gold 6146
+Dell Inc.,"PowerEdge R640 (Intel Xeon Platinum 8168, 2.70 GHz)",96,48,2,24,2,2450.0,2560,Intel Xeon Platinum 8168
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6148F, 2.40 GHz)",80,40,2,20,2,1900.0,1990,Intel Xeon Gold 6148F
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6128, 3.40 GHz)",24,12,2,6,2,805.0,856,Intel Xeon Gold 6128
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Platinum 8156, 3.60 GHz)",16,8,2,4,2,507.0,537,Intel Xeon Platinum 8156
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 6150, 2.70 GHz)",72,36,2,18,2,1850.0,1950,Intel Xeon Gold 6150
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6126, 2.60 GHz)",48,24,2,12,2,1320.0,1400,Intel Xeon Gold 6126
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6128, 3.40 GHz)",24,12,2,6,2,809.0,856,Intel Xeon Gold 6128
+Dell Inc.,"PowerEdge R640 (Intel Xeon Platinum 8153, 2.00 GHz)",64,32,2,16,2,1300.0,1390,Intel Xeon Platinum 8153
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6130, 2.10 GHz)",64,32,2,16,2,1510.0,1600,Intel Xeon Gold 6130
+Dell Inc.,"PowerEdge R640 (Intel Xeon Platinum 8164, 2.00 GHz)",104,52,2,26,2,2210.0,2330,Intel Xeon Platinum 8164
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6132, 2.60 GHz)",56,28,2,14,2,1510.0,1590,Intel Xeon Gold 6132
+Dell Inc.,"PowerEdge R640 (Intel Xeon Platinum 8176, 2.10 GHz)",112,56,2,28,2,2400.0,2520,Intel Xeon Platinum 8176
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 5120, 2.20 GHz)",56,28,2,14,2,1250.0,1310,Intel Xeon Gold 5120
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 5122, 3.60 GHz)",16,8,2,4,2,490.0,516,Intel Xeon Gold 5122
+Dell Inc.,PowerEdge C6320P (Intel Xeon Phi 7250 1.40 GHz),272,68,1,68,4,1020.0,1090,Intel Xeon Phi 7250 1.40 GHz
+Dell Inc.,"PowerEdge C6320P (Intel Xeon Phi 7290F, 1.50 GHz)",288,72,1,72,4,1130.0,1210,Intel Xeon Phi 7290F
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Gold 5118, 2.30 GHz)",48,24,2,12,2,1140.0,1200,Intel Xeon Gold 5118
+Dell Inc.,"PowerEdge R640 (Intel Xeon Bronze 3104, 1.70 GHz)",12,12,2,6,1,325.0,Not Run,Intel Xeon Bronze 3104
+Dell Inc.,"PowerEdge R640 (Intel Xeon Silver 4108, 1.80 GHz)",32,16,2,8,2,628.0,662,Intel Xeon Silver 4108
+Dell Inc.,"PowerEdge R640 (Intel Xeon Silver 4109T, 2.00 GHz)",32,16,2,8,2,673.0,709,Intel Xeon Silver 4109T
+Dell Inc.,"PowerEdge R640 (Intel Xeon Silver 4110, 2.10 GHz)",32,16,2,8,2,696.0,733,Intel Xeon Silver 4110
+Dell Inc.,"PowerEdge R640 (Intel Xeon Silver 4112, 2.60 GHz)",16,8,2,4,2,417.0,438,Intel Xeon Silver 4112
+Dell Inc.,"PowerEdge R640 (Intel Xeon Silver 4116, 2.10 GHz)",48,24,2,12,2,1030.0,1080,Intel Xeon Silver 4116
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 5122, 3.60 GHz)",16,8,2,4,2,541.0,571,Intel Xeon Gold 5122
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 5118, 2.30 GHz)",48,24,2,12,2,1140.0,1200,Intel Xeon Gold 5118
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 5120, 2.20 GHz)",56,28,2,14,2,1290.0,1350,Intel Xeon Gold 5120
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 5115, 2.40 GHz)",40,20,2,10,2,976.0,Not Run,Intel Xeon Gold 5115
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Platinum 8168, 2.70 GHz)",96,48,2,24,2,2360.0,2460,Intel Xeon Platinum 8168
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6136, 3.00 GHz)",48,24,2,12,2,1460.0,Not Run,Intel Xeon Gold 6136
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6148, 2.40 GHz)",80,40,2,20,2,1950.0,Not Run,Intel Xeon Gold 6148
+Dell Inc.,"PowerEdge C6420 (Intel Xeon Platinum 8168, 2.70 GHz)",96,48,2,24,2,2360.0,2460,Intel Xeon Platinum 8168
+Dell Inc.,"PowerEdge R640 (Intel Xeon Bronze 3106, 1.70 GHz)",16,16,2,8,1,433.0,Not Run,Intel Xeon Bronze 3106
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6144, 3.50 GHz)",32,16,2,8,2,1090.0,Not Run,Intel Xeon Gold 6144
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6146, 3.20 GHz)",48,24,2,12,2,1540.0,Not Run,Intel Xeon Gold 6146
+Dell Inc.,"PowerEdge R640 (Intel Xeon Platinum 8170, 2.10 GHz)",104,52,2,26,2,2300.0,2400,Intel Xeon Platinum 8170
+Dell Inc.,"PowerEdge R640 (Intel Xeon Platinum 8160, 2.10 GHz)",96,48,2,24,2,2170.0,Not Run,Intel Xeon Platinum 8160
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6154, 3.00 GHz)",72,36,2,18,2,2040.0,Not Run,Intel Xeon Gold 6154
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6144, 3.50 GHz)",32,16,2,8,2,1120.0,Not Run,Intel Xeon Gold 6144
+Dell Inc.,"PowerEdge R640 (Intel Xeon Gold 6134, 3.20 GHz)",32,16,2,8,2,1040.0,1100,Intel Xeon Gold 6134
+Dell Inc.,"PowerEdge R640 (Intel Xeon Silver 4114, 2.20 GHz)",40,20,2,10,2,898.0,943,Intel Xeon Silver 4114
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6146, 3.20 GHz)",48,24,2,12,2,1500.0,Not Run,Intel Xeon Gold 6146
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Gold 6140, 2.30 GHz)",72,36,2,18,2,1760.0,1850,Intel Xeon Gold 6140
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 5122, 3.60 GHz)",16,8,2,4,2,536.0,565,Intel Xeon Gold 5122
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Platinum 8176, 2.10 GHz)",112,56,2,28,2,2250.0,2360,Intel Xeon Platinum 8176
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Gold 6142, 2.60 GHz)",64,32,2,16,2,1680.0,1760,Intel Xeon Gold 6142
+Dell Inc.,"PowerEdge M640 (Intel Xeon Silver 4116, 2.10 GHz)",48,24,2,12,2,1020.0,1070,Intel Xeon Silver 4116
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Gold 6136, 3.00 GHz)",48,24,2,12,2,1420.0,1500,Intel Xeon Gold 6136
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Silver 4108, 1.80 GHz)",32,16,2,8,2,618.0,660,Intel Xeon Silver 4108
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 6148, 2.40 GHz)",80,40,2,20,2,1850.0,1940,Intel Xeon Gold 6148
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 6128, 3.40 GHz)",24,12,2,6,2,809.0,857,Intel Xeon Gold 6128
+Dell Inc.,"PowerEdgeFC640 (Intel Xeon Silver 4109T, 2.00 GHz)",32,16,2,8,2,678.0,713,Intel Xeon Silver 4109T
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Gold 5118, 2.30 GHz)",48,24,2,12,2,1120.0,1170,Intel Xeon Gold 5118
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 5120, 2.20 GHz)",56,28,2,14,2,1280.0,1340,Intel Xeon Gold 5120
+Dell Inc.,"PowerEdge M640 (Intel Xeon Bronze 3104, 1.70 GHz)",12,12,2,6,1,325.0,339,Intel Xeon Bronze 3104
+Dell Inc.,"PowerEdge M640 (Intel Xeon Bronze 3106, 1.70 GHz)",16,16,2,8,1,433.0,452,Intel Xeon Bronze 3106
+Dell Inc.,"PowerEdge M640 (Intel Xeon Silver 4108, 1.80 GHz)",32,16,2,8,2,628.0,662,Intel Xeon Silver 4108
+Dell Inc.,"PowerEdge M640 (Intel Xeon Silver 4109T, 2.00 GHz)",32,16,2,8,2,674.0,709,Intel Xeon Silver 4109T
+Dell Inc.,"PowerEdge M640 (Intel Xeon Silver 4110, 2.10 GHz)",32,16,2,8,2,694.0,731,Intel Xeon Silver 4110
+Dell Inc.,"PowerEdge M640 (Intel Xeon Silver 4114, 2.20 GHz)",40,20,2,10,2,891.0,937,Intel Xeon Silver 4114
+Dell Inc.,"PowerEdge T440 (Intel Xeon Gold 5122, 3.60 GHz)",16,8,2,4,2,541.0,571,Intel Xeon Gold 5122
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 5115, 2.40 GHz)",40,20,2,10,2,963.0,1010,Intel Xeon Gold 5115
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 5120, 2.20 GHz)",56,28,2,14,2,1270.0,1330,Intel Xeon Gold 5120
+Dell Inc.,"PowerEdge R440 (Intel Xeon Bronze 3106, 1.70 GHz)",16,16,2,8,1,433.0,451,Intel Xeon Bronze 3106
+Dell Inc.,"PowerEdge R440 (Intel Xeon Silver 4116, 2.10 GHz)",48,24,2,12,2,1040.0,1090,Intel Xeon Silver 4116
+Dell Inc.,"PowerEdge R440 (Intel Xeon Gold 5122, 3.60 GHz)",16,8,2,4,2,547.0,581,Intel Xeon Gold 5122
+Dell Inc.,"PowerEdge R440 (Intel Xeon Gold 6152, 2.10 GHz)",88,44,2,22,2,1930.0,Not Run,Intel Xeon Gold 6152
+Dell Inc.,"PowerEdge R540 (Intel Xeon Bronze 3106, 1.70 GHz)",16,16,2,8,1,433.0,Not Run,Intel Xeon Bronze 3106
+Dell Inc.,"PowerEdge R540 (Intel Xeon Silver 4116, 2.10 GHz)",48,24,2,12,2,1030.0,Not Run,Intel Xeon Silver 4116
+Dell Inc.,"PowerEdge R540 (Intel Xeon Gold 5122, 3.60 GHz)",16,8,2,4,2,544.0,Not Run,Intel Xeon Gold 5122
+Dell Inc.,"PowerEdge R540 (Intel Xeon Gold 6138, 2.00 GHz)",80,40,2,20,2,1730.0,Not Run,Intel Xeon Gold 6138
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6144, 3.50 GHz)",64,32,4,8,2,2130.0,2260,Intel Xeon Gold 6144
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6146, 3.20 GHz)",96,48,4,12,2,2920.0,3090,Intel Xeon Gold 6146
+Dell Inc.,"PowerEdge T440 (Intel Xeon Bronze 3106, 1.70 GHz)",16,16,2,8,1,432.0,451,Intel Xeon Bronze 3106
+Dell Inc.,"PowerEdge T440 (Intel Xeon Silver 4116, 2.10 GHz)",48,24,2,12,2,1030.0,1090,Intel Xeon Silver 4116
+Fujitsu,"PRIMEQUEST 3800B, (Intel Xeon Platinum 8180, 2.50GHz)",447,224,8,28,2,10500.0,Not Run,Intel Xeon Platinum 8180
+Fujitsu,"PRIMERGY RX2530M4, (Intel Xeon Platinum 8180, 2.50GHz)",112,56,2,28,2,2670.0,2780,Intel Xeon Platinum 8180
+Fujitsu,"PRIMERGY RX2540M4, (Intel Xeon Platinum 8180, 2.50GHz)",112,56,2,28,2,2710.0,2820,Intel Xeon Platinum 8180
+Fujitsu,Fujitsu (SPARC M12-1),48,6,1,6,8,354.0,406,SPARC M12-1
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6126, 2.60GHz)",48,24,2,12,2,1310.0,Not Run,Intel Xeon Gold 6126
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6128, 3.40GHz)",24,12,2,6,2,822.0,Not Run,Intel Xeon Gold 6128
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6130, 2.10GHz)",64,32,2,16,2,1560.0,Not Run,Intel Xeon Gold 6130
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6132, 2.60GHz)",56,28,2,14,2,1540.0,Not Run,Intel Xeon Gold 6132
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6134, 3.20GHz)",32,16,2,8,2,1060.0,Not Run,Intel Xeon Gold 6134
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6136, 3.00GHz)",48,24,2,12,2,1480.0,Not Run,Intel Xeon Gold 6136
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6138, 2.00GHz)",80,40,2,20,2,1770.0,Not Run,Intel Xeon Gold 6138
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Silver 4108, 1.80GHz)",32,16,2,8,2,641.0,Not Run,Intel Xeon Silver 4108
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6140, 2.30GHz)",72,36,2,18,2,1760.0,Not Run,Intel Xeon Gold 6140
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6142, 2.60GHz)",64,32,2,16,2,1710.0,Not Run,Intel Xeon Gold 6142
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6144, 3.50GHz)",32,16,2,8,2,1120.0,Not Run,Intel Xeon Gold 6144
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6146, 3.20GHz)",48,24,2,12,2,1540.0,Not Run,Intel Xeon Gold 6146
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6148, 2.40GHz)",80,40,2,20,2,1940.0,Not Run,Intel Xeon Gold 6148
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6150, 2.70GHz)",72,36,2,18,2,1900.0,Not Run,Intel Xeon Gold 6150
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6152, 2.10GHz)",88,44,2,22,2,1990.0,2090,Intel Xeon Gold 6152
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 6154, 3.00GHz)",72,36,2,18,2,2090.0,Not Run,Intel Xeon Gold 6154
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Bronze 3104, 1.70GHz)",12,12,2,6,1,330.0,Not Run,Intel Xeon Bronze 3104
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Bronze 3106, 1.70GHz)",16,16,2,8,1,440.0,Not Run,Intel Xeon Bronze 3106
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Platinum 8153, 2.00GHz)",64,32,2,16,2,1370.0,Not Run,Intel Xeon Platinum 8153
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Platinum 8160, 2.10GHz)",96,48,2,24,2,2170.0,Not Run,Intel Xeon Platinum 8160
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Platinum 8164, 2.00GHz)",104,52,2,26,2,2220.0,Not Run,Intel Xeon Platinum 8164
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Platinum 8168, 2.70GHz)",96,48,2,24,2,2460.0,Not Run,Intel Xeon Platinum 8168
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Platinum 8170, 2.10GHz)",104,52,2,26,2,2310.0,Not Run,Intel Xeon Platinum 8170
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Platinum 8176, 2.10GHz)",112,56,2,28,2,2440.0,Not Run,Intel Xeon Platinum 8176
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 5115, 2.40GHz)",40,20,2,10,2,980.0,Not Run,Intel Xeon Gold 5115
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 5118, 2.30GHz)",48,24,2,12,2,1160.0,Not Run,Intel Xeon Gold 5118
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 5120, 2.20GHz)",56,28,2,14,2,1310.0,Not Run,Intel Xeon Gold 5120
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Gold 5122, 3.60GHz)",16,8,2,4,2,547.0,Not Run,Intel Xeon Gold 5122
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Silver 4110, 2.10GHz)",32,16,2,8,2,711.0,Not Run,Intel Xeon Silver 4110
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Silver 4112, 2.60GHz)",16,8,2,4,2,426.0,Not Run,Intel Xeon Silver 4112
+Fujitsu,"PRIMERGY RX2530 M4, (Intel Xeon Silver 4114, 2.20GHz)",40,20,2,10,2,911.0,Not Run,Intel Xeon Silver 4114
+Fujitsu,"PRIMERGY RX2540 M4, (Intel Xeon Silver 4116, 2.10GHz)",48,24,2,12,2,1060.0,Not Run,Intel Xeon Silver 4116
+H3C,H3C UniServer R4900 G3,72,36,2,18,2,1740.0,1830,
+H3C,H3C UniServer R4900 G3 (Intel Xeon Platinum 8164),104,52,2,26,2,2180.0,2280,Intel Xeon Platinum 8164
+H3C,H3C UniServer R4900 G3 (Intel Xeon Platinum 8164),104,52,2,26,2,2280.0,2370,Intel Xeon Platinum 8164
+H3C,H3C UniServer R4900 G3 (Intel Xeon Gold 6140),72,36,2,18,2,1770.0,1870,Intel Xeon Gold 6140
+H3C,H3C UniServer R2900 G3 (Intel Xeon Platinum 8153),64,32,2,16,2,1320.0,1390,Intel Xeon Platinum 8153
+HPE,"ProLiant DL360 Gen9 (3.00 GHz, Intel Xeon E5-2687W v4)",48,24,2,12,2,1190.0,1240,Intel Xeon E5-2687W v4
+HPE,"Synergy 680 Gen9 (2.20 GHz, Intel Xeon E7-8890 v4)",192,96,4,24,2,3540.0,Not Run,Intel Xeon E7-8890 v4
+HPE,"Synergy 680 Gen9 (2.00 GHz, Intel Xeon E7-4830 v4)",112,56,4,14,2,1930.0,Not Run,Intel Xeon E7-4830 v4
+Huawei,Huawei CH242 V3 (Intel Xeon E7-4820 v4),80,40,4,10,2,1310.0,1370,Intel Xeon E7-4820 v4
+Huawei,Huawei 1288H V5 (Intel Xeon Platinum 8180),112,56,2,28,2,2770.0,2900,Intel Xeon Platinum 8180
+Huawei,Huawei 2288H V5 (Intel Xeon Platinum 8180),112,56,2,28,2,2800.0,2930,Intel Xeon Platinum 8180
+Huawei,Huawei CH121 V5 (Intel Xeon Platinum 8180),112,56,2,28,2,2790.0,2920,Intel Xeon Platinum 8180
+Huawei,Huawei 2488H V5 (Intel Xeon Platinum 8180),224,112,4,28,2,5520.0,Not Run,Intel Xeon Platinum 8180
+Huawei,Huawei 8100 V5 (Intel Xeon Platinum 8180),448,224,8,28,2,10900.0,Not Run,Intel Xeon Platinum 8180
+Huawei,Huawei 2288H V5 (Intel Xeon Platinum 8170),104,52,2,26,2,2260.0,2390,Intel Xeon Platinum 8170
+Huawei,Huawei CH121 V5 (Intel Xeon Platinum 8170),104,52,2,26,2,2260.0,2400,Intel Xeon Platinum 8170
+Huawei,Huawei 1288H V5 (Intel Xeon Platinum 8170),104,52,2,26,2,2260.0,2400,Intel Xeon Platinum 8170
+Huawei,Huawei 2288H V5 (Intel Xeon Platinum 8168),96,48,2,24,2,2480.0,2610,Intel Xeon Platinum 8168
+Huawei,Huawei CH121 V5 (Intel Xeon Platinum 8168),96,48,2,24,2,2490.0,2610,Intel Xeon Platinum 8168
+Huawei,Huawei 1288H V5 (Intel Xeon Platinum 8168),96,48,2,24,2,2490.0,2610,Intel Xeon Platinum 8168
+Huawei,Huawei 1288H V5 (Intel Xeon Platinum 8160),96,48,2,24,2,2150.0,2260,Intel Xeon Platinum 8160
+Huawei,Huawei CH121 V5 (Intel Xeon Platinum 8160),96,48,2,24,2,2150.0,2270,Intel Xeon Platinum 8160
+Huawei,Huawei 2288H V5 (Intel Xeon Platinum 8160),96,48,2,24,2,2150.0,2260,Intel Xeon Platinum 8160
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 6154),72,36,2,18,2,2070.0,2180,Intel Xeon Gold 6154
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 6154),72,36,2,18,2,2070.0,2180,Intel Xeon Gold 6154
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 6154),72,36,2,18,2,2070.0,2180,Intel Xeon Gold 6154
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 6152),88,44,2,22,2,1970.0,2090,Intel Xeon Gold 6152
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 6152),88,44,2,22,2,1970.0,2090,Intel Xeon Gold 6152
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 6152),88,44,2,22,2,1960.0,2090,Intel Xeon Gold 6152
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 6148),80,40,2,20,2,1930.0,2050,Intel Xeon Gold 6148
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 6148),80,40,2,20,2,1930.0,2040,Intel Xeon Gold 6148
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 6148),80,40,2,20,2,1940.0,2050,Intel Xeon Gold 6148
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 6142),64,32,2,16,2,1700.0,1800,Intel Xeon Gold 6142
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 6142),64,32,2,16,2,1690.0,1800,Intel Xeon Gold 6142
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 6142),64,32,2,16,2,1690.0,1800,Intel Xeon Gold 6142
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 6140),72,36,2,18,2,1740.0,1850,Intel Xeon Gold 6140
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 6140),72,36,2,18,2,1740.0,1850,Intel Xeon Gold 6140
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 6140),72,36,2,18,2,1740.0,1850,Intel Xeon Gold 6140
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 6138),80,40,2,20,2,1740.0,1840,Intel Xeon Gold 6138
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 6138),80,40,2,20,2,1740.0,1840,Intel Xeon Gold 6138
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 6138),80,40,2,20,2,1740.0,1840,Intel Xeon Gold 6138
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 6136),48,24,2,12,2,1470.0,1570,Intel Xeon Gold 6136
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 6136),48,24,2,12,2,1470.0,1570,Intel Xeon Gold 6136
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 6136),48,24,2,12,2,1470.0,1570,Intel Xeon Gold 6136
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 6134),32,16,2,8,2,1050.0,1130,Intel Xeon Gold 6134
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 6134),32,16,2,8,2,1050.0,1130,Intel Xeon Gold 6134
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 6134),32,16,2,8,2,1050.0,1130,Intel Xeon Gold 6134
+Huawei,Huawei CH121 V5 (Intel Xeon Platinum 8176),112,56,2,28,2,2390.0,2530,Intel Xeon Platinum 8176
+Huawei,Huawei 2288H V5 (Intel Xeon Platinum 8176),112,56,2,28,2,2390.0,2520,Intel Xeon Platinum 8176
+Huawei,Huawei 1288H V5 (Intel Xeon Platinum 8176),112,56,2,28,2,2380.0,2520,Intel Xeon Platinum 8176
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 6132),56,28,2,14,2,1520.0,1620,Intel Xeon Gold 6132
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 6132),56,28,2,14,2,1520.0,1620,Intel Xeon Gold 6132
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 6132),56,28,2,14,2,1520.0,1620,Intel Xeon Gold 6132
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 6130),64,32,2,16,2,1480.0,1580,Intel Xeon Gold 6130
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 6130),64,32,2,16,2,1480.0,1580,Intel Xeon Gold 6130
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 6130),64,32,2,16,2,1480.0,1580,Intel Xeon Gold 6130
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 6128),24,12,2,6,2,828.0,885,Intel Xeon Gold 6128
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 6128),24,12,2,6,2,828.0,885,Intel Xeon Gold 6128
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 6128),24,12,2,6,2,827.0,884,Intel Xeon Gold 6128
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 6126),48,24,2,12,2,1330.0,1430,Intel Xeon Gold 6126
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 6126),48,24,2,12,2,1330.0,1430,Intel Xeon Gold 6126
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 6126),48,24,2,12,2,1330.0,1430,Intel Xeon Gold 6126
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 5122),16,8,2,4,2,564.0,604,Intel Xeon Gold 5122
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 5122),16,8,2,4,2,564.0,604,Intel Xeon Gold 5122
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 5122),16,8,2,4,2,565.0,604,Intel Xeon Gold 5122
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 5120),56,28,2,14,2,1240.0,1330,Intel Xeon Gold 5120
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 5120),56,28,2,14,2,1240.0,1330,Intel Xeon Gold 5120
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 5120),56,28,2,14,2,1240.0,1330,Intel Xeon Gold 5120
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 6150),72,36,2,18,2,1930.0,2040,Intel Xeon Gold 6150
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 6150),72,36,2,18,2,1940.0,2040,Intel Xeon Gold 6150
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 6150),72,36,2,18,2,1940.0,2040,Intel Xeon Gold 6150
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 5118),48,24,2,12,2,1090.0,1180,Intel Xeon Gold 5118
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 5118),48,24,2,12,2,1090.0,1180,Intel Xeon Gold 5118
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 5118),48,24,2,12,2,1090.0,1180,Intel Xeon Gold 5118
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 5115),40,20,2,10,2,948.0,1020,Intel Xeon Gold 5115
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 5115),40,20,2,10,2,947.0,1020,Intel Xeon Gold 5115
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 5115),40,20,2,10,2,949.0,1020,Intel Xeon Gold 5115
+Huawei,Huawei 1288H V5 (Intel Xeon Platinum 8153),64,32,2,16,2,1290.0,1390,Intel Xeon Platinum 8153
+Huawei,Huawei 2288H V5 (Intel Xeon Platinum 8153),64,32,2,16,2,1290.0,1390,Intel Xeon Platinum 8153
+Huawei,Huawei CH121 V5 (Intel Xeon Platinum 8153),64,32,2,16,2,1290.0,1390,Intel Xeon Platinum 8153
+Huawei,Huawei 1288H V5 (Intel Xeon Platinum 8156),16,8,2,4,2,551.0,591,Intel Xeon Platinum 8156
+Huawei,Huawei 2288H V5 (Intel Xeon Platinum 8156),16,8,2,4,2,551.0,591,Intel Xeon Platinum 8156
+Huawei,Huawei CH121 V5 (Intel Xeon Platinum 8156),16,8,2,4,2,551.0,592,Intel Xeon Platinum 8156
+Huawei,Huawei CH121 V5 (Intel Xeon Platinum 8164),104,52,2,26,2,2170.0,2300,Intel Xeon Platinum 8164
+Huawei,Huawei 2288H V5 (Intel Xeon Platinum 8164),104,52,2,26,2,2180.0,2300,Intel Xeon Platinum 8164
+Huawei,Huawei 1288H V5 (Intel Xeon Platinum 8164),104,52,2,26,2,2170.0,2300,Intel Xeon Platinum 8164
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 5118),48,24,2,12,2,1150.0,1210,Intel Xeon Gold 5118
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 5118),48,24,2,12,2,1150.0,1210,Intel Xeon Gold 5118
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 5118),48,24,2,12,2,1150.0,1210,Intel Xeon Gold 5118
+Huawei,Huawei 1288H V5 (Intel Xeon Silver 4116),48,24,2,12,2,1020.0,1080,Intel Xeon Silver 4116
+Huawei,Huawei 2288H V5 (Intel Xeon Silver 4116),48,24,2,12,2,1020.0,1070,Intel Xeon Silver 4116
+Huawei,Huawei CH121 V5 (Intel Xeon Silver 4116),48,24,2,12,2,1020.0,1080,Intel Xeon Silver 4116
+Huawei,Huawei CH121 V5 (Intel Xeon Silver 4114),40,20,2,10,2,900.0,950,Intel Xeon Silver 4114
+Huawei,Huawei 1288H V5 (Intel Xeon Silver 4114),40,20,2,10,2,899.0,950,Intel Xeon Silver 4114
+Huawei,Huawei 2288H V5 (Intel Xeon Silver 4114),40,20,2,10,2,901.0,951,Intel Xeon Silver 4114
+Huawei,Huawei CH242 V3 (Intel Xeon E7-8894 v4),192,96,4,24,2,3790.0,3930,Intel Xeon E7-8894 v4
+Huawei,Huawei CH121 V5 (Intel Xeon Silver 4112),16,8,2,4,2,423.0,448,Intel Xeon Silver 4112
+Huawei,Huawei 1288H V5 (Intel Xeon Silver 4112),16,8,2,4,2,423.0,447,Intel Xeon Silver 4112
+Huawei,Huawei 2288H V5 (Intel Xeon Silver 4112),16,8,2,4,2,422.0,447,Intel Xeon Silver 4112
+Huawei,Huawei CH121 V5 (Intel Xeon Silver 4110),32,16,2,8,2,702.0,743,Intel Xeon Silver 4110
+Huawei,Huawei 1288H V5 (Intel Xeon Silver 4110),32,16,2,8,2,703.0,741,Intel Xeon Silver 4110
+Huawei,Huawei 2288H V5 (Intel Xeon Silver 4110),32,16,2,8,2,702.0,742,Intel Xeon Silver 4110
+Huawei,Huawei 1288H V5 (Intel Xeon Bronze 3106),16,16,2,8,1,439.0,458,Intel Xeon Bronze 3106
+Huawei,Huawei 2288H V5 (Intel Xeon Bronze 3106),16,16,2,8,1,439.0,458,Intel Xeon Bronze 3106
+Huawei,Huawei CH121 V5 (Intel Xeon Bronze 3106),16,16,2,8,1,438.0,457,Intel Xeon Bronze 3106
+Huawei,Huawei CH121 V5 (Intel Xeon Bronze 3104),12,12,2,6,1,328.0,342,Intel Xeon Bronze 3104
+Huawei,Huawei 1288H V5 (Intel Xeon Bronze 3104),12,12,2,6,1,328.0,342,Intel Xeon Bronze 3104
+Huawei,Huawei 2288H V5 (Intel Xeon Bronze 3104),12,12,2,6,1,328.0,342,Intel Xeon Bronze 3104
+Huawei,Huawei CH121 V5 (Intel Xeon Silver 4108),32,16,2,8,2,632.0,669,Intel Xeon Silver 4108
+Huawei,Huawei 1288H V5 (Intel Xeon Silver 4108),32,16,2,8,2,633.0,670,Intel Xeon Silver 4108
+Huawei,Huawei 2288H V5 (Intel Xeon Silver 4108),32,16,2,8,2,632.0,668,Intel Xeon Silver 4108
+Huawei,Huawei CH121 V5 (Intel Xeon Silver 4116),48,24,2,12,2,1040.0,1100,Intel Xeon Silver 4116
+Huawei,Huawei 1288H V5 (Intel Xeon Silver 4116),48,24,2,12,2,1040.0,1100,Intel Xeon Silver 4116
+Huawei,Huawei 2288H V5 (Intel Xeon Silver 4116),48,24,2,12,2,1040.0,1100,Intel Xeon Silver 4116
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 5115),40,20,2,10,2,987.0,1040,Intel Xeon Gold 5115
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 5115),40,20,2,10,2,988.0,1040,Intel Xeon Gold 5115
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 5115),40,20,2,10,2,987.0,1040,Intel Xeon Gold 5115
+Huawei,Huawei CH121 V5 (Intel Xeon Gold 5120),56,28,2,14,2,1290.0,1360,Intel Xeon Gold 5120
+Huawei,Huawei 1288H V5 (Intel Xeon Gold 5120),56,28,2,14,2,1290.0,1360,Intel Xeon Gold 5120
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 5120),56,28,2,14,2,1290.0,1360,Intel Xeon Gold 5120
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 5120),112,56,4,14,2,2470.0,2620,Intel Xeon Gold 5120
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 5122),32,16,4,4,2,1090.0,1160,Intel Xeon Gold 5122
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 6126),96,48,4,12,2,2600.0,2750,Intel Xeon Gold 6126
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 6126T),96,48,4,12,2,2580.0,2720,Intel Xeon Gold 6126T
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 6130),128,64,4,16,2,2920.0,3080,Intel Xeon Gold 6130
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 6130T),128,64,4,16,2,2970.0,3130,Intel Xeon Gold 6130T
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 6134M),64,32,4,8,2,2080.0,2210,Intel Xeon Gold 6134M
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 6136),96,48,4,12,2,2870.0,3040,Intel Xeon Gold 6136
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 6138),160,80,4,20,2,3390.0,3550,Intel Xeon Gold 6138
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 6152),176,88,4,22,2,3790.0,3970,Intel Xeon Gold 6152
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 6154),144,72,4,18,2,4000.0,4190,Intel Xeon Gold 6154
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 6138T),160,80,4,20,2,3390.0,3560,Intel Xeon Gold 6138T
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 6140M),144,72,4,18,2,3450.0,3630,Intel Xeon Gold 6140M
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 6142),128,64,4,16,2,3240.0,3420,Intel Xeon Gold 6142
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 6148),160,80,4,20,2,3780.0,3960,Intel Xeon Gold 6148
+Huawei,Huawei 2488 V5 (Intel Xeon Gold 6150),144,72,4,18,2,3760.0,3940,Intel Xeon Gold 6150
+Huawei,Huawei 2488 V5 (Intel Xeon Platinum 8153),128,64,4,16,2,2640.0,2810,Intel Xeon Platinum 8153
+Huawei,Huawei 2488 V5 (Intel Xeon Platinum 8156),32,16,4,4,2,1090.0,1160,Intel Xeon Platinum 8156
+Huawei,Huawei 2488 V5 (Intel Xeon Platinum 8170),208,104,4,26,2,4430.0,4590,Intel Xeon Platinum 8170
+Huawei,Huawei 2488 V5 (Intel Xeon Platinum 8176),224,112,4,28,2,4630.0,4840,Intel Xeon Platinum 8176
+Huawei,Huawei 2288H V5 (Intel Xeon Gold 6144),32,16,2,8,2,1090.0,1140,Intel Xeon Gold 6144
+Inspur Corporation,Inspur NF5180M4 (Intel Xeon E5-2699A v4),88,44,2,22,2,1840.0,1900,Intel Xeon E5-2699A v4
+Inspur Corporation,Inspur NF5180M4 (Intel Xeon E5-2699A v4),88,44,2,22,2,1830.0,1890,Intel Xeon E5-2699A v4
+Inspur Corporation,Inspur NF5180M4 (Intel Xeon E5-2640 v4),40,20,2,10,2,862.0,902,Intel Xeon E5-2640 v4
+Inspur Corporation,Inspur NF5280M4 (Intel Xeon E5-2698 v4),80,40,2,20,2,1610.0,1670,Intel Xeon E5-2698 v4
+Inspur Corporation,Inspur NF5170M4 (Intel Xeon E5-2698 v4),80,40,2,20,2,1600.0,1660,Intel Xeon E5-2698 v4
+Inspur Corporation,Inspur NF5170M4 (Intel Xeon E5-2699A v4),88,44,2,22,2,1820.0,1880,Intel Xeon E5-2699A v4
+Inspur Corporation,Inspur NF5270M4 (Intel Xeon E5-2699A v4),88,44,2,22,2,1820.0,1880,Intel Xeon E5-2699A v4
+Inspur Corporation,Inspur NF5170M4 (Intel Xeon E5-2640 v4),40,20,2,10,2,856.0,896,Intel Xeon E5-2640 v4
+Inspur Corporation,Inspur NF5270M4 (Intel Xeon E5-2640 v4),40,20,2,10,2,857.0,897,Intel Xeon E5-2640 v4
+Inspur Corporation,Inspur NF5460M4 (Intel Xeon E5-2640 v4),40,20,2,10,2,857.0,896,Intel Xeon E5-2640 v4
+Inspur Corporation,Inspur NF5166M4 (Intel Xeon E5-2640 v4),40,20,2,10,2,856.0,896,Intel Xeon E5-2640 v4
+Inspur Corporation,Inspur NF5280M4 (Intel Xeon E5-2630 v4),40,20,2,10,2,806.0,846,Intel Xeon E5-2630 v4
+Inspur Corporation,Inspur NF5180M4 (Intel Xeon E5-2630 v4),40,20,2,10,2,805.0,846,Intel Xeon E5-2630 v4
+Inspur Corporation,Inspur NF5270M4 (Intel Xeon E5-2630 v4),40,20,2,10,2,808.0,846,Intel Xeon E5-2630 v4
+Inspur Corporation,Inspur NF5170M4 (Intel Xeon E5-2630 v4),40,20,2,10,2,808.0,846,Intel Xeon E5-2630 v4
+Inspur Corporation,Inspur NX5460M4 (Intel Xeon E5-2620 v4),32,16,2,8,2,653.0,684,Intel Xeon E5-2620 v4
+Inspur Corporation,Inspur NX5460M4 (Intel Xeon E5-2650 v4),48,24,2,12,2,945.0,987,Intel Xeon E5-2650 v4
+Lenovo Global Technology,"ThinkSystem ST550 (2.00 GHz, Intel Xeon Gold 6138)",80,40,2,20,2,1760.0,1880,Intel Xeon Gold 6138
+Lenovo Global Technology,"ThinkSystem SR530 (2.00 GHz, Intel Xeon Gold 6138)",80,40,2,20,2,1750.0,1860,Intel Xeon Gold 6138
+Lenovo Global Technology,"ThinkSystem SR550 (2.00 GHz, Intel Xeon Gold 6138)",80,40,2,20,2,1760.0,1860,Intel Xeon Gold 6138
+Lenovo Global Technology,"ThinkSystem SR850 (2.10 GHz, Intel Xeon Platinum 8176)",224,112,4,28,2,4790.0,5040,Intel Xeon Platinum 8176
+Lenovo Global Technology,"ThinkSystem SN550 (2.10 GHz, Intel Xeon Platinum 8176)",112,56,2,28,2,2430.0,2560,Intel Xeon Platinum 8176
+Lenovo Global Technology,"ThinkSystem SN850 (2.10 GHz, Intel Xeon Platinum 8176)",224,112,4,28,2,4760.0,5010,Intel Xeon Platinum 8176
+Lenovo Global Technology,"ThinkSystem SD530 (2.10 GHz, Intel Xeon Platinum 8176)",112,56,2,28,2,2400.0,2520,Intel Xeon Platinum 8176
+Lenovo Global Technology,"ThinkSystem SR630 (2.50 GHz, Intel Xeon Platinum 8180)",112,56,2,28,2,2670.0,2780,Intel Xeon Platinum 8180
+Lenovo Global Technology,"ThinkSystem SR950 (2.50 GHz, Intel Xeon Platinum 8180)",224,112,4,28,2,5370.0,5600,Intel Xeon Platinum 8180
+Lenovo Global Technology,"ThinkSystem SR950 (2.50 GHz, Intel Xeon Platinum 8180)",448,224,8,28,2,10600.0,11000,Intel Xeon Platinum 8180
+Lenovo Global Technology,"ThinkSystem SR650 (2.50 GHz, Intel Xeon Platinum 8180)",112,56,2,28,2,2700.0,2810,Intel Xeon Platinum 8180
+Lenovo Global Technology,"ThinkSystem SR650 (2.50 GHz, Intel Xeon Platinum 8180)",56,28,1,28,2,1300.0,1350,Intel Xeon Platinum 8180
+Lenovo Global Technology,"Lenovo ThinkServer RS160 (3.00 GHz, Intel Xeon E3-1220 v6)",4,4,1,4,1,201.0,208,Intel Xeon E3-1220 v6
+Lenovo Global Technology,"Lenovo ThinkServer RS160 (3.30 GHz, Intel Xeon E3-1225 v6)",4,4,1,4,1,211.0,218,Intel Xeon E3-1225 v6
+Lenovo Global Technology,"Lenovo ThinkServer RS160 (3.50 GHz, Intel Xeon E3-1230 v6)",8,4,1,4,2,257.0,266,Intel Xeon E3-1230 v6
+Lenovo Global Technology,"Lenovo ThinkServer RS160 (3.70 GHz, Intel Xeon E3-1240 v6)",8,4,1,4,2,266.0,276,Intel Xeon E3-1240 v6
+Lenovo Global Technology,"Lenovo ThinkServer RS160 (3.80 GHz, Intel Xeon E3-1270 v6)",8,4,1,4,2,272.0,282,Intel Xeon E3-1270 v6
+Lenovo Global Technology,"Lenovo ThinkServer TS460 (3.00 GHz, Intel Xeon E3-1220 v6)",4,4,1,4,1,201.0,207,Intel Xeon E3-1220 v6
+Lenovo Global Technology,"Lenovo ThinkServer TS460 (3.30 GHz, Intel Xeon E3-1225 v6)",4,4,1,4,1,211.0,218,Intel Xeon E3-1225 v6
+Lenovo Global Technology,"Lenovo ThinkServer TS460 (3.50 GHz, Intel Xeon E3-1230 v6)",8,4,1,4,2,257.0,266,Intel Xeon E3-1230 v6
+Lenovo Global Technology,"Lenovo ThinkServer TS460 (3.70 GHz, Intel Xeon E3-1240 v6)",8,4,1,4,2,266.0,276,Intel Xeon E3-1240 v6
+Lenovo Global Technology,"Lenovo ThinkServer TS460 (3.80 GHz, Intel Xeon E3-1270 v6)",8,4,1,4,2,271.0,282,Intel Xeon E3-1270 v6
+Lenovo Global Technology,"Lenovo System x3250 M6 (3.00 GHz, Intel Xeon E3-1220 v6)",4,4,1,4,1,200.0,207,Intel Xeon E3-1220 v6
+Lenovo Global Technology,"Lenovo System x3250 M6 (3.30 GHz, Intel Xeon E3-1225 v6)",4,4,1,4,1,211.0,218,Intel Xeon E3-1225 v6
+Lenovo Global Technology,"Lenovo System x3250 M6 (3.50 GHz, Intel Xeon E3-1230 v6)",8,4,1,4,2,258.0,269,Intel Xeon E3-1230 v6
+Lenovo Global Technology,"Lenovo System x3250 M6 (3.70 GHz, Intel Xeon E3-1240 v6)",8,4,1,4,2,269.0,279,Intel Xeon E3-1240 v6
+Lenovo Global Technology,"Lenovo System x3250 M6 (3.80 GHz, Intel Xeon E3-1270 v6)",8,4,1,4,2,274.0,285,Intel Xeon E3-1270 v6
+Lenovo Global Technology,"Lenovo ThinkServer TS150 (3.30 GHz, Intel Xeon E3-1225 v6)",4,4,1,4,1,210.0,217,Intel Xeon E3-1225 v6
+Lenovo Global Technology,"Lenovo ThinkServer TS150 (3.70 GHz, Intel Xeon E3-1240 v6)",8,4,1,4,2,264.0,275,Intel Xeon E3-1240 v6
+Lenovo Global Technology,"Lenovo ThinkServer TS150 (3.70 GHz, Intel Xeon E3-1245 v6)",8,4,1,4,2,265.0,275,Intel Xeon E3-1245 v6
+Lenovo Global Technology,"Lenovo ThinkServer TS150 (3.80 GHz, Intel Xeon E3-1270 v6)",8,4,1,4,2,270.0,280,Intel Xeon E3-1270 v6
+Lenovo Global Technology,"Lenovo ThinkServer TS150 (3.80 GHz, Intel Xeon E3-1275 v6)",8,4,1,4,2,270.0,280,Intel Xeon E3-1275 v6
+Lenovo Global Technology,"Lenovo ThinkServer TS150 (3.00 GHz, Intel Xeon E3-1220 v6)",4,4,1,4,1,200.0,206,Intel Xeon E3-1220 v6
+Lenovo Global Technology,"Lenovo ThinkServer TS150 (3.50 GHz, Intel Xeon E3-1230 v6)",8,4,1,4,2,256.0,265,Intel Xeon E3-1230 v6
+Lenovo Global Technology,"ThinkSystem SR950 (2.60 GHz, Intel Xeon Gold 6126)",96,48,4,12,2,2650.0,2790,Intel Xeon Gold 6126
+Lenovo Global Technology,"ThinkSystem SR950 (3.00 GHz, Intel Xeon Platinum 8158)",96,48,4,12,2,2940.0,3110,Intel Xeon Platinum 8158
+Lenovo Global Technology,"ThinkSystem ST550 (2.60 GHz, Intel Xeon Silver 4112)",16,8,2,4,2,414.0,435,Intel Xeon Silver 4112
+Lenovo Global Technology,"ThinkSystem ST550 (1.70 GHz, Intel Xeon Bronze 3104)",12,12,2,6,1,324.0,339,Intel Xeon Bronze 3104
+Lenovo Global Technology,"ThinkSystem ST550 (2.20 GHz, Intel Xeon Silver 4114)",40,20,2,10,2,887.0,932,Intel Xeon Silver 4114
+Lenovo Global Technology,"ThinkSystem ST550 (1.70 GHz, Intel Xeon Bronze 3106)",16,16,2,8,1,432.0,449,Intel Xeon Bronze 3106
+Lenovo Global Technology,"ThinkSystem ST550 (2.10 GHz, Intel Xeon Silver 4116)",48,24,2,12,2,1020.0,1070,Intel Xeon Silver 4116
+Lenovo Global Technology,"ThinkSystem ST550 (1.80 GHz, Intel Xeon Silver 4108)",32,16,2,8,2,628.0,661,Intel Xeon Silver 4108
+Lenovo Global Technology,"ThinkSystem ST550 (2.00 GHz, Intel Xeon Silver 4109T)",32,16,2,8,2,670.0,706,Intel Xeon Silver 4109T
+Lenovo Global Technology,"ThinkSystem ST550 (2.40 GHz, Intel Xeon Gold 5115)",40,20,2,10,2,973.0,1020,Intel Xeon Gold 5115
+Lenovo Global Technology,"ThinkSystem ST550 (2.10 GHz, Intel Xeon Silver 4110)",32,16,2,8,2,692.0,729,Intel Xeon Silver 4110
+Lenovo Global Technology,"ThinkSystem ST550 (2.30 GHz, Intel Xeon Gold 5118)",48,24,2,12,2,1130.0,1190,Intel Xeon Gold 5118
+Lenovo Global Technology,"ThinkSystem ST550 (2.20 GHz, Intel Xeon Gold 5120)",56,28,2,14,2,1270.0,1330,Intel Xeon Gold 5120
+Lenovo Global Technology,"ThinkSystem ST550 (2.20 GHz, Intel Xeon Gold 5120T)",56,28,2,14,2,1280.0,1340,Intel Xeon Gold 5120T
+Lenovo Global Technology,"ThinkSystem ST550 (3.60 GHz, Intel Xeon Gold 5122)",16,8,2,4,2,556.0,590,Intel Xeon Gold 5122
+Lenovo Global Technology,"ThinkSystem ST550 (2.60 GHz, Intel Xeon Gold 6126)",48,24,2,12,2,1310.0,1400,Intel Xeon Gold 6126
+Lenovo Global Technology,"ThinkSystem ST550 (2.60 GHz, Intel Xeon Gold 6126T)",48,24,2,12,2,1320.0,1400,Intel Xeon Gold 6126T
+Lenovo Global Technology,"ThinkSystem ST550 (2.10 GHz, Intel Xeon Gold 6130)",64,32,2,16,2,1530.0,1610,Intel Xeon Gold 6130
+Lenovo Global Technology,"ThinkSystem ST550 (2.10 GHz, Intel Xeon Gold 6130T)",64,32,2,16,2,1540.0,1610,Intel Xeon Gold 6130T
+Lenovo Global Technology,"ThinkSystem ST550 (2.00 GHz, Intel Xeon Gold 6138T)",80,40,2,20,2,1700.0,1810,Intel Xeon Gold 6138T
+Lenovo Global Technology,"ThinkSystem ST550 (2.00 GHz, Intel Xeon Platinum 8153)",64,32,2,16,2,1340.0,1400,Intel Xeon Platinum 8153
+Lenovo Global Technology,"ThinkSystem SR530 (1.70 GHz, Intel Xeon Bronze 3104)",12,12,2,6,1,323.0,337,Intel Xeon Bronze 3104
+Lenovo Global Technology,"ThinkSystem SR530 (1.70 GHz, Intel Xeon Bronze 3106)",16,16,2,8,1,432.0,448,Intel Xeon Bronze 3106
+Lenovo Global Technology,"ThinkSystem SR530 (2.60 GHz, Intel Xeon Silver 4112)",16,8,2,4,2,413.0,436,Intel Xeon Silver 4112
+Lenovo Global Technology,"ThinkSystem SR530 (2.20 GHz, Intel Xeon Silver 4114)",40,20,2,10,2,885.0,928,Intel Xeon Silver 4114
+Lenovo Global Technology,"ThinkSystem SR530 (1.80 GHz, Intel Xeon Silver 4108)",32,16,2,8,2,624.0,658,Intel Xeon Silver 4108
+Lenovo Global Technology,"ThinkSystem SR530 (2.00 GHz, Intel Xeon Silver 4109T)",32,16,2,8,2,670.0,706,Intel Xeon Silver 4109T
+Lenovo Global Technology,"ThinkSystem SR530 (2.10 GHz, Intel Xeon Silver 4110)",32,16,2,8,2,691.0,728,Intel Xeon Silver 4110
+Lenovo Global Technology,"ThinkSystem SR530 (2.10 GHz, Intel Xeon Silver 4116)",48,24,2,12,2,1020.0,1070,Intel Xeon Silver 4116
+Lenovo Global Technology,"ThinkSystem SR530 (2.30 GHz, Intel Xeon Gold 5118)",48,24,2,12,2,1130.0,1190,Intel Xeon Gold 5118
+Lenovo Global Technology,"ThinkSystem SR530 (2.20 GHz, Intel Xeon Gold 5120)",56,28,2,14,2,1260.0,1320,Intel Xeon Gold 5120
+Lenovo Global Technology,"ThinkSystem SR530 (2.20 GHz, Intel Xeon Gold 5120T)",56,28,2,14,2,1270.0,1330,Intel Xeon Gold 5120T
+Lenovo Global Technology,"ThinkSystem SR530 (2.60 GHz, Intel Xeon Gold 6126)",48,24,2,12,2,1310.0,1380,Intel Xeon Gold 6126
+Lenovo Global Technology,"ThinkSystem SR530 (2.60 GHz, Intel Xeon Gold 6126T)",48,24,2,12,2,1310.0,1400,Intel Xeon Gold 6126T
+Lenovo Global Technology,"ThinkSystem SR530 (2.10 GHz, Intel Xeon Gold 6130)",64,32,2,16,2,1510.0,1580,Intel Xeon Gold 6130
+Lenovo Global Technology,"ThinkSystem SR530 (2.10 GHz, Intel Xeon Gold 6130T)",64,32,2,16,2,1530.0,1600,Intel Xeon Gold 6130T
+Lenovo Global Technology,"ThinkSystem SR530 (3.60 GHz, Intel Xeon Platinum 8156)",16,8,2,4,2,555.0,592,Intel Xeon Platinum 8156
+Lenovo Global Technology,"ThinkSystem SR550 (1.70 GHz, Intel Xeon Bronze 3104)",12,12,2,6,1,323.0,336,Intel Xeon Bronze 3104
+Lenovo Global Technology,"ThinkSystem SR550 (2.10 GHz, Intel Xeon Gold 6130)",64,32,2,16,2,1520.0,1590,Intel Xeon Gold 6130
+Lenovo Global Technology,"ThinkSystem SR550 (1.70 GHz, Intel Xeon Bronze 3106)",16,16,2,8,1,430.0,446,Intel Xeon Bronze 3106
+Lenovo Global Technology,"ThinkSystem SR550 (2.10 GHz, Intel Xeon Gold 6130T)",64,32,2,16,2,1530.0,1600,Intel Xeon Gold 6130T
+Lenovo Global Technology,"ThinkSystem SR550 (1.80 GHz, Intel Xeon Silver 4108)",32,16,2,8,2,623.0,656,Intel Xeon Silver 4108
+Lenovo Global Technology,"ThinkSystem SR550 (3.60 GHz, Intel Xeon Platinum 8156)",16,8,2,4,2,556.0,592,Intel Xeon Platinum 8156
+Lenovo Global Technology,"ThinkSystem SR550 (2.00 GHz, Intel Xeon Silver 4109T)",32,16,2,8,2,668.0,703,Intel Xeon Silver 4109T
+Lenovo Global Technology,"ThinkSystem SR550 (2.20 GHz, Intel Xeon Gold 5120T)",56,28,2,14,2,1270.0,1330,Intel Xeon Gold 5120T
+Lenovo Global Technology,"ThinkSystem SR550 (2.10 GHz, Intel Xeon Silver 4110)",32,16,2,8,2,690.0,727,Intel Xeon Silver 4110
+Lenovo Global Technology,"ThinkSystem SR550 (3.60 GHz, Intel Xeon Gold 5122)",16,8,2,4,2,555.0,593,Intel Xeon Gold 5122
+Lenovo Global Technology,"ThinkSystem SR550 (2.60 GHz, Intel Xeon Gold 6126)",48,24,2,12,2,1320.0,1380,Intel Xeon Gold 6126
+Lenovo Global Technology,"ThinkSystem SR550 (2.60 GHz, Intel Xeon Silver 4112)",16,8,2,4,2,413.0,437,Intel Xeon Silver 4112
+Lenovo Global Technology,"ThinkSystem SR550 (2.20 GHz, Intel Xeon Silver 4114)",40,20,2,10,2,886.0,931,Intel Xeon Silver 4114
+Lenovo Global Technology,"ThinkSystem SR550 (2.60 GHz, Intel Xeon Gold 6126T)",48,24,2,12,2,1310.0,1400,Intel Xeon Gold 6126T
+Lenovo Global Technology,"ThinkSystem SR550 (2.10 GHz, Intel Xeon Silver 4116)",48,24,2,12,2,1020.0,1070,Intel Xeon Silver 4116
+Lenovo Global Technology,"ThinkSystem SR550 (2.30 GHz, Intel Xeon Gold 5118)",48,24,2,12,2,1130.0,1190,Intel Xeon Gold 5118
+Lenovo Global Technology,"ThinkSystem SR550 (2.20 GHz, Intel Xeon Gold 5120)",56,28,2,14,2,1260.0,1330,Intel Xeon Gold 5120
+Lenovo Global Technology,"ThinkSystem SN550 (2.30 GHz, Intel Xeon Gold 5118)",48,24,2,12,2,1150.0,1200,Intel Xeon Gold 5118
+Lenovo Global Technology,"ThinkSystem SN550 (1.70 GHz, Intel Xeon Bronze 3106)",16,16,2,8,1,431.0,448,Intel Xeon Bronze 3106
+Lenovo Global Technology,"ThinkSystem SN550 (2.10 GHz, Intel Xeon Gold 6130)",64,32,2,16,2,1550.0,1630,Intel Xeon Gold 6130
+Lenovo Global Technology,"ThinkSystem SN550 (2.00 GHz, Intel Xeon Silver 4109T)",32,16,2,8,2,678.0,714,Intel Xeon Silver 4109T
+Lenovo Global Technology,"ThinkSystem SN550 (2.10 GHz, Intel Xeon Silver 4110)",32,16,2,8,2,699.0,737,Intel Xeon Silver 4110
+Lenovo Global Technology,"ThinkSystem SN550 (2.10 GHz, Intel Xeon Gold 6130T)",64,32,2,16,2,1550.0,1630,Intel Xeon Gold 6130T
+Lenovo Global Technology,"ThinkSystem SN550 (2.00 GHz, Intel Xeon Gold 6138)",80,40,2,20,2,1780.0,1900,Intel Xeon Gold 6138
+Lenovo Global Technology,"ThinkSystem SN550 (2.60 GHz, Intel Xeon Silver 4112)",16,8,2,4,2,420.0,443,Intel Xeon Silver 4112
+Lenovo Global Technology,"ThinkSystem SN550 (2.30 GHz, Intel Xeon Gold 6140)",72,36,2,18,2,1800.0,1870,Intel Xeon Gold 6140
+Lenovo Global Technology,"ThinkSystem SN550 (2.10 GHz, Intel Xeon Silver 4116)",48,24,2,12,2,1030.0,1090,Intel Xeon Silver 4116
+Lenovo Global Technology,"ThinkSystem SN550 (2.60 GHz, Intel Xeon Gold 6142)",64,32,2,16,2,1700.0,1810,Intel Xeon Gold 6142
+Lenovo Global Technology,"ThinkSystem SN550 (2.00 GHz, Intel Xeon Platinum 8164)",104,52,2,26,2,2220.0,2340,Intel Xeon Platinum 8164
+Lenovo Global Technology,"ThinkSystem SN550 (2.70 GHz, Intel Xeon Gold 6150)",72,36,2,18,2,1930.0,2040,Intel Xeon Gold 6150
+Lenovo Global Technology,"ThinkSystem SN550 (2.10 GHz, Intel Xeon Platinum 8170)",104,52,2,26,2,2290.0,2420,Intel Xeon Platinum 8170
+Lenovo Global Technology,"ThinkSystem SN550 (2.10 GHz, Intel Xeon Gold 6152)",88,44,2,22,2,1960.0,2070,Intel Xeon Gold 6152
+Lenovo Global Technology,"ThinkSystem SN550 (3.00 GHz, Intel Xeon Platinum 8158)",48,24,2,12,2,1460.0,1560,Intel Xeon Platinum 8158
+Lenovo Global Technology,"ThinkSystem SN550 (2.10 GHz, Intel Xeon Platinum 8160)",96,48,2,24,2,2160.0,2270,Intel Xeon Platinum 8160
+Lenovo Global Technology,"ThinkSystem SR850 (2.40 GHz, Intel Xeon Gold 5115)",80,40,4,10,2,1930.0,2030,Intel Xeon Gold 5115
+Lenovo Global Technology,"ThinkSystem SR850 (2.60 GHz, Intel Xeon Gold 6126)",96,48,4,12,2,2600.0,2760,Intel Xeon Gold 6126
+Lenovo Global Technology,"ThinkSystem SR850 (2.10 GHz, Intel Xeon Gold 6130)",64,32,2,16,2,1540.0,1610,Intel Xeon Gold 6130
+Lenovo Global Technology,"ThinkSystem SR950 (2.60 GHz, Intel Xeon Gold 6126T)",96,48,4,12,2,2660.0,2820,Intel Xeon Gold 6126T
+Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Gold 6130T)",128,64,4,16,2,3110.0,3260,Intel Xeon Gold 6130T
+Lenovo Global Technology,"ThinkSystem SR950 (2.60 GHz, Intel Xeon Gold 6132)",112,56,4,14,2,3070.0,3210,Intel Xeon Gold 6132
+Lenovo Global Technology,"ThinkSystem SR950 (3.20 GHz, Intel Xeon Gold 6134M)",64,32,4,8,2,2090.0,2220,Intel Xeon Gold 6134M
+Lenovo Global Technology,"ThinkSystem SN850 (2.40 GHz, Intel Xeon Gold 6148)",160,80,4,20,2,3750.0,3960,Intel Xeon Gold 6148
+Lenovo Global Technology,"ThinkSystem SR950 (3.60 GHz, Intel Xeon Platinum 8156)",32,16,4,4,2,1080.0,1150,Intel Xeon Platinum 8156
+Lenovo Global Technology,"ThinkSystem SN850 (2.70 GHz, Intel Xeon Gold 6150)",144,72,4,18,2,3780.0,3980,Intel Xeon Gold 6150
+Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8160M)",192,96,4,24,2,4370.0,4570,Intel Xeon Platinum 8160M
+Lenovo Global Technology,"ThinkSystem SN850 (2.00 GHz, Intel Xeon Platinum 8153)",128,64,4,16,2,2700.0,2830,Intel Xeon Platinum 8153
+Lenovo Global Technology,"ThinkSystem SR950 (2.00 GHz, Intel Xeon Platinum 8164)",208,104,4,26,2,4520.0,4700,Intel Xeon Platinum 8164
+Lenovo Global Technology,"ThinkSystem SN850 (2.10 GHz, Intel Xeon Platinum 8160)",192,96,4,24,2,4180.0,4400,Intel Xeon Platinum 8160
+Lenovo Global Technology,"ThinkSystem SN850 (2.00 GHz, Intel Xeon Platinum 8164)",208,104,4,26,2,4310.0,4530,Intel Xeon Platinum 8164
+Lenovo Global Technology,"ThinkSystem SR950 (2.50 GHz, Intel Xeon Platinum 8180M)",224,112,4,28,2,5340.0,5560,Intel Xeon Platinum 8180M
+Lenovo Global Technology,"ThinkSystem SN850 (2.10 GHz, Intel Xeon Platinum 8170)",208,104,4,26,2,4440.0,4670,Intel Xeon Platinum 8170
+Lenovo Global Technology,"ThinkSystem SR650 (1.70 GHz, Intel Xeon Bronze 3104)",12,12,2,6,1,326.0,339,Intel Xeon Bronze 3104
+Lenovo Global Technology,"ThinkSystem SR650 (2.10 GHz, Intel Xeon Silver 4116)",48,24,2,12,2,1040.0,1090,Intel Xeon Silver 4116
+Lenovo Global Technology,"ThinkSystem SR650 (1.80 GHz, Intel Xeon Silver 4108)",32,16,2,8,2,634.0,667,Intel Xeon Silver 4108
+Lenovo Global Technology,"ThinkSystem SR650 (2.40 GHz, Intel Xeon Gold 5115)",40,20,2,10,2,969.0,1020,Intel Xeon Gold 5115
+Lenovo Global Technology,"ThinkSystem SR650 (2.10 GHz, Intel Xeon Silver 4110)",32,16,2,8,2,701.0,739,Intel Xeon Silver 4110
+Lenovo Global Technology,"ThinkSystem SR650 (2.30 GHz, Intel Xeon Gold 5118)",48,24,2,12,2,1150.0,1200,Intel Xeon Gold 5118
+Lenovo Global Technology,"ThinkSystem SR650 (2.20 GHz, Intel Xeon Gold 5120)",56,28,2,14,2,1280.0,1340,Intel Xeon Gold 5120
+Lenovo Global Technology,"ThinkSystem SR650 (2.60 GHz, Intel Xeon Silver 4112)",16,8,2,4,2,421.0,443,Intel Xeon Silver 4112
+Lenovo Global Technology,"ThinkSystem SR650 (2.20 GHz, Intel Xeon Silver 4114)",40,20,2,10,2,898.0,942,Intel Xeon Silver 4114
+M Computers s.r.o.,"HPC S2600WF (Intel Xeon Silver 4112, 2.60 GHz)",16,8,2,4,2,418.0,Not Run,Intel Xeon Silver 4112
+M Computers s.r.o.,"HPC S2600WF (Intel Xeon Silver 4114, 2.20 GHz)",40,20,2,10,2,884.0,Not Run,Intel Xeon Silver 4114
+Nokia,AirFrame AR-D521U-A (Intel Xeon Platinum 8180),112,56,2,28,2,2540.0,2650,Intel Xeon Platinum 8180
+Sugon,Sugon A620-G30 (AMD EPYC 7601),128,64,2,32,2,2150.0,2400,AMD EPYC 7601
+Supermicro,"SuperServer 4048B-TR4FT (X10QBi , Intel Xeon E7-4809 v4)",64,32,4,8,2,1050.0,1110,Intel Xeon E7-4809 v4
+Supermicro,SuperServer 1029U-TN10RT (Intel Xeon Platinum 8180),112,56,2,28,2,2710.0,2820,Intel Xeon Platinum 8180
+Supermicro,"SuperServer SYS-2049U-TR4 (X11QPH+, Intel Xeon Platinum 8180)",224,112,4,28,2,5260.0,Not Run,PH+
+Acer Incorporated,Altos R360 F4 (Intel Xeon Gold 6152),88,44,2,22,2,1920.0,2020,Intel Xeon Gold 6152
+Acer Incorporated,Altos R380 F4 (Intel Xeon Gold 6152),88,44,2,22,2,1920.0,2020,Intel Xeon Gold 6152
+Acer Incorporated,Altos R360 F4 (Intel Xeon Gold 6126),48,24,2,12,2,1290.0,1360,Intel Xeon Gold 6126
+Acer Incorporated,Altos R380 F4 (Intel Xeon Gold 6126),48,24,2,12,2,1290.0,1360,Intel Xeon Gold 6126
+Acer Incorporated,Altos R360 F4 (Intel Xeon Gold 6136),48,24,2,12,2,1410.0,1480,Intel Xeon Gold 6136
+Acer Incorporated,Altos R380 F4 (Intel Xeon Gold 6136),48,24,2,12,2,1410.0,1480,Intel Xeon Gold 6136
+Acer Incorporated,Altos R360 F4 (Intel Xeon Gold 6138),80,40,2,20,2,1700.0,1790,Intel Xeon Gold 6138
+Acer Incorporated,Altos R380 F4 (Intel Xeon Gold 6138),80,40,2,20,2,1700.0,1790,Intel Xeon Gold 6138
+Acer Incorporated,Altos R360 F4 (Intel Xeon Gold 6134),32,16,2,8,2,1000.0,1060,Intel Xeon Gold 6134
+Acer Incorporated,Altos R380 F4 (Intel Xeon Gold 6134),32,16,2,8,2,1000.0,1060,Intel Xeon Gold 6134
+Acer Incorporated,Altos R360 F4 (Intel Xeon Gold 6140),72,36,2,18,2,1690.0,1780,Intel Xeon Gold 6140
+Acer Incorporated,Altos R380 F4 (Intel Xeon Gold 6140),72,36,2,18,2,1690.0,1780,Intel Xeon Gold 6140
+Acer Incorporated,Altos R360 F4 (Intel Xeon Gold 6148),80,40,2,20,2,1850.0,1950,Intel Xeon Gold 6148
+Acer Incorporated,Altos R380 F4 (Intel Xeon Gold 6148),80,40,2,20,2,1850.0,1950,Intel Xeon Gold 6148
+Acer Incorporated,Altos R360 F4 (Intel Xeon Gold 6150),72,36,2,18,2,1850.0,1940,Intel Xeon Gold 6150
+Acer Incorporated,Altos R380 F4 (Intel Xeon Gold 6150),72,36,2,18,2,1850.0,1940,Intel Xeon Gold 6150
+Acer Incorporated,Altos R360 F4 (Intel Xeon Gold 6130),64,32,2,16,2,1450.0,1540,Intel Xeon Gold 6130
+Acer Incorporated,Altos R380 F4 (Intel Xeon Gold 6130),64,32,2,16,2,1450.0,1540,Intel Xeon Gold 6130
+Acer Incorporated,Altos W2000h-W370h F4 (Intel Xeon Gold 6138),72,36,2,18,2,1660.0,1740,Intel Xeon Gold 6138
+Acer Incorporated,Altos W2000h-W370h F4 (Intel Xeon Gold 6126),48,24,2,12,2,1290.0,1360,Intel Xeon Gold 6126
+Acer Incorporated,Altos W2000h-W370h F4 (Intel Xeon Gold 6134),32,16,2,8,2,1000.0,1060,Intel Xeon Gold 6134
+Acer Incorporated,Altos W2000h-W370h F4 (Intel Xeon Gold 6136),48,24,2,12,2,1410.0,1480,Intel Xeon Gold 6136
+Acer Incorporated,Altos W2000h-W370h F4 (Intel Xeon Gold 6130),64,32,2,16,2,1420.0,1500,Intel Xeon Gold 6130
+Acer Incorporated,Altos W2000h-W370h F4 (Intel Xeon Gold 6138),80,40,2,20,2,1700.0,1790,Intel Xeon Gold 6138
+Acer Incorporated,Altos W2000h-W370h F4 (Intel Xeon Gold 6138),80,40,2,20,2,1840.0,1930,Intel Xeon Gold 6138
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8180, 2.50GHz)",224,112,4,28,2,5470.0,5710,Intel Xeon Platinum 8180
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6142M, 2.60GHz)",128,64,4,16,2,3380.0,3560,Intel Xeon Gold 6142M
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8160M, 2.10GHz)",192,96,4,24,2,4310.0,4510,Intel Xeon Platinum 8160M
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6134M, 3.20GHz)",64,32,4,8,2,2110.0,2230,Intel Xeon Gold 6134M
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6140M, 2.30GHz)",144,72,4,18,2,3500.0,3680,Intel Xeon Gold 6140M
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 5115, 2.40GHz)",80,40,4,10,2,1900.0,2010,Intel Xeon Gold 5115
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8176M, 2.10GHz)",224,112,4,28,2,4760.0,4960,Intel Xeon Platinum 8176M
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6142M, 2.60 GHz)",64,32,2,16,2,1740.0,1840,Intel Xeon Gold 6142M
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8170M, 2.10GHz)",104,52,2,26,2,2350.0,2460,Intel Xeon Platinum 8170M
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6134M, 3.20GHz)",32,16,2,8,2,1060.0,1120,Intel Xeon Gold 6134M
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8176M, 2.10GHz)",112,56,2,28,2,2510.0,2600,Intel Xeon Platinum 8176M
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8164, 2.00GHz)",104,52,2,26,2,2430.0,2530,Intel Xeon Platinum 8164
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8180M, 2.50GHz)",112,56,2,28,2,2710.0,2830,Intel Xeon Platinum 8180M
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8160M, 2.10 GHz)",96,48,2,24,2,2230.0,2340,Intel Xeon Platinum 8160M
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8180, 2.50 GHz)",112,56,2,28,2,2890.0,3010,Intel Xeon Platinum 8180
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6144, 3.50 GHz)",32,16,2,8,2,1100.0,1160,Intel Xeon Gold 6144
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6146, 3.20 GHz)",48,24,2,12,2,1510.0,1590,Intel Xeon Gold 6146
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6148, 2.40 GHz)",80,40,2,20,2,1900.0,1990,Intel Xeon Gold 6148
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5120, 2.20 GHz)",56,28,2,14,2,1350.0,1430,Intel Xeon Gold 5120
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6154, 3.00GHz)",72,36,2,18,2,2100.0,2190,Intel Xeon Gold 6154
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6150, 2.70GHz)",72,36,2,18,2,1930.0,2020,Intel Xeon Gold 6150
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 5118, 2.30GHz)",48,24,2,12,2,1200.0,Not Run,Intel Xeon Gold 5118
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8156, 3.60GHz)",16,8,2,4,2,574.0,610,Intel Xeon Platinum 8156
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6138, 2.00GHz)",80,40,2,20,2,1770.0,1860,Intel Xeon Gold 6138
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6140, 2.30GHz)",72,36,2,18,2,1740.0,1840,Intel Xeon Gold 6140
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Silver 4108, 1.80GHz)",32,16,2,8,2,636.0,671,Intel Xeon Silver 4108
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Bronze 3106, 1.70GHz)",16,16,2,8,1,439.0,458,Intel Xeon Bronze 3106
+Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Bronze 3104, 1.70GHz)",12,12,2,6,1,330.0,344,Intel Xeon Bronze 3104
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Platinum 8158, 3.00GHz)",48,24,2,12,2,1530.0,1620,Intel Xeon Platinum 8158
+Cisco Systems,"Cisco UCS B200 M5 (Intel Xeon Gold 6132, 2.60GHz)",56,28,2,14,2,1570.0,1650,Intel Xeon Gold 6132
+Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8158, 3.00GHz)",96,48,4,12,2,2950.0,3120,Intel Xeon Platinum 8158
+Dell Inc.,"PowerEdge R740 (Intel Xeon Silver 4114T, 2.20 GHz)",40,20,2,10,2,899.0,Not Run,Intel Xeon Silver 4114T
+Dell Inc.,"PowerEdge R740 (Intel Xeon Silver 4116T, 2.10 GHz)",48,24,2,12,2,1040.0,Not Run,Intel Xeon Silver 4116T
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 5119T, 1.90 GHz)",56,28,2,14,2,1180.0,Not Run,Intel Xeon Gold 5119T
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 5120T, 2.20 GHz)",56,28,2,14,2,1260.0,Not Run,Intel Xeon Gold 5120T
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6126T, 2.60 GHz)",48,24,2,12,2,1320.0,Not Run,Intel Xeon Gold 6126T
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6130T, 2.10 GHz)",64,32,2,16,2,1520.0,Not Run,Intel Xeon Gold 6130T
+Dell Inc.,"PowerEdge R740 (Intel Xeon Gold 6138T, 2.00 GHz)",80,40,2,20,2,1750.0,Not Run,Intel Xeon Gold 6138T
+Dell Inc.,"PowerEdge R740 (Intel Xeon Platinum 8160T, 2.10 GHz)",96,48,2,24,2,2180.0,Not Run,Intel Xeon Platinum 8160T
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Gold 5115, 2.40 GHz)",40,20,2,10,2,952.0,994,Intel Xeon Gold 5115
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Bronze 3104, 1.70 GHz)",12,12,2,6,1,326.0,341,Intel Xeon Bronze 3104
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Gold 5122, 3.60 GHz)",16,8,2,4,2,544.0,573,Intel Xeon Gold 5122
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Bronze 3106, 1.70 GHz)",16,16,2,8,1,423.0,441,Intel Xeon Bronze 3106
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Gold 6126, 2.60 GHz)",48,24,2,12,2,1290.0,1360,Intel Xeon Gold 6126
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Silver 4110, 2.10 GHz)",32,16,2,8,2,682.0,715,Intel Xeon Silver 4110
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Gold 6136, 3.00 GHz)",48,24,2,12,2,1430.0,1510,Intel Xeon Gold 6136
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Silver 4114, 2.20 GHz)",40,20,2,10,2,898.0,944,Intel Xeon Silver 4114
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Gold 6148, 2.40 GHz)",80,40,2,20,2,1900.0,1990,Intel Xeon Gold 6148
+Dell Inc.,"PowerEdge M640 (Intel Xeon Silver 4112, 2.60 GHz)",16,8,2,4,2,418.0,441,Intel Xeon Silver 4112
+Dell Inc.,"PowerEdge FC640 (Intel Xeon Gold 6152, 2.10 GHz)",88,44,2,22,2,1920.0,2020,Intel Xeon Gold 6152
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 5118, 2.30 GHz)",48,24,2,12,2,1140.0,1190,Intel Xeon Gold 5118
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 6136, 3.00 GHz)",48,24,2,12,2,1430.0,1510,Intel Xeon Gold 6136
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 6126, 2.60 GHz)",48,24,2,12,2,1290.0,1350,Intel Xeon Gold 6126
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 6138, 2.00 GHz)",80,40,2,20,2,1730.0,1820,Intel Xeon Gold 6138
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 6130, 2.10 GHz)",64,32,2,16,2,1480.0,1560,Intel Xeon Gold 6130
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 6140, 2.30 GHz)",72,36,2,18,2,1700.0,1790,Intel Xeon Gold 6140
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 6132, 2.60 GHz)",56,28,2,14,2,1490.0,1570,Intel Xeon Gold 6132
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 6142, 2.60 GHz)",64,32,2,16,2,1620.0,1710,Intel Xeon Gold 6142
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 6150, 2.70 GHz)",72,36,2,18,2,1840.0,1930,Intel Xeon Gold 6150
+Dell Inc.,"PowerEdge M640 (Intel Xeon Gold 6152, 2.10 GHz)",88,44,2,22,2,1920.0,2020,Intel Xeon Gold 6152
+Dell Inc.,"PowerEdge M640 (Intel Xeon Platinum 8153, 2.00 GHz)",64,32,2,16,2,1320.0,1400,Intel Xeon Platinum 8153
+Dell Inc.,"PowerEdge M640 (Intel Xeon Platinum 8160, 2.10 GHz)",96,48,2,24,2,2020.0,2140,Intel Xeon Platinum 8160
+Dell Inc.,"PowerEdge M640 (Intel Xeon Platinum 8170, 2.10 GHz)",104,52,2,26,2,2170.0,2270,Intel Xeon Platinum 8170
+Dell Inc.,"PowerEdge M640 (Intel Xeon Platinum 8176, 2.10 GHz)",112,56,2,28,2,2280.0,2380,Intel Xeon Platinum 8176
+Dell Inc.,"PowerEdge R940 (Intel Xeon Gold 6144, 3.50 GHz)",64,32,4,8,2,2170.0,2300,Intel Xeon Gold 6144
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8176, 2.10 GHz)",224,112,4,28,2,4750.0,4950,Intel Xeon Platinum 8176
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8170, 2.10 GHz)",208,104,4,26,2,4490.0,4690,Intel Xeon Platinum 8170
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8168, 2.70 GHz)",192,96,4,24,2,4780.0,5000,Intel Xeon Platinum 8168
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8164, 2.00 GHz)",208,104,4,26,2,4390.0,4600,Intel Xeon Platinum 8164
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8160, 2.10 GHz)",192,96,4,24,2,4280.0,4480,Intel Xeon Platinum 8160
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8158, 3.00 GHz)",96,48,4,12,2,2910.0,3070,Intel Xeon Platinum 8158
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8156, 3.60 GHz)",32,16,4,4,2,1090.0,1160,Intel Xeon Platinum 8156
+Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8153, 2.00 GHz)",128,64,4,16,2,2640.0,2810,Intel Xeon Platinum 8153
+Fujitsu,"PRIMEQUEST 3800B, (Intel Xeon Platinum 8180, 2.50GHz)",447,224,8,28,2,11400.0,11800,Intel Xeon Platinum 8180
+Fujitsu,"PRIMERGY RX2540 M4, (Intel Xeon Platinum 8180, 2.50GHz)",112,56,2,28,2,2870.0,Not Run,Intel Xeon Platinum 8180
+Fujitsu,"PRIMERGY RX2540 M4, (Intel Xeon Gold 6148, 2.40GHz)",80,40,2,20,2,1960.0,Not Run,Intel Xeon Gold 6148
+Fujitsu,"PRIMERGY TX1330 M3, (Intel Xeon E3-1220 v6, 3.0 GHz)",4,4,1,4,1,200.0,Not Run,Intel Xeon E3-1220 v6
+Fujitsu,"PRIMERGY TX1330 M3, (Intel Xeon E3-1225 v6, 3.3 GHz)",4,4,1,4,1,210.0,Not Run,Intel Xeon E3-1225 v6
+Fujitsu,"PRIMEQUEST 3800E, (Intel Xeon Platinum 8180, 2.50GHz)",447,224,8,28,2,11300.0,Not Run,Intel Xeon Platinum 8180
+HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Platinum 8170)",104,52,2,26,2,2260.0,Not Run,Intel Xeon Platinum 8170
+HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Platinum 8176)",112,56,2,28,2,2390.0,Not Run,Intel Xeon Platinum 8176
+HPE,"ProLiant DL360 Gen10 (2.40 GHz, Intel Xeon Gold 6148)",80,40,2,20,2,1910.0,Not Run,Intel Xeon Gold 6148
+HPE,"ProLiant DL380 Gen10 (3.00 GHz, Intel Xeon Platinum 8158)",48,24,2,12,2,1470.0,Not Run,Intel Xeon Platinum 8158
+HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Silver 4116)",48,24,2,12,2,1050.0,Not Run,Intel Xeon Silver 4116
+HPE,"ProLiant DL380 Gen10 (3.20 GHz, Intel Xeon Gold 6146)",48,24,2,12,2,1520.0,Not Run,Intel Xeon Gold 6146
+HPE,"ProLiant DL380 Gen10 (2.00 GHz, Intel Xeon Platinum 8164)",104,52,2,26,2,2160.0,Not Run,Intel Xeon Platinum 8164
+HPE,"ProLiant DL380 Gen10 (3.60 GHz, Intel Xeon Platinum 8156)",16,8,2,4,2,553.0,Not Run,Intel Xeon Platinum 8156
+HPE,"ProLiant DL380 Gen10 (2.70 GHz, Intel Xeon Platinum 8168)",96,48,2,24,2,2450.0,Not Run,Intel Xeon Platinum 8168
+HPE,"ProLiant DL380 Gen10 (2.00 GHz, Intel Xeon Platinum 8153)",64,32,2,16,2,1370.0,Not Run,Intel Xeon Platinum 8153
+HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Gold 6130)",64,32,2,16,2,1520.0,Not Run,Intel Xeon Gold 6130
+HPE,"ProLiant DL380 Gen10 (2.60 GHz, Intel Xeon Gold 6126)",48,24,2,12,2,1340.0,Not Run,Intel Xeon Gold 6126
+HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Platinum 8160)",96,48,2,24,2,2140.0,Not Run,Intel Xeon Platinum 8160
+HPE,"ProLiant DL380 Gen10 (3.00 GHz, Intel Xeon Gold 6154)",72,36,2,18,2,2030.0,Not Run,Intel Xeon Gold 6154
+HPE,"ProLiant DL360 Gen10 (3.00 GHz, Intel Xeon Gold 6136)",48,24,2,12,2,1450.0,1530,Intel Xeon Gold 6136
+HPE,"ProLiant DL380 Gen10 (2.50 GHz, Intel Xeon Platinum 8180M)",112,56,2,28,2,2720.0,Not Run,Intel Xeon Platinum 8180M
+HPE,"ProLiant DL360 Gen10 (2.50 GHz, Intel Xeon Platinum 8180M)",112,56,2,28,2,2700.0,Not Run,Intel Xeon Platinum 8180M
+HPE,"ProLiant DL380 Gen10 (2.50 GHz, Intel Xeon Platinum 8180)",112,56,2,28,2,2710.0,Not Run,Intel Xeon Platinum 8180
+HPE,"ProLiant DL380 Gen10 (2.20 GHz, Intel Xeon Silver 4114)",40,20,2,10,2,906.0,Not Run,Intel Xeon Silver 4114
+HPE,"ProLiant DL360 Gen10 (2.20 GHz, Intel Xeon Silver 4114)",40,20,2,10,2,913.0,Not Run,Intel Xeon Silver 4114
+HPE,"ProLiant DL360 Gen10 (2.70 GHz, Intel Xeon Platinum 8168)",96,48,2,24,2,2470.0,Not Run,Intel Xeon Platinum 8168
+HPE,"ProLiant DL380 Gen10 (3.40 GHz, Intel Xeon Gold 6128)",24,12,2,6,2,812.0,863,Intel Xeon Gold 6128
+HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Platinum 8176)",112,56,2,28,2,2390.0,Not Run,Intel Xeon Platinum 8176
+HPE,"ProLiant DL360 Gen10 (2.70 GHz, Intel Xeon Gold 6150)",72,36,2,18,2,1900.0,Not Run,Intel Xeon Gold 6150
+HPE,"ProLiant DL380 Gen10 (2.70 GHz, Intel Xeon Gold 6150)",72,36,2,18,2,1900.0,Not Run,Intel Xeon Gold 6150
+HPE,"ProLiant DL560 Gen10 (3.60 GHz, Intel Xeon Platinum 8156)",32,16,4,4,2,1090.0,Not Run,Intel Xeon Platinum 8156
+HPE,"ProLiant DL380 Gen10 (2.20 GHz, Intel Xeon Gold 5120)",56,28,2,14,2,1240.0,1320,Intel Xeon Gold 5120
+HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Gold 6152)",88,44,2,22,2,1970.0,Not Run,Intel Xeon Gold 6152
+HPE,"ProLiant DL380 Gen10 (2.60 GHz, Intel Xeon Gold 6142)",64,32,2,16,2,1690.0,Not Run,Intel Xeon Gold 6142
+HPE,"ProLiant DL580 Gen10 (2.10 GHz, Intel Xeon Gold 6130)",128,64,4,16,2,2760.0,Not Run,Intel Xeon Gold 6130
+HPE,"Synergy 480 Gen10 (2.10 GHz, Intel Xeon Gold 6130)",64,32,2,16,2,1490.0,Not Run,Intel Xeon Gold 6130
+HPE,"ProLiant DL380 Gen10 (2.40 GHz, Intel Xeon Gold 6148)",80,40,2,20,2,1920.0,Not Run,Intel Xeon Gold 6148
+HPE,"ProLiant DL560 Gen10 (2.00 GHz, Intel Xeon Platinum 8153)",128,64,4,16,2,2630.0,Not Run,Intel Xeon Platinum 8153
+HPE,"ProLiant DL380 Gen10 (2.30 GHz, Intel Xeon Gold 6140)",72,36,2,18,2,1750.0,1840,Intel Xeon Gold 6140
+HPE,"ProLiant DL380 Gen10 (2.60 GHz, Intel Xeon Silver 4112)",16,8,2,4,2,423.0,Not Run,Intel Xeon Silver 4112
+HPE,"ProLiant DL360 Gen10 (3.20 GHz, Intel Xeon Gold 6134)",32,16,2,8,2,1080.0,Not Run,Intel Xeon Gold 6134
+HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Silver 4116)",48,24,2,12,2,1020.0,Not Run,Intel Xeon Silver 4116
+HPE,"ProLiant DL560 Gen10 (3.00 GHz, Intel Xeon Platinum 8158)",96,48,4,12,2,2840.0,Not Run,Intel Xeon Platinum 8158
+HPE,"Synergy 480 Gen10 (3.00 GHz, Intel Xeon Gold 6154)",72,36,2,18,2,2010.0,Not Run,Intel Xeon Gold 6154
+HPE,"ProLiant DL560 Gen10 (2.10 GHz, Intel Xeon Platinum 8160)",192,96,4,24,2,4110.0,Not Run,Intel Xeon Platinum 8160
+HPE,"ProLiant DL360 Gen10 (2.60 GHz, Intel Xeon Gold 6126)",48,24,2,12,2,1350.0,Not Run,Intel Xeon Gold 6126
+HPE,"ProLiant DL380 Gen10 (1.80 GHz, Intel Xeon Silver 4108)",32,16,2,8,2,636.0,Not Run,Intel Xeon Silver 4108
+HPE,"ProLiant DL360 Gen10 (2.60 GHz, Intel Xeon Silver 4112)",16,8,2,4,2,433.0,Not Run,Intel Xeon Silver 4112
+HPE,"ProLiant DL385 Gen10 (2.20 GHz, AMD EPYC 7601)",128,64,2,32,2,2210.0,Not Run,AMD EPYC 7601
+HPE,"Synergy 480 Gen10 (2.70 GHz, Intel Xeon Gold 6150)",72,36,2,18,2,1870.0,Not Run,Intel Xeon Gold 6150
+HPE,"ProLiant DL360 Gen10 (2.60 GHz, Intel Xeon Gold 6142)",64,32,2,16,2,1700.0,Not Run,Intel Xeon Gold 6142
+HPE,"ProLiant DL360 Gen10 (2.30 GHz, Intel Xeon Gold 6140)",72,36,2,18,2,1790.0,Not Run,Intel Xeon Gold 6140
+HPE,"ProLiant DL360 Gen10 (2.00 GHz, Intel Xeon Platinum 8164)",104,52,2,26,2,2170.0,Not Run,Intel Xeon Platinum 8164
+HPE,"ProLiant DL360 Gen10 (1.80 GHz, Intel Xeon Silver 4108)",32,16,2,8,2,663.0,Not Run,Intel Xeon Silver 4108
+HPE,"Synergy 480 Gen10 (2.10 GHz, Intel Xeon Gold 6152)",88,44,2,22,2,1920.0,Not Run,Intel Xeon Gold 6152
+HPE,"ProLiant DL380 Gen10 (3.60 GHz, Intel Xeon Gold 5122)",16,8,2,4,2,576.0,Not Run,Intel Xeon Gold 5122
+HPE,"ProLiant ML30 Gen9 (3.50 GHz, Intel Xeon E3-1230 v6)",8,4,1,4,2,246.0,Not Run,Intel Xeon E3-1230 v6
+HPE,"ProLiant DL380 Gen10 (3.50 GHz, Intel Xeon Gold 6144)",32,16,2,8,2,1190.0,Not Run,Intel Xeon Gold 6144
+HPE,"ProLiant DL360 Gen10 (3.20 GHz, Intel Xeon Gold 6146)",48,24,2,12,2,1570.0,Not Run,Intel Xeon Gold 6146
+HPE,"ProLiant DL380 Gen10 (2.60 GHz, Intel Xeon Gold 6132)",56,28,2,14,2,1590.0,Not Run,Intel Xeon Gold 6132
+HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Platinum 8160)",96,48,2,24,2,2110.0,Not Run,Intel Xeon Platinum 8160
+HPE,"ProLiant DL360 Gen10 (2.60 GHz, Intel Xeon Gold 6132)",56,28,2,14,2,1550.0,Not Run,Intel Xeon Gold 6132
+HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Gold 6152)",88,44,2,22,2,1960.0,Not Run,Intel Xeon Gold 6152
+HPE,"ProLiant DL380 Gen10 (2.80 GHz, Intel Xeon Gold 6143)",64,32,2,16,2,1950.0,Not Run,Intel Xeon Gold 6143
+HPE,"ProLiant DL360 Gen10 (3.00 GHz, Intel Xeon Platinum 8158)",48,24,2,12,2,1460.0,Not Run,Intel Xeon Platinum 8158
+HPE,"ProLiant DL380 Gen10 (2.00 GHz, Intel Xeon Gold 6138)",80,40,2,20,2,1860.0,Not Run,Intel Xeon Gold 6138
+HPE,"ProLiant DL360 Gen10 (3.00 GHz, Intel Xeon Gold 6154)",72,36,2,18,2,2040.0,Not Run,Intel Xeon Gold 6154
+HPE,"Synergy 480 Gen10 (2.60 GHz, Intel Xeon Gold 6142)",64,32,2,16,2,1680.0,Not Run,Intel Xeon Gold 6142
+HPE,"Synergy 480 Gen10 (2.40 GHz, Intel Xeon Gold 6148)",80,40,2,20,2,1890.0,Not Run,Intel Xeon Gold 6148
+HPE,"ProLiant DL385 Gen10 (2.20 GHz, AMD EPYC 7601)",128,64,2,32,2,2210.0,2440,AMD EPYC 7601
+HPE,"ProLiant DL380 Gen10 (3.40 GHz, Intel Xeon Gold 6128)",24,12,2,6,2,849.0,Not Run,Intel Xeon Gold 6128
+HPE,"ProLiant DL360 Gen10 (2.00 GHz, Intel Xeon Gold 6138)",80,40,2,20,2,1790.0,Not Run,Intel Xeon Gold 6138
+HPE,"ProLiant DL360 Gen10 (2.10 GHz, Intel Xeon Silver 4110)",32,16,2,8,2,729.0,Not Run,Intel Xeon Silver 4110
+HPE,"ProLiant DL380 Gen10 (3.20 GHz, Intel Xeon Gold 6134)",32,16,2,8,2,1100.0,Not Run,Intel Xeon Gold 6134
+Huawei,Kunlun 9008 (Intel Xeon E7-8855 v4),224,112,8,14,2,4060.0,Not Run,Intel Xeon E7-8855 v4
+Huawei,Kunlun 9008 (Intel Xeon E7-8867 v4),288,144,8,18,2,5740.0,Not Run,Intel Xeon E7-8867 v4
+Huawei,Kunlun 9008 (Intel Xeon E7-8870 v4),320,160,8,20,2,5880.0,Not Run,Intel Xeon E7-8870 v4
+Huawei,Kunlun 9008 (Intel Xeon E7-8880 v4),352,176,8,22,2,6410.0,Not Run,Intel Xeon E7-8880 v4
+Huawei,Kunlun 9008 (Intel Xeon E7-8891 v4),160,80,8,10,2,4170.0,Not Run,Intel Xeon E7-8891 v4
+Huawei,Kunlun 9008 (Intel Xeon E7-8893 v4),64,32,8,4,2,1880.0,Not Run,Intel Xeon E7-8893 v4
+Huawei,Kunlun 9008 (Intel Xeon E7-8894 v4),384,192,8,24,2,7230.0,Not Run,Intel Xeon E7-8894 v4
+Huawei,Kunlun 9016 (Intel Xeon E7-4830 v3),384,192,16,12,2,6670.0,Not Run,Intel Xeon E7-4830 v3
+Huawei,Kunlun 9008 (Intel Xeon E7-4850 v3),448,224,16,14,2,7650.0,Not Run,Intel Xeon E7-4850 v3
+Huawei,Kunlun 9016 (Intel Xeon E7-8860 v3),512,256,16,16,2,9340.0,Not Run,Intel Xeon E7-8860 v3
+Huawei,Kunlun 9008 (Intel Xeon E7-8860 v4),288,144,8,18,2,5610.0,Not Run,Intel Xeon E7-8860 v4
+Huawei,Kunlun 9016 (Intel Xeon E7-8860 v4),576,288,16,18,2,10900.0,Not Run,Intel Xeon E7-8860 v4
+Huawei,Kunlun 9008 (Intel Xeon E7-4850 v4),256,128,8,16,2,4530.0,Not Run,Intel Xeon E7-4850 v4
+Huawei,Kunlun 9008 (Intel Xeon E7-8890 v4),384,192,8,24,2,6910.0,Not Run,Intel Xeon E7-8890 v4
+Huawei,Kunlun 9016(Intel Xeon E7-4809 v4),256,128,16,8,2,4350.0,Not Run,Intel Xeon E7-4809 v4
+Huawei,Kunlun 9016(Intel Xeon E7-4850 v4),512,256,16,16,2,8970.0,Not Run,Intel Xeon E7-4850 v4
+Huawei,Kunlun 9016(Intel Xeon E7-8855 v4),448,224,16,14,2,8000.0,Not Run,Intel Xeon E7-8855 v4
+Huawei,Kunlun 9016(Intel Xeon E7-8867 v4),576,288,16,18,2,10100.0,Not Run,Intel Xeon E7-8867 v4
+Huawei,Kunlun 9016(Intel Xeon E7-8870 v4),640,320,16,20,2,11500.0,Not Run,Intel Xeon E7-8870 v4
+Huawei,Kunlun 9016(Intel Xeon E7-8880 v4),704,352,16,22,2,12400.0,Not Run,Intel Xeon E7-8880 v4
+Huawei,Kunlun 9016(Intel Xeon E7-8891 v3),320,160,16,10,2,7600.0,Not Run,Intel Xeon E7-8891 v3
+Huawei,Kunlun 9016(Intel Xeon E7-8891 v4),320,160,16,10,2,8280.0,Not Run,Intel Xeon E7-8891 v4
+Huawei,Kunlun 9016(Intel Xeon E7-8893 v4),128,64,16,4,2,1500.0,Not Run,Intel Xeon E7-8893 v4
+Huawei,Kunlun 9008 (Intel Xeon E7-4830 v4),224,112,8,14,2,3790.0,Not Run,Intel Xeon E7-4830 v4
+Huawei,Kunlun 9016 (Intel Xeon E7-4820 v4),320,160,16,10,2,5180.0,Not Run,Intel Xeon E7-4820 v4
+Huawei,Kunlun 9016 (Intel Xeon E7-4830 v4),448,224,16,14,2,7560.0,Not Run,Intel Xeon E7-4830 v4
+Huawei,Kunlun 9008 (Intel Xeon E7-4809 v4),128,64,8,8,2,2110.0,Not Run,Intel Xeon E7-4809 v4
+Huawei,Kunlun 9008 (Intel Xeon E7-4820 v4),160,80,8,10,2,2600.0,Not Run,Intel Xeon E7-4820 v4
+Inspur Corporation,Inspur NF5170M4 (Intel Xeon E5-2650 v4),48,24,2,12,2,998.0,1040,Intel Xeon E5-2650 v4
+Inspur Corporation,Inspur NF5270M4 (Intel Xeon E5-2650 v4),48,24,2,12,2,990.0,1040,Intel Xeon E5-2650 v4
+Inspur Corporation,Inspur NF5280M4 (Intel Xeon E5-2650 v4),48,24,2,12,2,1000.0,1050,Intel Xeon E5-2650 v4
+Lenovo Global Technology,"ThinkSystem ST550 (3.60 GHz, Intel Xeon Platinum 8156)",16,8,2,4,2,556.0,591,Intel Xeon Platinum 8156
+Lenovo Global Technology,"ThinkSystem SR530 (2.40 GHz, Intel Xeon Gold 5115)",40,20,2,10,2,966.0,1010,Intel Xeon Gold 5115
+Lenovo Global Technology,"ThinkSystem SR530 (3.60 GHz, Intel Xeon Gold 5122)",16,8,2,4,2,555.0,591,Intel Xeon Gold 5122
+Lenovo Global Technology,"ThinkSystem SR550 (2.40 GHz, Intel Xeon Gold 5115)",40,20,2,10,2,967.0,1010,Intel Xeon Gold 5115
+Lenovo Global Technology,"ThinkSystem SR950 (2.00 GHz, Intel Xeon Platinum 8153)",256,128,8,16,2,5390.0,5670,Intel Xeon Platinum 8153
+Lenovo Global Technology,"ThinkSystem SR950 (3.60 GHz, Intel Xeon Platinum 8156)",64,32,8,4,2,2160.0,2290,Intel Xeon Platinum 8156
+Lenovo Global Technology,"ThinkSystem SR950 (2.00 GHz, Intel Xeon Platinum 8164)",416,208,8,26,2,8690.0,9090,Intel Xeon Platinum 8164
+Lenovo Global Technology,"ThinkSystem SR950 (3.00 GHz, Intel Xeon Platinum 8158)",192,96,8,12,2,5800.0,6100,Intel Xeon Platinum 8158
+Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8160)",384,192,8,24,2,8490.0,8900,Intel Xeon Platinum 8160
+Lenovo Global Technology,"ThinkSystem SR950 (2.70 GHz, Intel Xeon Platinum 8168)",384,192,8,24,2,9730.0,10100,Intel Xeon Platinum 8168
+Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8170)",416,208,8,26,2,8960.0,9380,Intel Xeon Platinum 8170
+Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8160M)",384,192,8,24,2,8520.0,8930,Intel Xeon Platinum 8160M
+Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8160T)",384,192,8,24,2,8540.0,8660,Intel Xeon Platinum 8160T
+Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8170M)",416,208,8,26,2,9010.0,9430,Intel Xeon Platinum 8170M
+Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8176)",448,224,8,28,2,9640.0,10100,Intel Xeon Platinum 8176
+Lenovo Global Technology,"ThinkSystem SR630 (1.70 GHz, Intel Xeon Bronze 3104)",12,12,2,6,1,326.0,339,Intel Xeon Bronze 3104
+Lenovo Global Technology,"ThinkSystem SR630 (1.70 GHz, Intel Xeon Bronze 3106)",16,16,2,8,1,433.0,451,Intel Xeon Bronze 3106
+Lenovo Global Technology,"ThinkSystem SR630 (1.80 GHz, Intel Xeon Silver 4108)",32,16,2,8,2,632.0,666,Intel Xeon Silver 4108
+Lenovo Global Technology,"ThinkSystem SR630 (2.00 GHz, Intel Xeon Silver 4109T)",32,16,2,8,2,678.0,713,Intel Xeon Silver 4109T
+Lenovo Global Technology,"ThinkSystem SR630 (2.60 GHz, Intel Xeon Silver 4112)",16,8,2,4,2,419.0,442,Intel Xeon Silver 4112
+Lenovo Global Technology,"ThinkSystem SR630 (2.20 GHz, Intel Xeon Silver 4114)",40,20,2,10,2,895.0,938,Intel Xeon Silver 4114
+Lenovo Global Technology,"ThinkSystem SR630 (2.10 GHz, Intel Xeon Silver 4110)",32,16,2,8,2,700.0,737,Intel Xeon Silver 4110
+Lenovo Global Technology,"ThinkSystem SR630 (2.10 GHz, Intel Xeon Silver 4116)",48,24,2,12,2,1030.0,1090,Intel Xeon Silver 4116
+Lenovo Global Technology,"ThinkSystem SR630 (2.40 GHz, Intel Xeon Gold 5115)",40,20,2,10,2,973.0,1020,Intel Xeon Gold 5115
+Lenovo Global Technology,"ThinkSystem SR630 (2.30 GHz, Intel Xeon Gold 5118)",48,24,2,12,2,1150.0,1200,Intel Xeon Gold 5118
+Lenovo Global Technology,"ThinkSystem SR630 (2.30 GHz, Intel Xeon Gold 6140)",72,36,2,18,2,1770.0,1850,Intel Xeon Gold 6140
+Lenovo Global Technology,"ThinkSystem SR630 (2.20 GHz, Intel Xeon Gold 5120)",56,28,2,14,2,1270.0,1330,Intel Xeon Gold 5120
+Lenovo Global Technology,"ThinkSystem SR630 (2.60 GHz, Intel Xeon Gold 6142)",64,32,2,16,2,1670.0,1760,Intel Xeon Gold 6142
+Lenovo Global Technology,"ThinkSystem SR630 (2.20 GHz, Intel Xeon Gold 5120T)",56,28,2,14,2,1280.0,1340,Intel Xeon Gold 5120T
+Lenovo Global Technology,"ThinkSystem SR630 (2.40 GHz, Intel Xeon Gold 6148)",80,40,2,20,2,1940.0,2040,Intel Xeon Gold 6148
+Lenovo Global Technology,"ThinkSystem SR630 (2.70 GHz, Intel Xeon Gold 6150)",72,36,2,18,2,1930.0,2020,Intel Xeon Gold 6150
+Lenovo Global Technology,"ThinkSystem SR630 (3.60 GHz, Intel Xeon Gold 5122)",16,8,2,4,2,544.0,579,Intel Xeon Gold 5122
+Lenovo Global Technology,"ThinkSystem SR630 (2.60 GHz, Intel Xeon Gold 6126)",48,24,2,12,2,1330.0,1400,Intel Xeon Gold 6126
+Lenovo Global Technology,"ThinkSystem SR630 (2.10 GHz, Intel Xeon Gold 6152)",88,44,2,22,2,1940.0,2040,Intel Xeon Gold 6152
+Lenovo Global Technology,"ThinkSystem SR630 (2.60 GHz, Intel Xeon Gold 6126T)",48,24,2,12,2,1310.0,1380,Intel Xeon Gold 6126T
+Lenovo Global Technology,"ThinkSystem SR630 (3.00 GHz, Intel Xeon Gold 6154)",72,36,2,18,2,2030.0,2140,Intel Xeon Gold 6154
+Lenovo Global Technology,"ThinkSystem SR630 (2.10 GHz, Intel Xeon Gold 6130)",64,32,2,16,2,1530.0,1610,Intel Xeon Gold 6130
+Lenovo Global Technology,"ThinkSystem SR630 (2.00 GHz, Intel Xeon Platinum 8153)",64,32,2,16,2,1360.0,1430,Intel Xeon Platinum 8153
+Lenovo Global Technology,"ThinkSystem SR630 (2.10 GHz, Intel Xeon Gold 6130T)",64,32,2,16,2,1550.0,1620,Intel Xeon Gold 6130T
+Lenovo Global Technology,"ThinkSystem SR630 (3.60 GHz, Intel Xeon Platinum 8156)",16,8,2,4,2,546.0,579,Intel Xeon Platinum 8156
+Lenovo Global Technology,"ThinkSystem SR630 (3.20 GHz, Intel Xeon Gold 6134)",32,16,2,8,2,1040.0,1100,Intel Xeon Gold 6134
+Lenovo Global Technology,"ThinkSystem SR630 (3.00 GHz, Intel Xeon Platinum 8158)",48,24,2,12,2,1460.0,1550,Intel Xeon Platinum 8158
+Lenovo Global Technology,"ThinkSystem SR630 (3.00 GHz, Intel Xeon Gold 6136)",48,24,2,12,2,1460.0,1540,Intel Xeon Gold 6136
+Lenovo Global Technology,"ThinkSystem SR630 (2.10 GHz, Intel Xeon Platinum 8160)",96,48,2,24,2,2150.0,2250,Intel Xeon Platinum 8160
+Lenovo Global Technology,"ThinkSystem SR630 (2.00 GHz, Intel Xeon Gold 6138)",80,40,2,20,2,1780.0,1880,Intel Xeon Gold 6138
+Lenovo Global Technology,"ThinkSystem SR630 (2.10 GHz, Intel Xeon Platinum 8160T)",96,48,2,24,2,2110.0,2220,Intel Xeon Platinum 8160T
+Lenovo Global Technology,"ThinkSystem SR630 (2.00 GHz, Intel Xeon Platinum 8164)",104,52,2,26,2,2200.0,2310,Intel Xeon Platinum 8164
+Lenovo Global Technology,"ThinkSystem SR630 (2.70 GHz, Intel Xeon Platinum 8168)",96,48,2,24,2,2440.0,2560,Intel Xeon Platinum 8168
+Lenovo Global Technology,"ThinkSystem SR630 (2.10 GHz, Intel Xeon Platinum 8170)",104,52,2,26,2,2300.0,2410,Intel Xeon Platinum 8170
+Lenovo Global Technology,"ThinkSystem SR630 (2.10 GHz, Intel Xeon Platinum 8176)",112,56,2,28,2,2450.0,2560,Intel Xeon Platinum 8176
+Lenovo Global Technology,"ThinkSystem SD530 (1.70 GHz, Intel Xeon Bronze 3104)",12,12,2,6,1,323.0,334,Intel Xeon Bronze 3104
+Lenovo Global Technology,"ThinkSystem SD530 (1.70 GHz, Intel Xeon Bronze 3106)",16,16,2,8,1,430.0,446,Intel Xeon Bronze 3106
+Lenovo Global Technology,"ThinkSystem SD530 (2.60 GHz, Intel Xeon Silver 4112)",16,8,2,4,2,418.0,441,Intel Xeon Silver 4112
+Lenovo Global Technology,"ThinkSystem SD530 (1.80 GHz, Intel Xeon Silver 4108)",32,16,2,8,2,631.0,665,Intel Xeon Silver 4108
+Lenovo Global Technology,"ThinkSystem SD530 (2.20 GHz, Intel Xeon Silver 4114)",40,20,2,10,2,895.0,939,Intel Xeon Silver 4114
+Lenovo Global Technology,"ThinkSystem SD530 (2.00 GHz, Intel Xeon Silver 4109T)",32,16,2,8,2,677.0,713,Intel Xeon Silver 4109T
+Lenovo Global Technology,"ThinkSystem SD530 (2.30 GHz, Intel Xeon Gold 5118)",48,24,2,12,2,1130.0,1180,Intel Xeon Gold 5118
+Lenovo Global Technology,"ThinkSystem SD530 (2.10 GHz, Intel Xeon Silver 4110)",32,16,2,8,2,699.0,736,Intel Xeon Silver 4110
+Lenovo Global Technology,"ThinkSystem SD530 (2.20 GHz, Intel Xeon Gold 5120)",56,28,2,14,2,1220.0,1310,Intel Xeon Gold 5120
+Lenovo Global Technology,"ThinkSystem SD530 (2.20 GHz, Intel Xeon Gold 5120T)",56,28,2,14,2,1270.0,1330,Intel Xeon Gold 5120T
+Lenovo Global Technology,"ThinkSystem SD530 (3.60 GHz, Intel Xeon Gold 5122)",16,8,2,4,2,540.0,569,Intel Xeon Gold 5122
+Lenovo Global Technology,"ThinkSystem SD530 (2.10 GHz, Intel Xeon Gold 6130)",64,32,2,16,2,1530.0,1610,Intel Xeon Gold 6130
+Lenovo Global Technology,"ThinkSystem SD530 (2.10 GHz, Intel Xeon Gold 6130T)",64,32,2,16,2,1510.0,1580,Intel Xeon Gold 6130T
+Lenovo Global Technology,"ThinkSystem SD530 (2.00 GHz, Intel Xeon Gold 6138)",80,40,2,20,2,1770.0,1870,Intel Xeon Gold 6138
+Lenovo Global Technology,"ThinkSystem SD530 (3.20 GHz, Intel Xeon Gold 6134)",32,16,2,8,2,1040.0,1110,Intel Xeon Gold 6134
+Lenovo Global Technology,"ThinkSystem SD530 (2.00 GHz, Intel Xeon Gold 6138T)",80,40,2,20,2,1700.0,1810,Intel Xeon Gold 6138T
+Lenovo Global Technology,"ThinkSystem SD530 (3.00 GHz, Intel Xeon Gold 6136)",48,24,2,12,2,1460.0,1550,Intel Xeon Gold 6136
+Lenovo Global Technology,"ThinkSystem SD530 (2.30 GHz, Intel Xeon Gold 6140)",72,36,2,18,2,1750.0,1850,Intel Xeon Gold 6140
+Lenovo Global Technology,"ThinkSystem SD530 (2.10 GHz, Intel Xeon Gold 6152)",88,44,2,22,2,1910.0,2010,Intel Xeon Gold 6152
+Lenovo Global Technology,"ThinkSystem SD530 (2.60 GHz, Intel Xeon Gold 6142)",64,32,2,16,2,1680.0,1780,Intel Xeon Gold 6142
+Lenovo Global Technology,"ThinkSystem SD530 (2.00 GHz, Intel Xeon Platinum 8153)",64,32,2,16,2,1300.0,1390,Intel Xeon Platinum 8153
+Lenovo Global Technology,"ThinkSystem SD530 (2.40 GHz, Intel Xeon Gold 6148)",80,40,2,20,2,1910.0,2020,Intel Xeon Gold 6148
+Lenovo Global Technology,"ThinkSystem SD530 (3.60 GHz, Intel Xeon Platinum 8156)",16,8,2,4,2,545.0,580,Intel Xeon Platinum 8156
+Lenovo Global Technology,"ThinkSystem SD530 (3.00 GHz, Intel Xeon Platinum 8158)",48,24,2,12,2,1450.0,1550,Intel Xeon Platinum 8158
+Lenovo Global Technology,"ThinkSystem SD530 (2.10 GHz, Intel Xeon Platinum 8160)",96,48,2,24,2,2120.0,2230,Intel Xeon Platinum 8160
+Lenovo Global Technology,"ThinkSystem SD530 (2.00 GHz, Intel Xeon Platinum 8164)",104,52,2,26,2,2170.0,2280,Intel Xeon Platinum 8164
+Lenovo Global Technology,"ThinkSystem SD530 (2.10 GHz, Intel Xeon Platinum 8170)",104,52,2,26,2,2250.0,2370,Intel Xeon Platinum 8170
+Lenovo Global Technology,"ThinkSystem SR650 (1.70 GHz, Intel Xeon Bronze 3106)",16,16,2,8,1,433.0,452,Intel Xeon Bronze 3106
+Lenovo Global Technology,"ThinkSystem SR650 (2.00 GHz, Intel Xeon Silver 4109T)",32,16,2,8,2,675.0,711,Intel Xeon Silver 4109T
+Lenovo Global Technology,"ThinkSystem SR650 (2.20 GHz, Intel Xeon Gold 5120T)",56,28,2,14,2,1280.0,1340,Intel Xeon Gold 5120T
+Lenovo Global Technology,"ThinkSystem SR650 (2.60 GHz, Intel Xeon Gold 6126T)",48,24,2,12,2,1310.0,1380,Intel Xeon Gold 6126T
+Lenovo Global Technology,"ThinkSystem SR650 (3.60 GHz, Intel Xeon Gold 5122)",16,8,2,4,2,543.0,578,Intel Xeon Gold 5122
+Lenovo Global Technology,"ThinkSystem SR650 (2.10 GHz, Intel Xeon Gold 6130)",64,32,2,16,2,1550.0,1620,Intel Xeon Gold 6130
+Lenovo Global Technology,"ThinkSystem SR650 (2.60 GHz, Intel Xeon Gold 6126)",48,24,2,12,2,1330.0,1400,Intel Xeon Gold 6126
+Lenovo Global Technology,"ThinkSystem SR650 (2.10 GHz, Intel Xeon Gold 6130T)",64,32,2,16,2,1560.0,1630,Intel Xeon Gold 6130T
+Lenovo Global Technology,"ThinkSystem SR650 (2.70 GHz, Intel Xeon Gold 6150)",72,36,2,18,2,1930.0,2030,Intel Xeon Gold 6150
+Lenovo Global Technology,"ThinkSystem SR650 (3.20 GHz, Intel Xeon Gold 6134)",32,16,2,8,2,1040.0,1110,Intel Xeon Gold 6134
+Lenovo Global Technology,"ThinkSystem SR650 (2.10 GHz, Intel Xeon Gold 6152)",88,44,2,22,2,1950.0,2050,Intel Xeon Gold 6152
+Lenovo Global Technology,"ThinkSystem SR650 (3.00 GHz, Intel Xeon Gold 6136)",48,24,2,12,2,1460.0,1550,Intel Xeon Gold 6136
+Lenovo Global Technology,"ThinkSystem SR650 (3.00 GHz, Intel Xeon Gold 6154)",72,36,2,18,2,2040.0,2140,Intel Xeon Gold 6154
+Lenovo Global Technology,"ThinkSystem SR650 (2.00 GHz, Intel Xeon Gold 6138)",80,40,2,20,2,1780.0,1880,Intel Xeon Gold 6138
+Lenovo Global Technology,"ThinkSystem SR650 (2.00 GHz, Intel Xeon Platinum 8153)",64,32,2,16,2,1360.0,1430,Intel Xeon Platinum 8153
+Lenovo Global Technology,"ThinkSystem SR650 (3.60 GHz, Intel Xeon Platinum 8156)",16,8,2,4,2,547.0,580,Intel Xeon Platinum 8156
+Lenovo Global Technology,"ThinkSystem SR650 (2.00 GHz, Intel Xeon Gold 6138T)",80,40,2,20,2,1730.0,1820,Intel Xeon Gold 6138T
+Lenovo Global Technology,"ThinkSystem SR650 (2.30 GHz, Intel Xeon Gold 6140)",72,36,2,18,2,1790.0,1870,Intel Xeon Gold 6140
+Lenovo Global Technology,"ThinkSystem SR650 (2.60 GHz, Intel Xeon Gold 6142)",64,32,2,16,2,1700.0,1790,Intel Xeon Gold 6142
+Lenovo Global Technology,"ThinkSystem SR650 (2.40 GHz, Intel Xeon Gold 6148)",80,40,2,20,2,1950.0,2050,Intel Xeon Gold 6148
+Lenovo Global Technology,"ThinkSystem SR650 (3.00 GHz, Intel Xeon Platinum 8158)",48,24,2,12,2,1470.0,1550,Intel Xeon Platinum 8158
+Lenovo Global Technology,"ThinkSystem SR650 (2.10 GHz, Intel Xeon Platinum 8160)",96,48,2,24,2,2170.0,2270,Intel Xeon Platinum 8160
+Lenovo Global Technology,"ThinkSystem SR650 (2.10 GHz, Intel Xeon Platinum 8160T)",96,48,2,24,2,2140.0,2240,Intel Xeon Platinum 8160T
+Lenovo Global Technology,"ThinkSystem SR650 (2.00 GHz, Intel Xeon Platinum 8164)",104,52,2,26,2,2230.0,2330,Intel Xeon Platinum 8164
+Lenovo Global Technology,"ThinkSystem SR650 (2.70 GHz, Intel Xeon Platinum 8168)",96,48,2,24,2,2470.0,2580,Intel Xeon Platinum 8168
+Lenovo Global Technology,"ThinkSystem SR650 (2.10 GHz, Intel Xeon Platinum 8170)",104,52,2,26,2,2310.0,2420,Intel Xeon Platinum 8170
+Lenovo Global Technology,"ThinkSystem SR650 (2.10 GHz, Intel Xeon Platinum 8176)",112,56,2,28,2,2460.0,2560,Intel Xeon Platinum 8176
+Lenovo Global Technology,"ThinkSystem SR850 (2.40 GHz, Intel Xeon Gold 6148)",160,80,4,20,2,3820.0,4030,Intel Xeon Gold 6148
+Lenovo Global Technology,"ThinkSystem SR850 (2.60 GHz, Intel Xeon Gold 6126)",96,48,4,12,2,2600.0,2760,Intel Xeon Gold 6126
+Lenovo Global Technology,"ThinkSystem SR850 (2.70 GHz, Intel Xeon Gold 6150)",144,72,4,18,2,3840.0,4050,Intel Xeon Gold 6150
+Lenovo Global Technology,"ThinkSystem SR850 (2.10 GHz, Intel Xeon Gold 6130)",128,64,4,16,2,2990.0,3190,Intel Xeon Gold 6130
+Lenovo Global Technology,"ThinkSystem SR850 (2.10 GHz, Intel Xeon Gold 6152)",176,88,4,22,2,3830.0,4060,Intel Xeon Gold 6152
+Lenovo Global Technology,"ThinkSystem SR850 (3.00 GHz, Intel Xeon Gold 6136)",96,48,4,12,2,2900.0,3080,Intel Xeon Gold 6136
+Lenovo Global Technology,"ThinkSystem SR850 (3.60 GHz, Intel Xeon Platinum 8156)",32,16,4,4,2,1080.0,1150,Intel Xeon Platinum 8156
+Lenovo Global Technology,"ThinkSystem SR850 (2.00 GHz, Intel Xeon Gold 6138)",160,80,4,20,2,3610.0,3770,Intel Xeon Gold 6138
+Lenovo Global Technology,"ThinkSystem SR850 (3.00 GHz, Intel Xeon Platinum 8158)",96,48,4,12,2,2910.0,3100,Intel Xeon Platinum 8158
+Lenovo Global Technology,"ThinkSystem SR850 (2.60 GHz, Intel Xeon Gold 6142)",128,64,4,16,2,3360.0,3490,Intel Xeon Gold 6142
+Lenovo Global Technology,"ThinkSystem SR850 (2.10 GHz, Intel Xeon Platinum 8160)",192,96,4,24,2,4300.0,4520,Intel Xeon Platinum 8160
+Lenovo Global Technology,"ThinkSystem SR850 (2.00 GHz, Intel Xeon Platinum 8164)",208,104,4,26,2,4360.0,4590,Intel Xeon Platinum 8164
+Lenovo Global Technology,"ThinkSystem SR850 (2.10 GHz, Intel Xeon Platinum 8170)",208,104,4,26,2,4520.0,4750,Intel Xeon Platinum 8170
+Lenovo Global Technology,"ThinkSystem SN550 (1.80 GHz, Intel Xeon Silver 4108)",32,16,2,8,2,631.0,666,Intel Xeon Silver 4108
+Lenovo Global Technology,"ThinkSystem SN550 (2.00 GHz, Intel Xeon Platinum 8153)",64,32,2,16,2,1360.0,1430,Intel Xeon Platinum 8153
+Lenovo Global Technology,"ThinkSystem SN550 (2.20 GHz, Intel Xeon Silver 4114)",40,20,2,10,2,894.0,943,Intel Xeon Silver 4114
+Lenovo Global Technology,"ThinkSystem SN550 (3.60 GHz, Intel Xeon Platinum 8156)",16,8,2,4,2,544.0,581,Intel Xeon Platinum 8156
+Lenovo Global Technology,"ThinkSystem SN550 (2.40 GHz, Intel Xeon Gold 5115)",40,20,2,10,2,972.0,1020,Intel Xeon Gold 5115
+Lenovo Global Technology,"ThinkSystem SN550 (2.20 GHz, Intel Xeon Gold 5120)",56,28,2,14,2,1280.0,1340,Intel Xeon Gold 5120
+Lenovo Global Technology,"ThinkSystem SN550 (3.60 GHz, Intel Xeon Gold 5122)",16,8,2,4,2,542.0,579,Intel Xeon Gold 5122
+Lenovo Global Technology,"ThinkSystem SN550 (2.20 GHz, Intel Xeon Gold 5120T)",56,28,2,14,2,1290.0,1350,Intel Xeon Gold 5120T
+Lenovo Global Technology,"ThinkSystem SN550 (2.60 GHz, Intel Xeon Gold 6126)",48,24,2,12,2,1320.0,1410,Intel Xeon Gold 6126
+Lenovo Global Technology,"ThinkSystem SN550 (3.20 GHz, Intel Xeon Gold 6134)",32,16,2,8,2,1040.0,1110,Intel Xeon Gold 6134
+Lenovo Global Technology,"ThinkSystem SN550 (3.00 GHz, Intel Xeon Gold 6136)",48,24,2,12,2,1460.0,1560,Intel Xeon Gold 6136
+Lenovo Global Technology,"ThinkSystem SN550 (2.40 GHz, Intel Xeon Gold 6148)",80,40,2,20,2,1960.0,2040,Intel Xeon Gold 6148
+Lenovo Global Technology,"ThinkSystem SD530 (2.10 GHz, Intel Xeon Silver 4116)",48,24,2,12,2,1030.0,1080,Intel Xeon Silver 4116
+Lenovo Global Technology,"ThinkSystem SD530 (2.40 GHz, Intel Xeon Gold 5115)",40,20,2,10,2,964.0,1010,Intel Xeon Gold 5115
+Lenovo Global Technology,"ThinkSystem SD530 (2.10 GHz, Intel Xeon Gold 6130T)",64,32,2,16,2,1530.0,1600,Intel Xeon Gold 6130T
+Lenovo Global Technology,"ThinkSystem SD530 (2.70 GHz, Intel Xeon Gold 6150)",72,36,2,18,2,1900.0,2010,Intel Xeon Gold 6150
+Lenovo Global Technology,"ThinkSystem SD530 (2.60 GHz, Intel Xeon Gold 6126)",48,24,2,12,2,1270.0,1340,Intel Xeon Gold 6126
+Lenovo Global Technology,"ThinkSystem SN850 (2.60 GHz, Intel Xeon Gold 6126)",96,48,4,12,2,2550.0,2700,Intel Xeon Gold 6126
+Lenovo Global Technology,"ThinkSystem SN850 (2.40 GHz, Intel Xeon Gold 5115)",80,40,4,10,2,1890.0,1980,Intel Xeon Gold 5115
+Lenovo Global Technology,"ThinkSystem SN850 (2.10 GHz, Intel Xeon Gold 6130)",128,64,4,16,2,2950.0,3140,Intel Xeon Gold 6130
+Lenovo Global Technology,"ThinkSystem SN850 (2.30 GHz, Intel Xeon Gold 5118)",96,48,4,12,2,2270.0,2390,Intel Xeon Gold 5118
+Lenovo Global Technology,"ThinkSystem SN850 (2.10 GHz, Intel Xeon Gold 6130T)",128,64,4,16,2,2980.0,3130,Intel Xeon Gold 6130T
+Lenovo Global Technology,"ThinkSystem SN850 (2.20 GHz, Intel Xeon Gold 5120)",112,56,4,14,2,2540.0,2660,Intel Xeon Gold 5120
+Lenovo Global Technology,"ThinkSystem SN850 (3.20 GHz, Intel Xeon Gold 6134)",64,32,4,8,2,2040.0,2180,Intel Xeon Gold 6134
+Lenovo Global Technology,"ThinkSystem SN850 (2.20 GHz, Intel Xeon Gold 5120T)",112,56,4,14,2,2520.0,2640,Intel Xeon Gold 5120T
+Lenovo Global Technology,"ThinkSystem SN850 (3.00 GHz, Intel Xeon Gold 6136)",96,48,4,12,2,2850.0,3030,Intel Xeon Gold 6136
+Lenovo Global Technology,"ThinkSystem SN850 (3.60 GHz, Intel Xeon Gold 5122)",32,16,4,4,2,1080.0,1150,Intel Xeon Gold 5122
+Lenovo Global Technology,"ThinkSystem SN850 (2.00 GHz, Intel Xeon Gold 6138)",160,80,4,20,2,3460.0,3670,Intel Xeon Gold 6138
+Lenovo Global Technology,"ThinkSystem SN850 (2.30 GHz, Intel Xeon Gold 6140)",144,72,4,18,2,3440.0,3640,Intel Xeon Gold 6140
+Lenovo Global Technology,"ThinkSystem SN850 (2.60 GHz, Intel Xeon Gold 6142)",128,64,4,16,2,3320.0,3510,Intel Xeon Gold 6142
+Lenovo Global Technology,"ThinkSystem SN850 (2.10 GHz, Intel Xeon Gold 6152)",176,88,4,22,2,3790.0,3990,Intel Xeon Gold 6152
+Lenovo Global Technology,"ThinkSystem SN850 (3.60 GHz, Intel Xeon Platinum 8156)",32,16,4,4,2,1080.0,1150,Intel Xeon Platinum 8156
+Lenovo Global Technology,"ThinkSystem SN850 (3.00 GHz, Intel Xeon Platinum 8158)",96,48,4,12,2,2890.0,3060,Intel Xeon Platinum 8158
+Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8170)",208,104,4,26,2,4610.0,4810,Intel Xeon Platinum 8170
+Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8170M)",208,104,4,26,2,4600.0,4810,Intel Xeon Platinum 8170M
+Lenovo Global Technology,"ThinkSystem SR950 (2.30 GHz, Intel Xeon Gold 6140)",144,72,4,18,2,3550.0,3740,Intel Xeon Gold 6140
+Lenovo Global Technology,"ThinkSystem SR950 (2.70 GHz, Intel Xeon Platinum 8168)",192,96,4,24,2,4930.0,5140,Intel Xeon Platinum 8168
+Supermicro,SuperServer 1029U-TN10RT (Intel Xeon Gold 5118),48,24,2,12,2,1110.0,1180,Intel Xeon Gold 5118
+Supermicro,SuperServer 1029U-TN10RT (Intel Xeon Gold 6148),80,40,2,20,2,1990.0,2090,Intel Xeon Gold 6148
+Supermicro,SuperServer 1029U-TR4 (Intel Xeon Gold 6132),56,28,2,14,2,1530.0,1620,Intel Xeon Gold 6132

@@ -1,0 +1,555 @@
+,,,Base
+,,,max
+Company,EnabledChips,CPU,
+ACTION S.A.,2,Intel Xeon E5-2620 v4,570.0
+ACTION S.A.,2,Intel Xeon E5-2630 v4,668.0
+ACTION S.A.,2,Intel Xeon E5-2640 v4,690.0
+ACTION S.A.,2,Intel Xeon E5-2680 v4,924.0
+Acer Incorporated,1,Intel Xeon E5-2620 v4,298.0
+Acer Incorporated,1,Intel Xeon E5-2623 v4,180.0
+Acer Incorporated,1,Intel Xeon E7-4809 v4,243.0
+Acer Incorporated,1,Intel Xeon E7-4820 v4,284.0
+Acer Incorporated,2,Intel Xeon E5-2650 v4,766.0
+Acer Incorporated,2,Intel Xeon E5-2680 v4,891.0
+Acer Incorporated,2,Intel Xeon E5-2690 v4,928.0
+Acer Incorporated,2,Intel Xeon Gold 6126,1070.0
+Acer Incorporated,2,Intel Xeon Gold 6130,1190.0
+Acer Incorporated,2,Intel Xeon Gold 6134,892.0
+Acer Incorporated,2,Intel Xeon Gold 6136,1110.0
+Acer Incorporated,2,Intel Xeon Gold 6138,1370.0
+Acer Incorporated,2,Intel Xeon Gold 6140,1310.0
+Acer Incorporated,2,Intel Xeon Gold 6148,1400.0
+Acer Incorporated,2,Intel Xeon Gold 6150,1380.0
+Acer Incorporated,2,Intel Xeon Gold 6152,1430.0
+Acer Incorporated,4,Intel Xeon E7-8870 v4,2100.0
+Advanced Micro Devices,2,AMD EPYC 7351,1260.0
+Advanced Micro Devices,2,AMD EPYC 7451,1530.0
+Advanced Micro Devices,2,AMD EPYC 7551,1640.0
+Cisco Systems,2,Intel Xeon Bronze 3104,360.0
+Cisco Systems,2,Intel Xeon Bronze 3106,476.0
+Cisco Systems,2,Intel Xeon E5-2623 v4  2.60 GHz,351.0
+Cisco Systems,2,Intel Xeon E5-2630L v4  1.80 GHz,596.0
+Cisco Systems,2,Intel Xeon E5-2637 v4 3.50 GHz,432.0
+Cisco Systems,2,Intel Xeon E5-2667 v4 3.20 GHz,721.0
+Cisco Systems,2,Intel Xeon E5-2699A v4 2.40 GHz,1110.0
+Cisco Systems,2,Intel Xeon Gold 5115,888.0
+Cisco Systems,2,Intel Xeon Gold 5118,995.0
+Cisco Systems,2,Intel Xeon Gold 5120,1080.0
+Cisco Systems,2,Intel Xeon Gold 5122,540.0
+Cisco Systems,2,Intel Xeon Gold 6126,1160.0
+Cisco Systems,2,Intel Xeon Gold 6128,776.0
+Cisco Systems,2,Intel Xeon Gold 6128 3.40GHz,780.0
+Cisco Systems,2,Intel Xeon Gold 6130,1270.0
+Cisco Systems,2,Intel Xeon Gold 6132,1260.0
+Cisco Systems,2,Intel Xeon Gold 6134,968.0
+Cisco Systems,2,Intel Xeon Gold 6134M,975.0
+Cisco Systems,2,Intel Xeon Gold 6136,1250.0
+Cisco Systems,2,Intel Xeon Gold 6138,1420.0
+Cisco Systems,2,Intel Xeon Gold 6140,1400.0
+Cisco Systems,2,Intel Xeon Gold 6140M,1400.0
+Cisco Systems,2,Intel Xeon Gold 6142,1370.0
+Cisco Systems,2,Intel Xeon Gold 6142M,1380.0
+Cisco Systems,2,Intel Xeon Gold 6144,1000.0
+Cisco Systems,2,Intel Xeon Gold 6146,1260.0
+Cisco Systems,2,Intel Xeon Gold 6148,1480.0
+Cisco Systems,2,Intel Xeon Gold 6150,1480.0
+Cisco Systems,2,Intel Xeon Gold 6152,1510.0
+Cisco Systems,2,Intel Xeon Gold 6154,1530.0
+Cisco Systems,2,Intel Xeon Platinum 8153,1170.0
+Cisco Systems,2,Intel Xeon Platinum 8156,545.0
+Cisco Systems,2,Intel Xeon Platinum 8158,1250.0
+Cisco Systems,2,Intel Xeon Platinum 8160,1590.0
+Cisco Systems,2,Intel Xeon Platinum 8160M,1600.0
+Cisco Systems,2,Intel Xeon Platinum 8164,1620.0
+Cisco Systems,2,Intel Xeon Platinum 8168,1710.0
+Cisco Systems,2,Intel Xeon Platinum 8170,1650.0
+Cisco Systems,2,Intel Xeon Platinum 8170M,1660.0
+Cisco Systems,2,Intel Xeon Platinum 8176,1700.0
+Cisco Systems,2,Intel Xeon Platinum 8176M,1700.0
+Cisco Systems,2,Intel Xeon Platinum 8180,1810.0
+Cisco Systems,2,Intel Xeon Platinum 8180M,1800.0
+Cisco Systems,2,Intel Xeon Silver 4108,635.0
+Cisco Systems,2,Intel Xeon Silver 4110,688.0
+Cisco Systems,2,Intel Xeon Silver 4112,428.0
+Cisco Systems,2,Intel Xeon Silver 4114,835.0
+Cisco Systems,2,Intel Xeon Silver 4116,929.0
+Cisco Systems,4,Intel Xeon CPU E5-4667 v4 2.20 GHz,1920.0
+Cisco Systems,4,Intel Xeon CPU E7-4809 v4 2.10 GHz,967.0
+Cisco Systems,4,Intel Xeon CPU E7-8891 v4 2.80 GHz,1660.0
+Cisco Systems,4,Intel Xeon CPU E7-8893 v4 3.20 GHz,815.0
+Cisco Systems,4,Intel Xeon E5-4620 v4,1290.0
+Cisco Systems,4,Intel Xeon E5-4627 v4 2.60 GHz,1500.0
+Cisco Systems,4,Intel Xeon E5-4655 v4,1270.0
+Cisco Systems,4,Intel Xeon E5-4660 v4,1830.0
+Cisco Systems,4,Intel Xeon E5-4669 v4 2.20 GHz,2110.0
+Cisco Systems,4,Intel Xeon E7-4830 v4 2.00 GHz,1540.0
+Cisco Systems,4,Intel Xeon E7-4850 v4 2.10 GHz,1730.0
+Cisco Systems,4,Intel Xeon E7-8860 v4 2.20 GHz,2100.0
+Cisco Systems,4,Intel Xeon E7-8870 v4 2.10 GHz,2160.0
+Cisco Systems,4,Intel Xeon E7-8880 v4 2.20 GHz,2260.0
+Cisco Systems,4,Intel Xeon E7-8890 v4 2.20 GHz,2370.0
+Cisco Systems,4,Intel Xeon Gold 5115,1720.0
+Cisco Systems,4,Intel Xeon Gold 5118,1970.0
+Cisco Systems,4,Intel Xeon Gold 5120,2150.0
+Cisco Systems,4,Intel Xeon Gold 5122,1080.0
+Cisco Systems,4,Intel Xeon Gold 6126,2240.0
+Cisco Systems,4,Intel Xeon Gold 6128,1500.0
+Cisco Systems,4,Intel Xeon Gold 6130,2510.0
+Cisco Systems,4,Intel Xeon Gold 6132,2480.0
+Cisco Systems,4,Intel Xeon Gold 6134,1920.0
+Cisco Systems,4,Intel Xeon Gold 6134M,1920.0
+Cisco Systems,4,Intel Xeon Gold 6136,2390.0
+Cisco Systems,4,Intel Xeon Gold 6138,2710.0
+Cisco Systems,4,Intel Xeon Gold 6140,2750.0
+Cisco Systems,4,Intel Xeon Gold 6140M,2740.0
+Cisco Systems,4,Intel Xeon Gold 6142,2640.0
+Cisco Systems,4,Intel Xeon Gold 6142M,2670.0
+Cisco Systems,4,Intel Xeon Gold 6144,1980.0
+Cisco Systems,4,Intel Xeon Gold 6146,2450.0
+Cisco Systems,4,Intel Xeon Gold 6148,2890.0
+Cisco Systems,4,Intel Xeon Gold 6150,2830.0
+Cisco Systems,4,Intel Xeon Gold 6152,2940.0
+Cisco Systems,4,Intel Xeon Gold 6154,2960.0
+Cisco Systems,4,Intel Xeon Platinum 8153,2330.0
+Cisco Systems,4,Intel Xeon Platinum 8156,1080.0
+Cisco Systems,4,Intel Xeon Platinum 8158,2460.0
+Cisco Systems,4,Intel Xeon Platinum 8160,3080.0
+Cisco Systems,4,Intel Xeon Platinum 8160M,3120.0
+Cisco Systems,4,Intel Xeon Platinum 8164,3120.0
+Cisco Systems,4,Intel Xeon Platinum 8168,3350.0
+Cisco Systems,4,Intel Xeon Platinum 8170,3240.0
+Cisco Systems,4,Intel Xeon Platinum 8176,3280.0
+Cisco Systems,4,Intel Xeon Platinum 8176M,3300.0
+Cisco Systems,4,Intel Xeon Platinum 8180,3480.0
+Cisco Systems,4,Intel Xeon Platinum 8180M,3520.0
+Dell Inc.,1,Intel Xeon E3-1225 v6,186.0
+Dell Inc.,1,Intel Xeon E3-1230 v6,202.0
+Dell Inc.,1,Intel Xeon E3-1240 v6,202.0
+Dell Inc.,1,Intel Xeon E3-1280 v6,203.0
+Dell Inc.,1,Intel Xeon Phi 7210 1.30 GHz,765.0
+Dell Inc.,1,Intel Xeon Phi 7210F 1.30 GHz,681.0
+Dell Inc.,1,Intel Xeon Phi 7230 1.30 GHz,806.0
+Dell Inc.,1,Intel Xeon Phi 7230F 1.30 GHz,798.0
+Dell Inc.,1,Intel Xeon Phi 7250 1.40 GHz,817.0
+Dell Inc.,1,Intel Xeon Phi 7250F 1.40 GHz,807.0
+Dell Inc.,1,Intel Xeon Phi 7290 1.50 GHz,878.0
+Dell Inc.,1,Intel Xeon Phi 7290F,871.0
+Dell Inc.,2,Intel Xeon Bronze 3104,356.0
+Dell Inc.,2,Intel Xeon Bronze 3106,468.0
+Dell Inc.,2,Intel Xeon E5-2630 v4,657.0
+Dell Inc.,2,Intel Xeon E5-2637 v4,429.0
+Dell Inc.,2,Intel Xeon E5-2640 v4,692.0
+Dell Inc.,2,Intel Xeon E5-2660 v4,864.0
+Dell Inc.,2,Intel Xeon E5-2690 v4,941.0
+Dell Inc.,2,Intel Xeon E5-2698 v4,961.0
+Dell Inc.,2,Intel Xeon E5-2699A v4,1120.0
+Dell Inc.,2,Intel Xeon Gold 5115,871.0
+Dell Inc.,2,Intel Xeon Gold 5118,978.0
+Dell Inc.,2,Intel Xeon Gold 5119T,1000.0
+Dell Inc.,2,Intel Xeon Gold 5120,1070.0
+Dell Inc.,2,Intel Xeon Gold 5120T,1060.0
+Dell Inc.,2,Intel Xeon Gold 5122,536.0
+Dell Inc.,2,Intel Xeon Gold 6126,1120.0
+Dell Inc.,2,Intel Xeon Gold 6126F,1060.0
+Dell Inc.,2,Intel Xeon Gold 6126T,1130.0
+Dell Inc.,2,Intel Xeon Gold 6128,747.0
+Dell Inc.,2,Intel Xeon Gold 6130,1230.0
+Dell Inc.,2,Intel Xeon Gold 6130T,1260.0
+Dell Inc.,2,Intel Xeon Gold 6132,1210.0
+Dell Inc.,2,Intel Xeon Gold 6134,916.0
+Dell Inc.,2,Intel Xeon Gold 6136,1200.0
+Dell Inc.,2,Intel Xeon Gold 6138,1370.0
+Dell Inc.,2,Intel Xeon Gold 6138F,1330.0
+Dell Inc.,2,Intel Xeon Gold 6138T,1390.0
+Dell Inc.,2,Intel Xeon Gold 6140,1360.0
+Dell Inc.,2,Intel Xeon Gold 6142,1320.0
+Dell Inc.,2,Intel Xeon Gold 6144,977.0
+Dell Inc.,2,Intel Xeon Gold 6146,1240.0
+Dell Inc.,2,Intel Xeon Gold 6148,1450.0
+Dell Inc.,2,Intel Xeon Gold 6148F,1390.0
+Dell Inc.,2,Intel Xeon Gold 6150,1430.0
+Dell Inc.,2,Intel Xeon Gold 6152,1470.0
+Dell Inc.,2,Intel Xeon Gold 6154,1500.0
+Dell Inc.,2,Intel Xeon Platinum 8153,1160.0
+Dell Inc.,2,Intel Xeon Platinum 8156,511.0
+Dell Inc.,2,Intel Xeon Platinum 8160,1560.0
+Dell Inc.,2,Intel Xeon Platinum 8160F,1490.0
+Dell Inc.,2,Intel Xeon Platinum 8160T,1570.0
+Dell Inc.,2,Intel Xeon Platinum 8164,1590.0
+Dell Inc.,2,Intel Xeon Platinum 8168,1660.0
+Dell Inc.,2,Intel Xeon Platinum 8170,1600.0
+Dell Inc.,2,Intel Xeon Platinum 8176,1660.0
+Dell Inc.,2,Intel Xeon Platinum 8176 2.10 GHz,1660.0
+Dell Inc.,2,Intel Xeon Platinum 8180M,1790.0
+Dell Inc.,2,Intel Xeon Silver 4108,625.0
+Dell Inc.,2,Intel Xeon Silver 4109T,656.0
+Dell Inc.,2,Intel Xeon Silver 4110,673.0
+Dell Inc.,2,Intel Xeon Silver 4112,414.0
+Dell Inc.,2,Intel Xeon Silver 4114,825.0
+Dell Inc.,2,Intel Xeon Silver 4114T,825.0
+Dell Inc.,2,Intel Xeon Silver 4116,923.0
+Dell Inc.,2,Intel Xeon Silver 4116T,920.0
+Dell Inc.,4,Intel Xeon E5-4620 v4,1320.0
+Dell Inc.,4,Intel Xeon E7-8894 v4,2440.0
+Dell Inc.,4,Intel Xeon Gold 5115,1530.0
+Dell Inc.,4,Intel Xeon Gold 5118,1880.0
+Dell Inc.,4,Intel Xeon Gold 5120,2050.0
+Dell Inc.,4,Intel Xeon Gold 5122,1030.0
+Dell Inc.,4,Intel Xeon Gold 6126,2130.0
+Dell Inc.,4,Intel Xeon Gold 6128,1470.0
+Dell Inc.,4,Intel Xeon Gold 6130,2390.0
+Dell Inc.,4,Intel Xeon Gold 6132,2370.0
+Dell Inc.,4,Intel Xeon Gold 6134,1800.0
+Dell Inc.,4,Intel Xeon Gold 6136,2350.0
+Dell Inc.,4,Intel Xeon Gold 6138,2560.0
+Dell Inc.,4,Intel Xeon Gold 6140,2600.0
+Dell Inc.,4,Intel Xeon Gold 6142,2550.0
+Dell Inc.,4,Intel Xeon Gold 6144,1940.0
+Dell Inc.,4,Intel Xeon Gold 6146,2380.0
+Dell Inc.,4,Intel Xeon Gold 6148,2790.0
+Dell Inc.,4,Intel Xeon Gold 6150,2760.0
+Dell Inc.,4,Intel Xeon Gold 6152,2830.0
+Dell Inc.,4,Intel Xeon Gold 6154,2900.0
+Dell Inc.,4,Intel Xeon Platinum 8153,2300.0
+Dell Inc.,4,Intel Xeon Platinum 8156,1060.0
+Dell Inc.,4,Intel Xeon Platinum 8158,2410.0
+Dell Inc.,4,Intel Xeon Platinum 8160,3070.0
+Dell Inc.,4,Intel Xeon Platinum 8164,3150.0
+Dell Inc.,4,Intel Xeon Platinum 8168,3290.0
+Dell Inc.,4,Intel Xeon Platinum 8170,3180.0
+Dell Inc.,4,Intel Xeon Platinum 8176,3280.0
+Dell Inc.,4,Intel Xeon Platinum 8180,3410.0
+Fujitsu,1,Intel Xeon E3-1245 v6,203.0
+Fujitsu,1,Intel Xeon E3-1280 v6,207.0
+Fujitsu,1,SPARC M12-1,317.0
+Fujitsu,1,SPARC M12-2S,682.0
+Fujitsu,2,Intel Xeon Bronze 3104,364.0
+Fujitsu,2,Intel Xeon Bronze 3106,481.0
+Fujitsu,2,Intel Xeon E5-2667 v4,734.0
+Fujitsu,2,Intel Xeon E7-8894 v4,1210.0
+Fujitsu,2,Intel Xeon Gold 5115,874.0
+Fujitsu,2,Intel Xeon Gold 5118,993.0
+Fujitsu,2,Intel Xeon Gold 5120,1080.0
+Fujitsu,2,Intel Xeon Gold 5122,534.0
+Fujitsu,2,Intel Xeon Gold 6126,1130.0
+Fujitsu,2,Intel Xeon Gold 6128,780.0
+Fujitsu,2,Intel Xeon Gold 6130,1270.0
+Fujitsu,2,Intel Xeon Gold 6132,1250.0
+Fujitsu,2,Intel Xeon Gold 6134,968.0
+Fujitsu,2,Intel Xeon Gold 6136,1230.0
+Fujitsu,2,Intel Xeon Gold 6138,1390.0
+Fujitsu,2,Intel Xeon Gold 6140,1380.0
+Fujitsu,2,Intel Xeon Gold 6142,1350.0
+Fujitsu,2,Intel Xeon Gold 6144,996.0
+Fujitsu,2,Intel Xeon Gold 6146,1260.0
+Fujitsu,2,Intel Xeon Gold 6148,1480.0
+Fujitsu,2,Intel Xeon Gold 6150,1430.0
+Fujitsu,2,Intel Xeon Gold 6152,1490.0
+Fujitsu,2,Intel Xeon Gold 6154,1520.0
+Fujitsu,2,Intel Xeon Platinum 8153,1170.0
+Fujitsu,2,Intel Xeon Platinum 8160,1560.0
+Fujitsu,2,Intel Xeon Platinum 8164,1590.0
+Fujitsu,2,Intel Xeon Platinum 8168,1690.0
+Fujitsu,2,Intel Xeon Platinum 8170,1630.0
+Fujitsu,2,Intel Xeon Platinum 8176,1680.0
+Fujitsu,2,Intel Xeon Platinum 8180,1790.0
+Fujitsu,2,Intel Xeon Silver 4108,640.0
+Fujitsu,2,Intel Xeon Silver 4110,690.0
+Fujitsu,2,Intel Xeon Silver 4112,430.0
+Fujitsu,2,Intel Xeon Silver 4114,838.0
+Fujitsu,2,Intel Xeon Silver 4116,938.0
+Fujitsu,2,SPARC M12-2,1280.0
+Fujitsu,2,SPARC M12-2S,1360.0
+Fujitsu,4,Intel Xeon E7-8894 v4,2450.0
+Fujitsu,4,SPARC M12-2S,2720.0
+Fujitsu,8,Intel Xeon E7-8894 v4,4770.0
+Fujitsu,8,Intel Xeon Platinum 8180,7120.0
+Fujitsu,8,SPARC M12-2S,5380.0
+Fujitsu,16,SPARC M12-2S,10500.0
+H3C,2,Intel Xeon Gold 6140,1360.0
+H3C,2,Intel Xeon Platinum 8164,1610.0
+HPE,1,Intel Xeon E3-1280 v6,209.0
+HPE,2,AMD EPYC 7601,1790.0
+HPE,2,Intel Xeon E5-2640 v4,689.0
+HPE,2,Intel Xeon E5-2660 v4,875.0
+HPE,2,Intel Xeon E5-2680 v4,924.0
+HPE,2,Intel Xeon E5-2687W v4,900.0
+HPE,2,Intel Xeon E5-2695 v4,972.0
+HPE,2,Intel Xeon E7-8894 v4,1180.0
+HPE,2,Intel Xeon Gold 5120,1060.0
+HPE,2,Intel Xeon Gold 5122,558.0
+HPE,2,Intel Xeon Gold 6126,1140.0
+HPE,2,Intel Xeon Gold 6128,788.0
+HPE,2,Intel Xeon Gold 6130,1250.0
+HPE,2,Intel Xeon Gold 6132,1230.0
+HPE,2,Intel Xeon Gold 6134,971.0
+HPE,2,Intel Xeon Gold 6136,1200.0
+HPE,2,Intel Xeon Gold 6138,1380.0
+HPE,2,Intel Xeon Gold 6140,1360.0
+HPE,2,Intel Xeon Gold 6142,1330.0
+HPE,2,Intel Xeon Gold 6143,1380.0
+HPE,2,Intel Xeon Gold 6144,1010.0
+HPE,2,Intel Xeon Gold 6146,1250.0
+HPE,2,Intel Xeon Gold 6148,1440.0
+HPE,2,Intel Xeon Gold 6150,1430.0
+HPE,2,Intel Xeon Gold 6152,1470.0
+HPE,2,Intel Xeon Gold 6154,1470.0
+HPE,2,Intel Xeon Platinum 8153,1170.0
+HPE,2,Intel Xeon Platinum 8156,555.0
+HPE,2,Intel Xeon Platinum 8158,1220.0
+HPE,2,Intel Xeon Platinum 8160,1540.0
+HPE,2,Intel Xeon Platinum 8164,1560.0
+HPE,2,Intel Xeon Platinum 8168,1670.0
+HPE,2,Intel Xeon Platinum 8170,1600.0
+HPE,2,Intel Xeon Platinum 8176,1650.0
+HPE,2,Intel Xeon Platinum 8180,1750.0
+HPE,2,Intel Xeon Platinum 8180M,1750.0
+HPE,2,Intel Xeon Silver 4108,629.0
+HPE,2,Intel Xeon Silver 4110,679.0
+HPE,2,Intel Xeon Silver 4112,424.0
+HPE,2,Intel Xeon Silver 4114,831.0
+HPE,2,Intel Xeon Silver 4116,923.0
+HPE,4,Intel Xeon E5-4620 v4,1310.0
+HPE,4,Intel Xeon E5-4640 v4,1480.0
+HPE,4,Intel Xeon E7-8880 v4,2250.0
+HPE,4,Intel Xeon E7-8894 v4,2400.0
+HPE,4,Intel Xeon Gold 6130,1990.0
+HPE,4,Intel Xeon Platinum 8153,2290.0
+HPE,4,Intel Xeon Platinum 8156,1070.0
+HPE,4,Intel Xeon Platinum 8158,2340.0
+HPE,4,Intel Xeon Platinum 8160,2980.0
+Huawei,2,Intel Xeon Bronze 3104,355.0
+Huawei,2,Intel Xeon Bronze 3106,473.0
+Huawei,2,Intel Xeon E5-2609 v4,435.0
+Huawei,2,Intel Xeon E5-2650L v4,759.0
+Huawei,2,Intel Xeon E5-2660 v3,713.0
+Huawei,2,Intel Xeon E5-2680 v4,921.0
+Huawei,2,Intel Xeon E5-2683 v4,952.0
+Huawei,2,Intel Xeon E5-2690 v3,806.0
+Huawei,2,Intel Xeon E5-2690 v4,944.0
+Huawei,2,Intel Xeon E5-2699 v3,921.0
+Huawei,2,Intel Xeon E5-2699A v4,1120.0
+Huawei,2,Intel Xeon Gold 5115,888.0
+Huawei,2,Intel Xeon Gold 5118,993.0
+Huawei,2,Intel Xeon Gold 5120,1090.0
+Huawei,2,Intel Xeon Gold 5122,554.0
+Huawei,2,Intel Xeon Gold 6126,1160.0
+Huawei,2,Intel Xeon Gold 6128,792.0
+Huawei,2,Intel Xeon Gold 6130,1230.0
+Huawei,2,Intel Xeon Gold 6132,1250.0
+Huawei,2,Intel Xeon Gold 6134,970.0
+Huawei,2,Intel Xeon Gold 6136,1230.0
+Huawei,2,Intel Xeon Gold 6138,1360.0
+Huawei,2,Intel Xeon Gold 6140,1360.0
+Huawei,2,Intel Xeon Gold 6142,1340.0
+Huawei,2,Intel Xeon Gold 6144,956.0
+Huawei,2,Intel Xeon Gold 6146,1220.0
+Huawei,2,Intel Xeon Gold 6148,1470.0
+Huawei,2,Intel Xeon Gold 6150,1450.0
+Huawei,2,Intel Xeon Gold 6152,1480.0
+Huawei,2,Intel Xeon Gold 6154,1510.0
+Huawei,2,Intel Xeon Platinum 8153,1150.0
+Huawei,2,Intel Xeon Platinum 8156,553.0
+Huawei,2,Intel Xeon Platinum 8160,1540.0
+Huawei,2,Intel Xeon Platinum 8164,1570.0
+Huawei,2,Intel Xeon Platinum 8168,1700.0
+Huawei,2,Intel Xeon Platinum 8170,1620.0
+Huawei,2,Intel Xeon Platinum 8176,1660.0
+Huawei,2,Intel Xeon Platinum 8180,1850.0
+Huawei,2,Intel Xeon Silver 4108,634.0
+Huawei,2,Intel Xeon Silver 4110,684.0
+Huawei,2,Intel Xeon Silver 4112,427.0
+Huawei,2,Intel Xeon Silver 4114,837.0
+Huawei,2,Intel Xeon Silver 4116,917.0
+Huawei,4,Intel Xeon E7-4809 v4,983.0
+Huawei,4,Intel Xeon E7-4820 v4,1150.0
+Huawei,4,Intel Xeon E7-4830 v4,1130.0
+Huawei,4,Intel Xeon E7-4850 v4,1160.0
+Huawei,4,Intel Xeon E7-8855 v4,1170.0
+Huawei,4,Intel Xeon E7-8860 v4,1410.0
+Huawei,4,Intel Xeon E7-8870 v4,2230.0
+Huawei,4,Intel Xeon E7-8890 v4,1520.0
+Huawei,4,Intel Xeon E7-8894 v4,2460.0
+Huawei,4,Intel Xeon Gold 5115,1650.0
+Huawei,4,Intel Xeon Gold 5120,2080.0
+Huawei,4,Intel Xeon Gold 5122,1020.0
+Huawei,4,Intel Xeon Gold 6126,2160.0
+Huawei,4,Intel Xeon Gold 6126T,2140.0
+Huawei,4,Intel Xeon Gold 6130,2350.0
+Huawei,4,Intel Xeon Gold 6130T,2390.0
+Huawei,4,Intel Xeon Gold 6134M,1810.0
+Huawei,4,Intel Xeon Gold 6136,2330.0
+Huawei,4,Intel Xeon Gold 6138,2590.0
+Huawei,4,Intel Xeon Gold 6138T,2620.0
+Huawei,4,Intel Xeon Gold 6140M,2620.0
+Huawei,4,Intel Xeon Gold 6142,2540.0
+Huawei,4,Intel Xeon Gold 6148,2730.0
+Huawei,4,Intel Xeon Gold 6150,2750.0
+Huawei,4,Intel Xeon Gold 6152,2810.0
+Huawei,4,Intel Xeon Gold 6154,2850.0
+Huawei,4,Intel Xeon Platinum 8153,2250.0
+Huawei,4,Intel Xeon Platinum 8156,1060.0
+Huawei,4,Intel Xeon Platinum 8164,3040.0
+Huawei,4,Intel Xeon Platinum 8170,3100.0
+Huawei,4,Intel Xeon Platinum 8176,3160.0
+Huawei,4,Intel Xeon Platinum 8180,3670.0
+Huawei,8,Intel Xeon E7-4809 v3,1760.0
+Huawei,8,Intel Xeon E7-4820 v3,2040.0
+Huawei,8,Intel Xeon E7-4830 v3,2750.0
+Huawei,8,Intel Xeon E7-4850 v3,2990.0
+Huawei,8,Intel Xeon E7-8860 v4,4050.0
+Huawei,8,Intel Xeon E7-8867 v3,3780.0
+Huawei,8,Intel Xeon E7-8867 v4,4090.0
+Huawei,8,Intel Xeon E7-8870 v4,4260.0
+Huawei,8,Intel Xeon E7-8891 v3,3080.0
+Huawei,8,Intel Xeon E7-8894 v4,4600.0
+Huawei,8,Intel Xeon Platinum 8180,7070.0
+Inspur Corporation,2,Intel Xeon E5-2620 v4,600.0
+Inspur Corporation,2,Intel Xeon E5-2630 v4,675.0
+Inspur Corporation,2,Intel Xeon E5-2640 v4,698.0
+Inspur Corporation,2,Intel Xeon E5-2660 v4,847.0
+Inspur Corporation,2,Intel Xeon E5-2698 v4,1060.0
+Inspur Corporation,2,Intel Xeon E5-2699A v4,1120.0
+Lenovo Global Technology,1,Intel Xeon E3-1220 v6,185.0
+Lenovo Global Technology,1,Intel Xeon E3-1225 v6,190.0
+Lenovo Global Technology,1,Intel Xeon E3-1230 v6,201.0
+Lenovo Global Technology,1,Intel Xeon E3-1240 v6,206.0
+Lenovo Global Technology,1,Intel Xeon E3-1245 v6,205.0
+Lenovo Global Technology,1,Intel Xeon E3-1270 v6,208.0
+Lenovo Global Technology,1,Intel Xeon E3-1275 v6,207.0
+Lenovo Global Technology,1,Intel Xeon Platinum 8180,812.0
+Lenovo Global Technology,2,Intel Xeon Bronze 3104,355.0
+Lenovo Global Technology,2,Intel Xeon Bronze 3106,468.0
+Lenovo Global Technology,2,Intel Xeon Gold 5115,864.0
+Lenovo Global Technology,2,Intel Xeon Gold 5118,980.0
+Lenovo Global Technology,2,Intel Xeon Gold 5120,1070.0
+Lenovo Global Technology,2,Intel Xeon Gold 5120T,1070.0
+Lenovo Global Technology,2,Intel Xeon Gold 5122,532.0
+Lenovo Global Technology,2,Intel Xeon Gold 6126,1140.0
+Lenovo Global Technology,2,Intel Xeon Gold 6126T,1120.0
+Lenovo Global Technology,2,Intel Xeon Gold 6130,1260.0
+Lenovo Global Technology,2,Intel Xeon Gold 6130T,1260.0
+Lenovo Global Technology,2,Intel Xeon Gold 6134,952.0
+Lenovo Global Technology,2,Intel Xeon Gold 6136,1220.0
+Lenovo Global Technology,2,Intel Xeon Gold 6138,1400.0
+Lenovo Global Technology,2,Intel Xeon Gold 6138T,1370.0
+Lenovo Global Technology,2,Intel Xeon Gold 6140,1370.0
+Lenovo Global Technology,2,Intel Xeon Gold 6142,1330.0
+Lenovo Global Technology,2,Intel Xeon Gold 6148,1460.0
+Lenovo Global Technology,2,Intel Xeon Gold 6150,1440.0
+Lenovo Global Technology,2,Intel Xeon Gold 6152,1460.0
+Lenovo Global Technology,2,Intel Xeon Gold 6154,1480.0
+Lenovo Global Technology,2,Intel Xeon Platinum 8153,1160.0
+Lenovo Global Technology,2,Intel Xeon Platinum 8156,534.0
+Lenovo Global Technology,2,Intel Xeon Platinum 8158,1220.0
+Lenovo Global Technology,2,Intel Xeon Platinum 8160,1550.0
+Lenovo Global Technology,2,Intel Xeon Platinum 8160T,1530.0
+Lenovo Global Technology,2,Intel Xeon Platinum 8164,1580.0
+Lenovo Global Technology,2,Intel Xeon Platinum 8168,1680.0
+Lenovo Global Technology,2,Intel Xeon Platinum 8170,1620.0
+Lenovo Global Technology,2,Intel Xeon Platinum 8176,1680.0
+Lenovo Global Technology,2,Intel Xeon Platinum 8180,1770.0
+Lenovo Global Technology,2,Intel Xeon Silver 4108,628.0
+Lenovo Global Technology,2,Intel Xeon Silver 4109T,660.0
+Lenovo Global Technology,2,Intel Xeon Silver 4110,675.0
+Lenovo Global Technology,2,Intel Xeon Silver 4112,418.0
+Lenovo Global Technology,2,Intel Xeon Silver 4114,827.0
+Lenovo Global Technology,2,Intel Xeon Silver 4116,918.0
+Lenovo Global Technology,4,Intel Xeon Gold 5115,1680.0
+Lenovo Global Technology,4,Intel Xeon Gold 5118,1930.0
+Lenovo Global Technology,4,Intel Xeon Gold 5120,2110.0
+Lenovo Global Technology,4,Intel Xeon Gold 5120T,2100.0
+Lenovo Global Technology,4,Intel Xeon Gold 5122,1040.0
+Lenovo Global Technology,4,Intel Xeon Gold 6126,2260.0
+Lenovo Global Technology,4,Intel Xeon Gold 6126T,2290.0
+Lenovo Global Technology,4,Intel Xeon Gold 6130,2490.0
+Lenovo Global Technology,4,Intel Xeon Gold 6130T,2510.0
+Lenovo Global Technology,4,Intel Xeon Gold 6132,2480.0
+Lenovo Global Technology,4,Intel Xeon Gold 6134,1810.0
+Lenovo Global Technology,4,Intel Xeon Gold 6134M,1910.0
+Lenovo Global Technology,4,Intel Xeon Gold 6136,2400.0
+Lenovo Global Technology,4,Intel Xeon Gold 6138,2760.0
+Lenovo Global Technology,4,Intel Xeon Gold 6140,2750.0
+Lenovo Global Technology,4,Intel Xeon Gold 6142,2640.0
+Lenovo Global Technology,4,Intel Xeon Gold 6148,2860.0
+Lenovo Global Technology,4,Intel Xeon Gold 6150,2850.0
+Lenovo Global Technology,4,Intel Xeon Gold 6152,2880.0
+Lenovo Global Technology,4,Intel Xeon Platinum 8153,2290.0
+Lenovo Global Technology,4,Intel Xeon Platinum 8156,1060.0
+Lenovo Global Technology,4,Intel Xeon Platinum 8158,2450.0
+Lenovo Global Technology,4,Intel Xeon Platinum 8160,3060.0
+Lenovo Global Technology,4,Intel Xeon Platinum 8160M,3120.0
+Lenovo Global Technology,4,Intel Xeon Platinum 8164,3180.0
+Lenovo Global Technology,4,Intel Xeon Platinum 8168,3330.0
+Lenovo Global Technology,4,Intel Xeon Platinum 8170,3230.0
+Lenovo Global Technology,4,Intel Xeon Platinum 8170M,3230.0
+Lenovo Global Technology,4,Intel Xeon Platinum 8176,3280.0
+Lenovo Global Technology,4,Intel Xeon Platinum 8180,3530.0
+Lenovo Global Technology,4,Intel Xeon Platinum 8180M,3510.0
+Lenovo Global Technology,8,Intel Xeon Platinum 8153,4560.0
+Lenovo Global Technology,8,Intel Xeon Platinum 8156,2090.0
+Lenovo Global Technology,8,Intel Xeon Platinum 8158,4780.0
+Lenovo Global Technology,8,Intel Xeon Platinum 8160,6010.0
+Lenovo Global Technology,8,Intel Xeon Platinum 8160M,6040.0
+Lenovo Global Technology,8,Intel Xeon Platinum 8160T,6070.0
+Lenovo Global Technology,8,Intel Xeon Platinum 8164,6160.0
+Lenovo Global Technology,8,Intel Xeon Platinum 8168,6530.0
+Lenovo Global Technology,8,Intel Xeon Platinum 8170,6260.0
+Lenovo Global Technology,8,Intel Xeon Platinum 8170M,6280.0
+Lenovo Global Technology,8,Intel Xeon Platinum 8176,6530.0
+Lenovo Global Technology,8,Intel Xeon Platinum 8180,6850.0
+Lenovo Group Limited,1,Intel Xeon E3-1220 v5,173.0
+Lenovo Group Limited,1,Intel Xeon E3-1230 v5,187.0
+Lenovo Group Limited,1,Intel Xeon E3-1240 v5,188.0
+Lenovo Group Limited,1,Intel Xeon E3-1270 v5,190.0
+Lenovo Group Limited,1,Intel Xeon E3-1280 v5,188.0
+Lenovo Group Limited,1,Intel Xeon E3-1280 v6,209.0
+Lenovo Group Limited,2,Intel Xeon E5-2603 v4,354.0
+Lenovo Group Limited,2,Intel Xeon E5-2609 v4,443.0
+Lenovo Group Limited,2,Intel Xeon E5-2620 v4,576.0
+Lenovo Group Limited,2,Intel Xeon E5-2623 v4,359.0
+Lenovo Group Limited,2,Intel Xeon E5-2630 v4,673.0
+Lenovo Group Limited,2,Intel Xeon E5-2637 v4,425.0
+Lenovo Group Limited,2,Intel Xeon E5-2640 v4,695.0
+Lenovo Group Limited,2,Intel Xeon E5-2650 v4,788.0
+Lenovo Group Limited,2,Intel Xeon E5-2660 v4,875.0
+Lenovo Group Limited,2,Intel Xeon E5-2680 v4,913.0
+Lenovo Group Limited,2,Intel Xeon E5-2683 v4,946.0
+Lenovo Group Limited,2,Intel Xeon E5-2690 v4,917.0
+Lenovo Group Limited,2,Intel Xeon E5-2697 v4,1010.0
+Lenovo Group Limited,2,Intel Xeon E5-2697A v4,1010.0
+Lenovo Group Limited,2,Intel Xeon E5-2698 v4,1020.0
+Lenovo Group Limited,2,Intel Xeon E5-2699R v4,1110.0
+Lenovo Group Limited,2,Intel Xeon E7-8894 v4,1190.0
+Lenovo Group Limited,4,Intel Xeon E7-8880 v4,2240.0
+Lenovo Group Limited,4,Intel Xeon E7-8894 v4,2400.0
+Lenovo Group Limited,8,Intel Xeon E7-8870 v4,4010.0
+Lenovo Group Limited,8,Intel Xeon E7-8894 v4,4510.0
+M Computers s.r.o.,1,Intel Xeon Phi 7210,748.0
+M Computers s.r.o.,2,Intel Xeon E5-2650 v4,800.0
+M Computers s.r.o.,2,Intel Xeon Silver 4112,425.0
+M Computers s.r.o.,2,Intel Xeon Silver 4114,824.0
+NEC Corporation,1,Intel Celeron G3930,93.0
+NEC Corporation,1,Intel Core i3-7300,146.0
+NEC Corporation,1,Intel Pentium G4560,121.0
+NEC Corporation,1,Intel Xeon E3-1220 v6,185.0
+NEC Corporation,1,Intel Xeon E3-1225 v6,188.0
+NEC Corporation,1,Intel Xeon E3-1230 v6,201.0
+NEC Corporation,1,Intel Xeon E3-1240L v5,168.0
+NEC Corporation,1,Intel Xeon E3-1260L v5,186.0
+NEC Corporation,1,Intel Xeon E3-1270 v6,207.0
+NEC Corporation,1,Intel Xeon E5-2667 v4,366.0
+NEC Corporation,1,Intel Xeon E5-2699 v4,533.0
+NEC Corporation,2,Intel Xeon E5-2667 v4,714.0
+NEC Corporation,2,Intel Xeon E5-2699 v4,1040.0
+NEC Corporation,4,Intel Xeon E7-8867 v4,2090.0
+Nokia,2,Intel Xeon Platinum 8180,1660.0
+Sugon,2,AMD EPYC 7601,1670.0
+Sugon,2,Intel Xeon E5-2690 v4,935.0
+Supermicro,1,SSL-F ,201.0
+Supermicro,2,Intel Xeon Gold 6132,1210.0
+Supermicro,2,Intel Xeon Gold 6148,1460.0
+Supermicro,2,Intel Xeon Platinum 8180,1790.0
+Supermicro,4,Intel Xeon E7-4809 v4,916.0
+Supermicro,4,Intel Xeon E7-8891 v4,1660.0
+Supermicro,4,PH+,3470.0

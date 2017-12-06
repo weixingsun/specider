@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe2c75b5-bf3d-48e5-8752-33b47e905be2" name="Default" comment="" />
+    <list default="true" id="fe2c75b5-bf3d-48e5-8752-33b47e905be2" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CFP2017_rate.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CFP2017_rate_group.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CFP2017_speed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CFP2017_speed_group.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CINT2017_rate.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CINT2017_rate_group.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CINT2017_speed.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/CINT2017_speed_group.csv" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res2017q2.html" afterPath="$PROJECT_DIR$/cpu2017_res2017q2.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res2017q3.html" afterPath="$PROJECT_DIR$/cpu2017_res2017q3.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/res2017q4.html" afterPath="$PROJECT_DIR$/cpu2017_res2017q4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec.py" afterPath="$PROJECT_DIR$/spec.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +25,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="spec.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="spec.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/spec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="48" column="52" lean-forward="true" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
+            <state relative-caret-position="98">
+              <caret line="77" column="31" lean-forward="false" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cpu2017_res2017q2.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpu2017_res2017q2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="29">
+              <caret line="566" column="6" lean-forward="true" selection-start-line="566" selection-start-column="6" selection-end-line="566" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cpu2017_res2017q3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpu2017_res2017q3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="122" column="37" lean-forward="false" selection-start-line="122" selection-start-column="27" selection-end-line="122" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cpu2017_res2017q4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpu2017_res2017q4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="11">
+              <caret line="5880" column="24" lean-forward="false" selection-start-line="5880" selection-start-column="24" selection-end-line="5880" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cpu2006_res2017q4.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cpu2006_res2017q4.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="19652" column="37" lean-forward="false" selection-start-line="19652" selection-start-column="27" selection-end-line="19652" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cpu2006_res2017q3.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cpu2006_res2017q3.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="98">
+              <caret line="43362" column="37" lean-forward="false" selection-start-line="43362" selection-start-column="27" selection-end-line="43362" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -26,12 +90,28 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>pandas</find>
-      <find>Fujitsu</find>
       <find>Oracle</find>
       <find>UltraSPARC</find>
       <find>Ener</find>
       <find>AMD</find>
       <find>super</find>
+      <find>html</find>
+      <find>SPECint</find>
+      <find>cint2006</find>
+      <find>SPECfp_</find>
+      <find>SPECfp</find>
+      <find>X11DPU</find>
+      <find>div</find>
+      <find>Cores/Chip</find>
+      <find>nokia</find>
+      <find>Fujitsu</find>
+      <find>AMD</find>
+      <find>8180 2.5</find>
+      <find>Cisco Systems</find>
+      <find>6142M 2.60 GHz</find>
+      <find>&amp;nbsp;</find>
+      <find>wrote: SPECint_cpu2006.csv</find>
+      <find>UltraSPARK</find>
       <find>Supermicro</find>
     </findStrings>
   </component>
@@ -47,13 +127,19 @@
         <option value="$PROJECT_DIR$/res2017q2.html" />
         <option value="$PROJECT_DIR$/res2017q3.html" />
         <option value="$PROJECT_DIR$/CINT2017_speed_res2017q2.csv" />
+        <option value="$PROJECT_DIR$/SPECfp_cpu2006_res2017q3.csv" />
+        <option value="$PROJECT_DIR$/SPECfp_cpu2006_res2017q2.csv" />
+        <option value="$PROJECT_DIR$/cpu2006_res2017q1.html" />
+        <option value="$PROJECT_DIR$/cpu2006_res2017q2.html" />
+        <option value="$PROJECT_DIR$/cpu2006_res2017q4.html" />
         <option value="$PROJECT_DIR$/spec.py" />
+        <option value="$PROJECT_DIR$/cpu2006_res2017q3.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="235" />
-    <option name="y" value="53" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="207" />
+    <option name="y" value="84" />
     <option name="width" value="1104" />
     <option name="height" value="536" />
   </component>
@@ -167,16 +253,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17349927" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24816984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4400631" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22082019" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41009465" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -185,7 +273,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22082019" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -205,7 +292,7 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="4" />
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
@@ -244,55 +331,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res2017q4.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="5884" column="34" lean-forward="false" selection-start-line="5884" selection-start-column="27" selection-end-line="5884" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CINT2017_rate_res2017q2.csv" />
-    <entry file="file://$PROJECT_DIR$/CFP2017_speed_group.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2018">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CFP2017_speed.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2013">
-          <caret line="1" column="105" lean-forward="true" selection-start-line="1" selection-start-column="105" selection-end-line="1" selection-end-column="105" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res2017q2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="596" column="35" lean-forward="false" selection-start-line="596" selection-start-column="35" selection-end-line="596" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/res2017q3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="124" column="29" lean-forward="false" selection-start-line="124" selection-start-column="29" selection-end-line="124" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CINT2017_rate.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="160" lean-forward="false" selection-start-line="1" selection-start-column="160" selection-end-line="1" selection-end-column="181" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CINT2017_rate_group.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -333,22 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CFP2017_rate.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="153" lean-forward="true" selection-start-line="8" selection-start-column="153" selection-end-line="8" selection-end-column="153" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CFP2017_rate_group.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1767">
-          <caret line="93" column="59" lean-forward="true" selection-start-line="93" selection-start-column="59" selection-end-line="93" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CINT2017_speed_group.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1353">
@@ -357,10 +380,268 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CFP2017_rate_group.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="93" column="59" lean-forward="true" selection-start-line="93" selection-start-column="59" selection-end-line="93" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CFP2017_speed.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="105" lean-forward="true" selection-start-line="1" selection-start-column="105" selection-end-line="1" selection-end-column="105" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CFP2017_speed_group.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="46" lean-forward="true" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CINT2017_rate.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="160" lean-forward="false" selection-start-line="1" selection-start-column="160" selection-end-line="1" selection-end-column="181" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CFP2017_rate.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="112" lean-forward="false" selection-start-line="2" selection-start-column="107" selection-end-line="2" selection-end-column="112" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECfp_rate_cpu2006_res2017q2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECfp_cpu2006_res2017q4.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5051">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECfp_cpu2006_res2017q3.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="409" column="0" lean-forward="true" selection-start-line="409" selection-start-column="0" selection-end-line="409" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECfp_rate.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="1039" column="13" lean-forward="false" selection-start-line="1039" selection-start-column="7" selection-end-line="1039" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECint_rate_group.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8480">
+          <caret line="4" column="51" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECfp_rate_group.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECint_rate.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="1114" column="41" lean-forward="false" selection-start-line="1114" selection-start-column="35" selection-end-line="1114" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECint_cpu2006_res2017q4.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECint.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpu2006_res2017q1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="1052" column="34" lean-forward="false" selection-start-line="1052" selection-start-column="27" selection-end-line="1052" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECint_cpu2006_res2017q3.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7585">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECint_cpu2006_res2017q2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CFP2017_rate_cpu2017_group.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CFP2017_speed_cpu2017_group.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECint_cpu2006.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="113" lean-forward="false" selection-start-line="11" selection-start-column="113" selection-end-line="11" selection-end-column="113" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECfp_cpu2006_res2017q2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="60" column="11" lean-forward="false" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpu2006_res2017q2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13520">
+          <caret line="4563" column="58" lean-forward="false" selection-start-line="4563" selection-start-column="54" selection-end-line="4563" selection-end-column="58" />
+          <folding>
+            <element signature="e#150636#150642#0" expanded="false" />
+            <element signature="e#150642#150648#0" expanded="false" />
+            <element signature="e#158012#158018#0" expanded="false" />
+            <element signature="e#158018#158024#0" expanded="false" />
+            <element signature="e#158057#158063#0" expanded="false" />
+            <element signature="e#185152#185158#0" expanded="false" />
+            <element signature="e#185158#185164#0" expanded="false" />
+            <element signature="e#185196#185202#0" expanded="false" />
+            <element signature="e#185202#185208#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECfp_cpu2006_group.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.2/system/python_stubs/1013586911/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="477" column="4" lean-forward="false" selection-start-line="477" selection-start-column="4" selection-end-line="477" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECfp_rate_cpu2006.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="1166" column="76" lean-forward="true" selection-start-line="1166" selection-start-column="76" selection-end-line="1166" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SPECfp_cpu2006.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15812">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/spec.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="48" column="52" lean-forward="true" selection-start-line="48" selection-start-column="52" selection-end-line="48" selection-end-column="52" />
+        <state relative-caret-position="98">
+          <caret line="77" column="31" lean-forward="false" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpu2017_res2017q2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="566" column="6" lean-forward="true" selection-start-line="566" selection-start-column="6" selection-end-line="566" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpu2017_res2017q3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="122" column="37" lean-forward="false" selection-start-line="122" selection-start-column="27" selection-end-line="122" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpu2017_res2017q4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="5880" column="24" lean-forward="false" selection-start-line="5880" selection-start-column="24" selection-end-line="5880" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpu2006_res2017q4.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="19652" column="37" lean-forward="false" selection-start-line="19652" selection-start-column="27" selection-end-line="19652" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cpu2006_res2017q3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="43362" column="37" lean-forward="false" selection-start-line="43362" selection-start-column="27" selection-end-line="43362" selection-end-column="37" />
           <folding />
         </state>
       </provider>
