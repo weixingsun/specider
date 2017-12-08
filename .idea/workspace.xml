@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe2c75b5-bf3d-48e5-8752-33b47e905be2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CFP2017_rate.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CFP2017_rate_group.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CFP2017_speed.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CFP2017_speed_group.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CINT2017_rate.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CINT2017_rate_group.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CINT2017_speed.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CINT2017_speed_group.csv" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/res2017q2.html" afterPath="$PROJECT_DIR$/cpu2017_res2017q2.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/res2017q3.html" afterPath="$PROJECT_DIR$/cpu2017_res2017q3.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/res2017q4.html" afterPath="$PROJECT_DIR$/cpu2017_res2017q4.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPECfp_cpu2006.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPECfp_cpu2006_group.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPECfp_rate_cpu2006.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPECfp_rate_cpu2006_group.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPECint_cpu2006.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPECint_cpu2006_group.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPECint_rate_cpu2006.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SPECint_rate_cpu2006_group.csv" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/querycsv2.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/querycsv_redux.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cpu2006_res2017q4.html" afterPath="$PROJECT_DIR$/cpu2006_res2017q4.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cpu2017_res2017q4.html" afterPath="$PROJECT_DIR$/cpu2017_res2017q4.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec.py" afterPath="$PROJECT_DIR$/spec.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,61 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="spec.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="spec.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="77" column="31" lean-forward="false" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cpu2017_res2017q2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpu2017_res2017q2.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
-              <caret line="566" column="6" lean-forward="true" selection-start-line="566" selection-start-column="6" selection-end-line="566" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cpu2017_res2017q3.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpu2017_res2017q3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="122" column="37" lean-forward="false" selection-start-line="122" selection-start-column="27" selection-end-line="122" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cpu2017_res2017q4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpu2017_res2017q4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11">
-              <caret line="5880" column="24" lean-forward="false" selection-start-line="5880" selection-start-column="24" selection-end-line="5880" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cpu2006_res2017q4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cpu2006_res2017q4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="19652" column="37" lean-forward="false" selection-start-line="19652" selection-start-column="27" selection-end-line="19652" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cpu2006_res2017q3.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/cpu2006_res2017q3.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="43362" column="37" lean-forward="false" selection-start-line="43362" selection-start-column="27" selection-end-line="43362" selection-end-column="37" />
+            <state relative-caret-position="0">
+              <caret line="0" column="49" lean-forward="true" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -132,12 +83,13 @@
         <option value="$PROJECT_DIR$/cpu2006_res2017q1.html" />
         <option value="$PROJECT_DIR$/cpu2006_res2017q2.html" />
         <option value="$PROJECT_DIR$/cpu2006_res2017q4.html" />
-        <option value="$PROJECT_DIR$/spec.py" />
         <option value="$PROJECT_DIR$/cpu2006_res2017q3.html" />
+        <option value="$PROJECT_DIR$/cpu2017_res2017q4.html" />
+        <option value="$PROJECT_DIR$/spec.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="207" />
     <option name="y" value="84" />
     <option name="width" value="1104" />
@@ -253,16 +205,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24816984" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25642964" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22082019" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.7545008" sideWeight="0.49394855" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.41009465" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4091653" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -516,22 +468,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CFP2017_rate_cpu2017_group.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CFP2017_speed_cpu2017_group.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SPECint_cpu2006.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -598,18 +534,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spec.py">
+    <entry file="file://$PROJECT_DIR$/cpu2006_res2017q3.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="77" column="31" lean-forward="false" selection-start-line="77" selection-start-column="31" selection-end-line="77" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cpu2017_res2017q2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="566" column="6" lean-forward="true" selection-start-line="566" selection-start-column="6" selection-end-line="566" selection-end-column="6" />
+        <state relative-caret-position="155">
+          <caret line="43365" column="46" lean-forward="false" selection-start-line="43365" selection-start-column="42" selection-end-line="43365" selection-end-column="46" />
           <folding />
         </state>
       </provider>
@@ -622,26 +550,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cpu2017_res2017q4.html">
+    <entry file="file://$PROJECT_DIR$/cpu2017_res2017q2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11">
-          <caret line="5880" column="24" lean-forward="false" selection-start-line="5880" selection-start-column="24" selection-end-line="5880" selection-end-column="24" />
+        <state relative-caret-position="29">
+          <caret line="566" column="6" lean-forward="true" selection-start-line="566" selection-start-column="6" selection-end-line="566" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CFP2017_rate_cpu2017_group.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="94" column="0" lean-forward="true" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CINT2017_rate_cpu2017_group.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CFP2017_speed_cpu2017_group.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1392">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cpu2006_res2017q4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="19652" column="37" lean-forward="false" selection-start-line="19652" selection-start-column="27" selection-end-line="19652" selection-end-column="37" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cpu2006_res2017q3.html">
+    <entry file="file://$PROJECT_DIR$/cpu2017_res2017q4.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="43362" column="37" lean-forward="false" selection-start-line="43362" selection-start-column="27" selection-end-line="43362" selection-end-column="37" />
+        <state relative-caret-position="-38032">
+          <caret line="8699" column="40" lean-forward="true" selection-start-line="8699" selection-start-column="40" selection-end-line="8699" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="49" lean-forward="true" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
           <folding />
         </state>
       </provider>

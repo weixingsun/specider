@@ -1,0 +1,83 @@
+,,,Base
+,,,max
+Company,EnabledChips,CPU,
+Cisco Systems,2,Intel Xeon Gold 5118,7.62
+Cisco Systems,2,Intel Xeon Gold 5120,7.71
+Cisco Systems,2,Intel Xeon Gold 6132,8.71
+Cisco Systems,2,Intel Xeon Gold 6146,9.79
+Cisco Systems,2,Intel Xeon Gold 6150,8.93
+Cisco Systems,2,Intel Xeon Gold 6154,8.92
+Cisco Systems,2,Intel Xeon Platinum 8156,8.26
+Cisco Systems,2,Intel Xeon Platinum 8158,8.87
+Cisco Systems,4,Intel Xeon Gold 6140,8.87
+Cisco Systems,4,Intel Xeon Gold 6146,9.88
+Cisco Systems,4,Intel Xeon Platinum 8158,8.87
+Cisco Systems,4,Intel Xeon Platinum 8170,9.04
+Dell Inc.,4,Intel Xeon Gold 6144,9.76
+Dell Inc.,4,Intel Xeon Platinum 8153,6.98
+Dell Inc.,4,Intel Xeon Platinum 8156,8.48
+Dell Inc.,4,Intel Xeon Platinum 8158,8.87
+Dell Inc.,4,Intel Xeon Platinum 8160,9.03
+Dell Inc.,4,Intel Xeon Platinum 8164,9.09
+Dell Inc.,4,Intel Xeon Platinum 8168,9.0
+Dell Inc.,4,Intel Xeon Platinum 8170,9.09
+Dell Inc.,4,Intel Xeon Platinum 8176,9.32
+Dell Inc.,4,Intel Xeon Platinum 8180,9.33
+HPE,2,Intel Xeon E5-2699 v4,5.8
+HPE,2,Intel Xeon Gold 5122,8.17
+HPE,2,Intel Xeon Gold 6126,8.63
+HPE,2,Intel Xeon Gold 6128,8.32
+HPE,2,Intel Xeon Gold 6130,8.75
+HPE,2,Intel Xeon Gold 6132,8.64
+HPE,2,Intel Xeon Gold 6134,8.77
+HPE,2,Intel Xeon Gold 6136,8.8
+HPE,2,Intel Xeon Gold 6138,8.84
+HPE,2,Intel Xeon Gold 6140,8.8
+HPE,2,Intel Xeon Gold 6142,8.76
+HPE,2,Intel Xeon Gold 6143,9.31
+HPE,2,Intel Xeon Gold 6144,9.69
+HPE,2,Intel Xeon Gold 6146,9.73
+HPE,2,Intel Xeon Gold 6148,8.88
+HPE,2,Intel Xeon Gold 6150,8.8
+HPE,2,Intel Xeon Gold 6152,8.91
+HPE,2,Intel Xeon Gold 6154,8.83
+HPE,2,Intel Xeon Platinum 8153,6.9
+HPE,2,Intel Xeon Platinum 8156,8.17
+HPE,2,Intel Xeon Platinum 8158,8.78
+HPE,2,Intel Xeon Platinum 8160,8.92
+HPE,2,Intel Xeon Platinum 8164,8.98
+HPE,2,Intel Xeon Platinum 8168,8.95
+HPE,2,Intel Xeon Platinum 8170,8.96
+HPE,2,Intel Xeon Platinum 8176,9.19
+HPE,2,Intel Xeon Platinum 8180,9.2
+HPE,2,Intel Xeon Platinum 8180M,9.23
+HPE,2,Intel Xeon Silver 4108,6.87
+HPE,2,Intel Xeon Silver 4110,6.89
+HPE,2,Intel Xeon Silver 4112,6.63
+HPE,2,Intel Xeon Silver 4114,7.02
+HPE,2,Intel Xeon Silver 4116,7.08
+HPE,4,Intel Xeon E7-8890 v4,5.35
+HPE,4,Intel Xeon Platinum 8153,6.89
+HPE,4,Intel Xeon Platinum 8156,8.44
+HPE,4,Intel Xeon Platinum 8158,8.75
+HPE,4,Intel Xeon Platinum 8160,8.86
+HPE,16,Intel Xeon E7-8890 v4,5.31
+Huawei,2,Intel Xeon Platinum 8180,9.47
+Lenovo Global Technology,1,Intel Xeon Platinum 8180,9.34
+Lenovo Global Technology,2,Intel Xeon Gold 6126T,8.63
+Lenovo Global Technology,2,Intel Xeon Gold 6138,8.91
+Lenovo Global Technology,2,Intel Xeon Gold 6150,8.83
+Lenovo Global Technology,2,Intel Xeon Gold 6152,8.89
+Lenovo Global Technology,2,Intel Xeon Platinum 8160,9.0
+Lenovo Global Technology,2,Intel Xeon Platinum 8164,9.02
+Lenovo Global Technology,2,Intel Xeon Platinum 8170,9.06
+Lenovo Global Technology,2,Intel Xeon Platinum 8180,9.31
+Lenovo Global Technology,2,Intel Xeon Silver 4110,6.91
+Lenovo Global Technology,2,Intel Xeon Silver 4114,7.03
+Lenovo Global Technology,4,Intel Xeon Gold 6140,8.9
+Lenovo Global Technology,4,Intel Xeon Platinum 8168,9.05
+Lenovo Global Technology,4,Intel Xeon Platinum 8170,9.1
+Lenovo Global Technology,4,Intel Xeon Platinum 8170M,9.06
+Lenovo Global Technology,4,Intel Xeon Platinum 8180,9.34
+Lenovo Global Technology,8,Intel Xeon Platinum 8180,9.37
+Oracle Corporation,4,UltraSPARC IV+,1.0

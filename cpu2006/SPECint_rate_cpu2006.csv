@@ -949,7 +949,7 @@ Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6134M, 3.20GHz)",64,32,4,8,2,2
 Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 6140M, 2.30GHz)",144,72,4,18,2,3500.0,3680,Intel Xeon Gold 6140M
 Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Gold 5115, 2.40GHz)",80,40,4,10,2,1900.0,2010,Intel Xeon Gold 5115
 Cisco Systems,"Cisco UCS C480 M5 (Intel Xeon Platinum 8176M, 2.10GHz)",224,112,4,28,2,4760.0,4960,Intel Xeon Platinum 8176M
-Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6142M, 2.60 GHz)",64,32,2,16,2,1740.0,1840,Intel Xeon Gold 6142M
+Cisco Systems,Cisco UCS C240 M5 (Intel Xeon Gold 6142M 2.60 GHz),64,32,2,16,2,1740.0,1840,Intel Xeon Gold 6142M 2.60 GHz
 Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8170M, 2.10GHz)",104,52,2,26,2,2350.0,2460,Intel Xeon Platinum 8170M
 Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Gold 6134M, 3.20GHz)",32,16,2,8,2,1060.0,1120,Intel Xeon Gold 6134M
 Cisco Systems,"Cisco UCS C240 M5 (Intel Xeon Platinum 8176M, 2.10GHz)",112,56,2,28,2,2510.0,2600,Intel Xeon Platinum 8176M
@@ -1015,12 +1015,12 @@ Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8160, 2.10 GHz)",192,96,4,24,2,42
 Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8158, 3.00 GHz)",96,48,4,12,2,2910.0,3070,Intel Xeon Platinum 8158
 Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8156, 3.60 GHz)",32,16,4,4,2,1090.0,1160,Intel Xeon Platinum 8156
 Dell Inc.,"PowerEdge R940 (Intel Xeon Platinum 8153, 2.00 GHz)",128,64,4,16,2,2640.0,2810,Intel Xeon Platinum 8153
-Fujitsu,"PRIMEQUEST 3800B, (Intel Xeon Platinum 8180, 2.50GHz)",447,224,8,28,2,11400.0,11800,Intel Xeon Platinum 8180
-Fujitsu,"PRIMERGY RX2540 M4, (Intel Xeon Platinum 8180, 2.50GHz)",112,56,2,28,2,2870.0,Not Run,Intel Xeon Platinum 8180
-Fujitsu,"PRIMERGY RX2540 M4, (Intel Xeon Gold 6148, 2.40GHz)",80,40,2,20,2,1960.0,Not Run,Intel Xeon Gold 6148
-Fujitsu,"PRIMERGY TX1330 M3, (Intel Xeon E3-1220 v6, 3.0 GHz)",4,4,1,4,1,200.0,Not Run,Intel Xeon E3-1220 v6
-Fujitsu,"PRIMERGY TX1330 M3, (Intel Xeon E3-1225 v6, 3.3 GHz)",4,4,1,4,1,210.0,Not Run,Intel Xeon E3-1225 v6
-Fujitsu,"PRIMEQUEST 3800E, (Intel Xeon Platinum 8180, 2.50GHz)",447,224,8,28,2,11300.0,Not Run,Intel Xeon Platinum 8180
+Fujitsu,"PRIMEQUEST 3800B, Intel Xeon Platinum 8180, 2.50GHz",447,224,8,28,2,11400.0,11800,
+Fujitsu,"PRIMERGY RX2540 M4, Intel Xeon Platinum 8180, 2.50GHz",112,56,2,28,2,2870.0,Not Run,
+Fujitsu,"PRIMERGY RX2540 M4, Intel Xeon Gold 6148, 2.40GHz",80,40,2,20,2,1960.0,Not Run,
+Fujitsu,"PRIMERGY TX1330 M3, Intel Xeon E3-1220 v6, 3.0 GHz",4,4,1,4,1,200.0,Not Run,
+Fujitsu,"PRIMERGY TX1330 M3, Intel Xeon E3-1225 v6, 3.3 GHz",4,4,1,4,1,210.0,Not Run,
+Fujitsu,"PRIMEQUEST 3800E, Intel Xeon Platinum 8180, 2.50GHz",447,224,8,28,2,11300.0,Not Run,
 HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Platinum 8170)",104,52,2,26,2,2260.0,Not Run,Intel Xeon Platinum 8170
 HPE,"ProLiant DL380 Gen10 (2.10 GHz, Intel Xeon Platinum 8176)",112,56,2,28,2,2390.0,Not Run,Intel Xeon Platinum 8176
 HPE,"ProLiant DL360 Gen10 (2.40 GHz, Intel Xeon Gold 6148)",80,40,2,20,2,1910.0,Not Run,Intel Xeon Gold 6148
@@ -1275,6 +1275,6 @@ Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8170)
 Lenovo Global Technology,"ThinkSystem SR950 (2.10 GHz, Intel Xeon Platinum 8170M)",208,104,4,26,2,4600.0,4810,Intel Xeon Platinum 8170M
 Lenovo Global Technology,"ThinkSystem SR950 (2.30 GHz, Intel Xeon Gold 6140)",144,72,4,18,2,3550.0,3740,Intel Xeon Gold 6140
 Lenovo Global Technology,"ThinkSystem SR950 (2.70 GHz, Intel Xeon Platinum 8168)",192,96,4,24,2,4930.0,5140,Intel Xeon Platinum 8168
-Supermicro,SuperServer 1029U-TN10RT (Intel Xeon Gold 5118),48,24,2,12,2,1110.0,1180,Intel Xeon Gold 5118
-Supermicro,SuperServer 1029U-TN10RT (Intel Xeon Gold 6148),80,40,2,20,2,1990.0,2090,Intel Xeon Gold 6148
-Supermicro,SuperServer 1029U-TR4 (Intel Xeon Gold 6132),56,28,2,14,2,1530.0,1620,Intel Xeon Gold 6132
+Supermicro,"SuperServer 1029U-TN10RT (X11DPU , Intel Xeon Gold 5118)",48,24,2,12,2,1110.0,1180,DPU 
+Supermicro,"SuperServer 1029U-TN10RT (X11DPU , Intel Xeon Gold 6148)",80,40,2,20,2,1990.0,2090,DPU 
+Supermicro,"SuperServer 1029U-TR4 (X11DPU , Intel Xeon Gold 6132)",56,28,2,14,2,1530.0,1620,DPU 

@@ -1,4 +1,4 @@
-import os,glob,requests,pandas,bs4,datetime,querycsv_redux,numpy
+import os,glob,requests,pandas,bs4,datetime,numpy
 
 def ascii_chars(string):
   return ''.join(char for char in string if ord(char) < 128)
@@ -75,7 +75,7 @@ def quarter(bmk,y,q):
     name=bmk+'_res'+str(y)+'q'+str(q)
     if os.path.exists(name+'.html'):
         soup = bs4.BeautifulSoup(open(name+'.html'), "lxml")
-        print(str(y)+'q'+str(q))
+        print(bmk+'_'+str(y)+'q'+str(q))
         if bmk == 'cpu2017':
             get_section(soup, "CINT2017_rate", name)
             get_section(soup, "CFP2017_rate", name)
@@ -159,7 +159,7 @@ def benchmark(bmk):
     q = get_quarter(datetime.datetime.now())
     before(bmk,y,q)
     #download(bmk,2017,4)
-    #download(bmk,y,q)
+    download(bmk,y,q)
     quarter(bmk,y,q)
     merge_csv_all(bmk)
     delete_csv("res")
