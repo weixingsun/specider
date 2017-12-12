@@ -3,7 +3,6 @@ import os,glob,requests,pandas,bs4,datetime,numpy
 def ascii_chars(string):
   return ''.join(char for char in string if ord(char) < 128)
 
-
 def write_csv(fname, mode, rows):
   with open(fname, mode) as f:
     for row in rows:
@@ -11,7 +10,6 @@ def write_csv(fname, mode, rows):
         f.write(td + ',')
       if row:
         f.write('\n')
-
 
 def table2list(table):
   rows = []
@@ -26,14 +24,12 @@ def table2list(table):
     rows.append(values)
   return rows
 
-
 def download(bmk, y, q):
   url = 'http://spec.org/'+bmk+'/results/res'+str(y)+'q' + str(q)
   name = url.split('/')[-1]
   f = open(bmk+'_'+name+'.html', 'wb')
   f.write(requests.get(url).content)
   f.close()
-
 
 def replace_list_item(items,if_value,value):
     return [value if if_value==x else x for x in items]
@@ -55,10 +51,8 @@ def find_headers(div):
   headers = replace_list_item(headers, "Cores/Chip", "CoresPerChip")
   return headers
 
-
 def get_quarter(date):
   return int((date.month - 1) / 3 + 1)
-
 
 def get_section(soup, tname, fname):
   dname=tname+'div'
@@ -69,7 +63,6 @@ def get_section(soup, tname, fname):
   csv_fname = tname +'_'+ fname + '.csv'
   write_csv(csv_fname, 'w', [headers])
   write_csv(csv_fname, 'a', table2list(intrate))
-
 
 def quarter(bmk,y,q):
     name=bmk+'_res'+str(y)+'q'+str(q)
@@ -87,7 +80,6 @@ def quarter(bmk,y,q):
             get_section(soup, "SPECint", name)
             get_section(soup, "SPECfp", name)
 
-
 def before(bmk,y,q):
     # '2015q1', '2015q2', '2015q3', '2015q4', '2016q1', '2016q2', '2016q3', '2016q4',
     for yq in [ '2017q1', '2017q2', '2017q3', '2017q4', '2018q1', '2018q2', '2018q3', '2018q4']:
@@ -102,7 +94,6 @@ def find_cpu_name(list):
     for item in list:
         if item.strip().startswith("Intel") or item.strip().startswith("AMD") or item.strip().startswith("SPARC") or item.strip().startswith("UltraSPARC"):
             return item
-
 
 def get_simple_name(CPU_NAME):
     names = str(CPU_NAME).split(',')
@@ -159,7 +150,7 @@ def benchmark(bmk):
     q = get_quarter(datetime.datetime.now())
     before(bmk,y,q)
     #download(bmk,2017,4)
-    download(bmk,y,q)
+    #download(bmk,y,q)
     quarter(bmk,y,q)
     merge_csv_all(bmk)
     delete_csv("res")
