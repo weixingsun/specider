@@ -1,0 +1,8 @@
+rint2006	SPECint_rate
+rint2017	CINT2017_rate
+cint2006	SPECint
+cint2017	CINT2017_speed
+rfp2006	SPECfp_rate
+rfp2017	CFP2017_rate
+cfp2006	SPECfp
+cfp2017	CFP2017_speed
