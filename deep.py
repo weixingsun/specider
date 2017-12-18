@@ -1,4 +1,4 @@
-import os,glob,requests,pandas,bs4,datetime,numpy
+import os,glob,requests,pandas,bs4,time,numpy,random
 
 def ascii_chars(string):
     return ''.join(char for char in string if ord(char) < 128)
@@ -11,22 +11,52 @@ def write_csv(fname, mode, rows):
             if row:
                 f.write('\n')
 
+def proc_os(rname):
+    name = rname.lower()
+    if name.startswith('64'):
+        return name.replace('64 - Bit','')
+    elif name.startswith('redhat'):
+        return name.replace('(Santiago)','RHEL 6.5')
+    else:
+        return name
+
+def get_txt_value(fname,k1,k2):
+    values = get_line(fname, k1)
+    if values is not None:
+        return values.split(':')[1].strip()
+    else:
+        return get_line(fname, k2).split(':')[1].strip()
+
 def table2list(table):
     rows = []
-    txt_link = ""
+    # txt_link = ""
     for row in table.tbody.find_all('tr'):
         values0 = [val.text for val in row.find_all('td')]
         if len(values0) > 0:
             values = []
             ass = row.find_all('a')
             txt_link = ass[2]['href']
-            download_txt(txt_link)
+            f = download_txt(txt_link)
             for v in values0:
                 pv = ascii_chars(v.splitlines()[0])
                 #pv.replace('&nbsp;','')
                 #pv.replace('Not Run','-1')
                 values.append('"' + pv + '"')
             values.append('"' + txt_link + '"')
+            try:
+                cpu = get_txt_value(f, 'CPU Name:','')
+                bhz = get_txt_value(f, 'Nominal:', 'CPU MHz:')
+                mhz = get_txt_value(f, 'Max MHz.:', 'CPU MHz:')
+                osn = get_txt_value(f, "Operating System:", "OS:")
+                mem = get_txt_value(f, 'Memory:', '')
+                values.append('"' + cpu + '"')
+                values.append('"' + bhz + '"')
+                values.append('"' + mhz + '"')
+                values.append('"' + mem + '"')
+                values.append('"' + osn + '"')
+            except:
+                pass
+                #print('error: '+txt_link) # txt file corrupt
             rows.append(values)
     return rows
 
@@ -50,6 +80,11 @@ def find_headers(div):
     headers = replace_list_item(headers,"Threads/Core","ThreadsPerCore")
     headers = replace_list_item(headers, "Cores/Chip", "CoresPerChip")
     headers.append("txt")
+    headers.append("cpu")
+    headers.append("bhz")
+    headers.append("mhz")
+    headers.append("mem")
+    headers.append("os")
     return headers
 
 def get_section(soup, tname, fname):
@@ -61,6 +96,7 @@ def get_section(soup, tname, fname):
     csv_fname = tname +'_'+ fname + '.csv'
     write_csv(csv_fname, 'w', [headers])
     write_csv(csv_fname, 'a', table2list(content))
+    time.sleep(random.randint(2,4))
 
 def read_cfg(k):
     with open("map.txt", "r") as fi:
@@ -86,14 +122,6 @@ def find_between( s, first, last ):
     except ValueError:
         return ""
 
-def find_between_r( s, first, last ):
-    try:
-        start = s.rindex( first ) + len( first )
-        end = s.rindex( last, start )
-        return s[start:end]
-    except ValueError:
-        return ""
-
 def download_txt(fname):
     bmk=find_between( fname, "/", "-2" )
     dir0 = 'txt/'+bmk
@@ -107,6 +135,15 @@ def download_txt(fname):
         f = open(f, 'wb')
         f.write(requests.get(url).content)
         f.close()
+    return f
+
+def get_line(file,pattern):
+    with open(file,'rb') as f:
+        lines = [l.decode('utf8', 'ignore') for l in f.readlines()]
+        #lines = [x.decode('utf8').strip() for x in f.readlines()]
+        for line in lines:
+            if pattern in line:
+                return line
 
 def run_cpu2017():
     benchmark('cint2017')
@@ -121,4 +158,5 @@ def run_cpu2006():
     #benchmark('rfp2006')
 ####################################################
 #delete_csv("")
-run_cpu2006()
+#run_cpu2006()
+run_cpu2017()
