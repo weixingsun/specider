@@ -82,7 +82,7 @@ def quarter(bmk,y,q):
 
 def before(bmk,y,q):
     # '2015q1', '2015q2', '2015q3', '2015q4', '2016q1', '2016q2', '2016q3', '2016q4',
-    for yq in [ '2017q1', '2017q2', '2017q3', '2017q4', '2018q1', '2018q2', '2018q3', '2018q4']:
+    for yq in [ '2017q1', '2017q2', '2017q3', '2017q4', '2018q1', '2018q2', '2018q3', '2018q4', '2019q1', '2019q2']:
         if yq == str(y) + 'q' + str(q):
             return
         else:
@@ -149,7 +149,8 @@ def benchmark(bmk):
     y = datetime.datetime.now().year
     q = get_quarter(datetime.datetime.now())
     before(bmk,y,q)
-    #download(bmk,2017,4)
+    download(bmk,2019,2)
+    
     #download(bmk,y,q)
     quarter(bmk,y,q)
     merge_csv_all(bmk)
