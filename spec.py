@@ -155,5 +155,5 @@ def benchmark(bmk):
     merge_csv_all(bmk)
     delete_csv("res")
 ####################################################
-#benchmark('cpu2017')
-benchmark('cpu2006')
+benchmark('cpu2017')
+#benchmark('cpu2006')
